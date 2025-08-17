@@ -1,0 +1,300 @@
+Ajustando caminhos para os dados...
+[OK] Carregado: TrainingData_2F_Original.txt (train) | TestingData_2F_Original.txt (test)
+[OK] Carregado: TrainingData_2F_Norm.txt (train) | TestingData_2F_Norm.txt (test)
+
+*** EXPERIMENTO A: 2 features (original vs normalizado), k in {1,3,5,7} ***
+
+================================================================================
+[A] Originais 2F | k=1
+================================================================================
+Acurácia: 0.750
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=0
+    k-vizinhos (ID, dist):
+      T21  (d=0.4000)
+  Teste N2: y_true=0 | y_pred=0
+    k-vizinhos (ID, dist):
+      T10  (d=1.0595)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0100)
+  Teste N4: y_true=1 | y_pred=0
+    k-vizinhos (ID, dist):
+      T9  (d=1.0846)
+
+================================================================================
+[A] Normalizados 2F | k=1
+================================================================================
+Acurácia: 0.500
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T27  (d=0.0170)
+  Teste N2: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T31  (d=0.1018)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0140)
+  Teste N4: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T32  (d=0.0870)
+
+================================================================================
+[A] Originais 2F | k=3
+================================================================================
+Acurácia: 0.500
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T21  (d=0.4000)
+      T27  (d=1.0000)
+      T30  (d=1.1136)
+  Teste N2: y_true=0 | y_pred=0
+    k-vizinhos (ID, dist):
+      T10  (d=1.0595)
+      T37  (d=2.0012)
+      T4  (d=5.5082)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0100)
+      T28  (d=1.0002)
+      T15  (d=2.0568)
+  Teste N4: y_true=1 | y_pred=0
+    k-vizinhos (ID, dist):
+      T9  (d=1.0846)
+      T26  (d=2.0110)
+      T16  (d=2.0881)
+
+================================================================================
+[A] Normalizados 2F | k=3
+================================================================================
+Acurácia: 0.250
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T27  (d=0.0170)
+      T11  (d=0.0424)
+      T40  (d=0.1105)
+  Teste N2: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T31  (d=0.1018)
+      T37  (d=0.1042)
+      T12  (d=0.1501)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0140)
+      T28  (d=0.0298)
+      T41  (d=0.0768)
+  Teste N4: y_true=1 | y_pred=0
+    k-vizinhos (ID, dist):
+      T32  (d=0.0870)
+      T7  (d=0.1420)
+      T8  (d=0.1613)
+
+================================================================================
+[A] Originais 2F | k=5
+================================================================================
+Acurácia: 0.250
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T21  (d=0.4000)
+      T27  (d=1.0000)
+      T30  (d=1.1136)
+      T25  (d=2.0143)
+      T11  (d=4.0000)
+  Teste N2: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T10  (d=1.0595)
+      T37  (d=2.0012)
+      T4  (d=5.5082)
+      T36  (d=6.0030)
+      T31  (d=9.0001)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0100)
+      T28  (d=1.0002)
+      T15  (d=2.0568)
+      T41  (d=3.0004)
+      T35  (d=4.0008)
+  Teste N4: y_true=1 | y_pred=0
+    k-vizinhos (ID, dist):
+      T9  (d=1.0846)
+      T26  (d=2.0110)
+      T16  (d=2.0881)
+      T11  (d=2.1061)
+      T25  (d=4.0241)
+
+================================================================================
+[A] Normalizados 2F | k=5
+================================================================================
+Acurácia: 0.750
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=0
+    k-vizinhos (ID, dist):
+      T27  (d=0.0170)
+      T11  (d=0.0424)
+      T40  (d=0.1105)
+      T15  (d=0.1215)
+      T16  (d=0.1338)
+  Teste N2: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T31  (d=0.1018)
+      T37  (d=0.1042)
+      T12  (d=0.1501)
+      T34  (d=0.1677)
+      T22  (d=0.1736)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0140)
+      T28  (d=0.0298)
+      T41  (d=0.0768)
+      T30  (d=0.0960)
+      T35  (d=0.1213)
+  Teste N4: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T32  (d=0.0870)
+      T7  (d=0.1420)
+      T8  (d=0.1613)
+      T38  (d=0.2577)
+      T30  (d=0.2844)
+
+================================================================================
+[A] Originais 2F | k=7
+================================================================================
+Acurácia: 0.250
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T21  (d=0.4000)
+      T27  (d=1.0000)
+      T30  (d=1.1136)
+      T25  (d=2.0143)
+      T11  (d=4.0000)
+      T7  (d=4.0447)
+      T40  (d=5.0005)
+  Teste N2: y_true=0 | y_pred=1
+    k-vizinhos (ID, dist):
+      T10  (d=1.0595)
+      T37  (d=2.0012)
+      T4  (d=5.5082)
+      T36  (d=6.0030)
+      T31  (d=9.0001)
+      T24  (d=9.0050)
+      T3  (d=11.0005)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0100)
+      T28  (d=1.0002)
+      T15  (d=2.0568)
+      T41  (d=3.0004)
+      T35  (d=4.0008)
+      T18  (d=4.0264)
+      T8  (d=5.0010)
+  Teste N4: y_true=1 | y_pred=0
+    k-vizinhos (ID, dist):
+      T9  (d=1.0846)
+      T26  (d=2.0110)
+      T16  (d=2.0881)
+      T11  (d=2.1061)
+      T25  (d=4.0241)
+      T20  (d=5.0291)
+      T21  (d=6.0065)
+
+================================================================================
+[A] Normalizados 2F | k=7
+================================================================================
+Acurácia: 1.000
+Predições por instância de teste:
+  Teste N1: y_true=0 | y_pred=0
+    k-vizinhos (ID, dist):
+      T27  (d=0.0170)
+      T11  (d=0.0424)
+      T40  (d=0.1105)
+      T15  (d=0.1215)
+      T16  (d=0.1338)
+      T33  (d=0.1461)
+      T18  (d=0.1464)
+  Teste N2: y_true=0 | y_pred=0
+    k-vizinhos (ID, dist):
+      T31  (d=0.1018)
+      T37  (d=0.1042)
+      T12  (d=0.1501)
+      T34  (d=0.1677)
+      T22  (d=0.1736)
+      T3  (d=0.1839)
+      T1  (d=0.1846)
+  Teste N3: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T29  (d=0.0140)
+      T28  (d=0.0298)
+      T41  (d=0.0768)
+      T30  (d=0.0960)
+      T35  (d=0.1213)
+      T8  (d=0.1523)
+      T7  (d=0.1632)
+  Teste N4: y_true=1 | y_pred=1
+    k-vizinhos (ID, dist):
+      T32  (d=0.0870)
+      T7  (d=0.1420)
+      T8  (d=0.1613)
+      T38  (d=0.2577)
+      T30  (d=0.2844)
+      T44  (d=0.2860)
+      T14  (d=0.2922)
+
+*** EXPERIMENTO B: k=5, 2F não normalizado; vizinhos da N1, N2, N3, N4 ***
+
+[B] Vizinhos de N1:
+   T21 (d=0.4000)
+   T27 (d=1.0000)
+   T30 (d=1.1136)
+   T25 (d=2.0143)
+   T11 (d=4.0000)
+
+[B] Vizinhos de N2:
+   T10 (d=1.0595)
+   T37 (d=2.0012)
+   T4 (d=5.5082)
+   T36 (d=6.0030)
+   T31 (d=9.0001)
+
+[B] Vizinhos de N3:
+   T29 (d=0.0100)
+   T28 (d=1.0002)
+   T15 (d=2.0568)
+   T41 (d=3.0004)
+   T35 (d=4.0008)
+
+[B] Vizinhos de N4:
+   T9 (d=1.0846)
+   T26 (d=2.0110)
+   T16 (d=2.0881)
+   T11 (d=2.1061)
+   T25 (d=4.0241)
+
+*** EXPERIMENTO C: k=5 em dados NORMALIZADOS (2F e 11F), perturbar citric acid da N4 ***
+[OK] Carregado: TrainingData_11F_Norm.txt (train) | TestingData_11F_Norm.txt (test)
+
+[C] Modelo: 2 atributos normalizados | k=5
+    Instância N4 original: y_true=1 | y_pred=1
+    k-vizinhos originais (ID, dist):
+      T32  (d=0.0870)
+      T7  (d=0.1420)
+      T8  (d=0.1613)
+      T38  (d=0.2577)
+      T30  (d=0.2844)
+    [!] Coluna 'citric acid' não existe neste dataset; pulando perturbações.
+
+[C] Modelo: 11 atributos normalizados | k=5
+    Instância N4 original: y_true=1 | y_pred=0
+    k-vizinhos originais (ID, dist):
+      T30  (d=1.9242)
+      T1  (d=2.0453)
+      T8  (d=2.0469)
+      T7  (d=2.4622)
+      T6  (d=2.4982)
+    [!] Coluna 'citric acid' não existe neste dataset; pulando perturbações.
+
+=== FIM ===
