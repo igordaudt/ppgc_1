@@ -24,4 +24,14 @@ pandas
 matplotlib
 ```
 2. Criar arquivo de código python
-- knn_vinhos.py
+- knn_vinhos.py (ver o código no arquivo)
+
+3. versão criada com Streamlit (opcional para visualização dinâmica)
+- ver, baixar e instalar aqui: https://streamlit.io/
+- criados os arquivos versão streamlit para visualização.
+ - Obs: Foram criados apenas 2 para modelo
+ - app_knn_2f_norm.py
+ - app_knn_11f_norm.py
+
+5. Criada uma versão mais simples do código com interação do usuário:
+- KNN_aula1.py (plota grafico simples no final)
