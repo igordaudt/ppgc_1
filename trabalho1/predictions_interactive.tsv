@@ -1,0 +1,2 @@
+﻿Prod_Desc	ID_Sub	Sub_Name	predicted_label	predicted_proba	top_k_labels	top_k_probas	low_confidence_flag	model_source
+cano pvc branco esgoto DN100	207	Canos e Conexões Hidráulicas	Canos e Conexões Hidráulicas	0.14663749391017192	['Canos e Conexões Hidráulicas', 'Sanitário', 'Condutos', 'Tomadas, interruptores e plugues', 'Plugs e Adaptadores']	[0.14663749391017192, 0.04113162557877883, 0.015869562847024468, 0.015858465545520273, 0.015723449909341897]	True	tuned

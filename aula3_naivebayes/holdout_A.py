@@ -205,14 +205,14 @@ for i in range(30):
     print(f"Iteração {i+1}: Random State={random_state}, Acurácia={accuracy:.2f}")
 
 # Plotar a variação das acurácias
-# plt.figure(figsize=(10,6))
-# plt.plot(range(1, 31), accuracies, marker='o', linestyle='--', color='b')
-# plt.title('Variação da Acurácia do Modelo em 30 Iterações com Random State Diferente')
-# plt.xlabel('Iteração')
-# plt.ylabel('Acurácia')
-# plt.xticks(range(1, 31))
-# plt.grid(True)
-# plt.show()
+plt.figure(figsize=(10,6))
+plt.plot(range(1, 31), accuracies, marker='o', linestyle='--', color='b')
+plt.title('Variação da Acurácia do Modelo em 30 Iterações com Random State Diferente')
+plt.xlabel('Iteração')
+plt.ylabel('Acurácia')
+plt.xticks(range(1, 31))
+plt.grid(True)
+plt.show()
 
 # Amplitude dos resultados
 max(accuracies) - min(accuracies)
@@ -279,34 +279,34 @@ for test_size in test_sizes:
     print(f"   Amplitude (Máx - Mín): {amplitude:.3f}")
     print("")
 
-# # Gráfico: Variação da Acurácia com Diferentes Tamanhos de Conjunto de Teste
-# plt.figure(figsize=(10,6))
-# plt.plot(test_sizes * 100, avg_accuracies, marker='o', linestyle='--', color='b', label="Média das Acurácias")
-# plt.title('Média da Acurácia do KNN com Diferentes Tamanhos de Conjunto de Teste')
-# plt.xlabel('Tamanho do Conjunto de Teste (%)')
-# plt.ylabel('Média da Acurácia')
-# plt.grid(True)
-# plt.legend()
-# plt.show()
+# Gráfico: Variação da Acurácia com Diferentes Tamanhos de Conjunto de Teste
+plt.figure(figsize=(10,6))
+plt.plot(test_sizes * 100, avg_accuracies, marker='o', linestyle='--', color='b', label="Média das Acurácias")
+plt.title('Média da Acurácia do KNN com Diferentes Tamanhos de Conjunto de Teste')
+plt.xlabel('Tamanho do Conjunto de Teste (%)')
+plt.ylabel('Média da Acurácia')
+plt.grid(True)
+plt.legend()
+plt.show()
 
-# # Gráfico: Variância vs Tamanho do Conjunto de Teste
-# plt.figure(figsize=(10,6))
-# plt.scatter(test_sizes * 100, variances, color='r', label="Variância do Desempenho")
-# plt.title('Variância do Desempenho vs Tamanho do Conjunto de Teste')
-# plt.xlabel('Tamanho do Conjunto de Teste (%)')
-# plt.ylabel('Variância do Desempenho')
-# plt.grid(True)
-# plt.legend()
-# plt.show()
+# Gráfico: Variância vs Tamanho do Conjunto de Teste
+plt.figure(figsize=(10,6))
+plt.scatter(test_sizes * 100, variances, color='r', label="Variância do Desempenho")
+plt.title('Variância do Desempenho vs Tamanho do Conjunto de Teste')
+plt.xlabel('Tamanho do Conjunto de Teste (%)')
+plt.ylabel('Variância do Desempenho')
+plt.grid(True)
+plt.legend()
+plt.show()
 
-# # Gráfico: Amplitude vs Tamanho do Conjunto de Teste
-# plt.figure(figsize=(10,6))
-# plt.scatter(test_sizes * 100, amplitudes, color='g', label="Amplitude (Máx - Mín)")
-# plt.title('Amplitude do Desempenho vs Tamanho do Conjunto de Teste')
-# plt.xlabel('Tamanho do Conjunto de Teste (%)')
-# plt.ylabel('Amplitude do Desempenho')
-# plt.grid(True)
-# plt.legend()
-# plt.show()
+# Gráfico: Amplitude vs Tamanho do Conjunto de Teste
+plt.figure(figsize=(10,6))
+plt.scatter(test_sizes * 100, amplitudes, color='g', label="Amplitude (Máx - Mín)")
+plt.title('Amplitude do Desempenho vs Tamanho do Conjunto de Teste')
+plt.xlabel('Tamanho do Conjunto de Teste (%)')
+plt.ylabel('Amplitude do Desempenho')
+plt.grid(True)
+plt.legend()
+plt.show()
 
 
