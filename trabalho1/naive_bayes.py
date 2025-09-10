@@ -5,10 +5,10 @@ import re
 import pandas as pd
 
 # === CONFIGURAÇÃO DE ARQUIVOS ===
-RAW_PATH = Path("./trabalho1/materiais_clean.tsv")               # entrada bruta (TSV)
-CLEAN_PATH = Path("./trabalho1/materiais_clean_fixed.tsv") # saída do passo 1 (TSV)
-VECTORIZER_PKL = Path("./trabalho1/tfidf_vectorizer.pkl")
-DATASET_PKL = Path("./trabalho1/tfidf_dataset.pkl")
+RAW_PATH = Path("./trabalho1/cenario/materiais_clean.tsv")               # entrada bruta (TSV)
+CLEAN_PATH = Path("./trabalho1/cenario/materiais_clean_fixed.tsv") # saída do passo 1 (TSV)
+VECTORIZER_PKL = Path("./trabalho1/cenario/tfidf_vectorizer.pkl")
+DATASET_PKL = Path("./trabalho1/cenario/tfidf_dataset.pkl")
 
 EXPECTED_COLS = ["ID_CAT", "Cat_Name", "ID_Sub", "Sub_Name", "ID_Prod", "Prod_Desc"]
 
@@ -290,7 +290,7 @@ def main_3(test_size: float = 0.2, random_state: int = 42):
     print("Top-5 classes no TESTE  (classe, contagem):", top_te)
 
     # 7) Salvar artefatos do split
-    SPLIT_PKL = Path("./trabalho1/train_test_split.pkl")
+    SPLIT_PKL = Path("./trabalho1/cenario/train_test_split.pkl")
     joblib.dump(
         {
             "X_train": X_train,
@@ -331,7 +331,7 @@ def main_4(alpha: float = 1.0):
         classification_report,
     )
 
-    SPLIT_PKL = Path("./trabalho1/train_test_split.pkl")
+    SPLIT_PKL = Path("./trabalho1/cenario/train_test_split.pkl")
     if not SPLIT_PKL.exists():
         raise FileNotFoundError(
             f"Split não encontrado: {SPLIT_PKL.resolve()}.\n"
@@ -398,9 +398,9 @@ def main_4(alpha: float = 1.0):
     print(f"f1_mic : {best['f1_micro']:.4f}")
 
     # 5) Salvar artefatos
-    MODELPKL = Path("./trabalho1/nb_model.pkl")
-    METRICS_TXT = Path("./trabalho1/nb_metrics.txt")
-    REPORT_TXT  = Path("./trabalho1/nb_classification_report.txt")
+    MODELPKL = Path("./trabalho1/cenario/nb_model.pkl")
+    METRICS_TXT = Path("./trabalho1/cenario/nb_metrics.txt")
+    REPORT_TXT  = Path("./trabalho1/cenario/nb_classification_report.txt")
 
     joblib.dump({
         "model": best_model,
@@ -433,7 +433,7 @@ def main_4(alpha: float = 1.0):
 
 
 # === PASSO 5: INFERÊNCIA / PREVISÃO ============================
-def main_5(input_path: str | None = "./trabalho1/novos_itens.tsv",
+def main_5(input_path: str | None = "./trabalho1/cenario/novos_itens.tsv",
            k_top: int = 5,
            proba_warn_threshold: float = 0.15):
     """
@@ -456,9 +456,9 @@ def main_5(input_path: str | None = "./trabalho1/novos_itens.tsv",
     import numpy as np
     import pandas as pd
 
-    VECTORIZER_PKL = Path("./trabalho1/tfidf_vectorizer.pkl")
-    MODELPKL       = Path("./trabalho1/nb_model.pkl")
-    OUT_PRED       = Path("./trabalho1/predictions.tsv")
+    VECTORIZER_PKL = Path("./trabalho1/cenario/tfidf_vectorizer.pkl")
+    MODELPKL       = Path("./trabalho1/cenario/nb_model.pkl")
+    OUT_PRED       = Path("./trabalho1/cenario/predictions.tsv")
 
     # 1) Verificações
     if not VECTORIZER_PKL.exists():
@@ -583,7 +583,7 @@ def main_6(
     from sklearn.naive_bayes import MultinomialNB, ComplementNB
     from sklearn.metrics import accuracy_score, f1_score, classification_report
 
-    SPLIT_PKL = Path("./trabalho1/train_test_split.pkl")
+    SPLIT_PKL = Path("./trabalho1/cenario/train_test_split.pkl")
     if not SPLIT_PKL.exists():
         raise FileNotFoundError(
             f"Split não encontrado: {SPLIT_PKL.resolve()}.\n"
@@ -653,7 +653,7 @@ def main_6(
     cv_df = pd.DataFrame(rows).sort_values(
         by=["cv_f1_macro_mean", "test_accuracy"], ascending=False
     )
-    CV_OUT = Path("./trabalho1/nb_tuned_cv_results.tsv")
+    CV_OUT = Path("./trabalho1/cenario/nb_tuned_cv_results.tsv")
     cv_df.to_csv(CV_OUT, sep="\t", index=False, encoding="utf-8-sig")
 
     # 5) Melhor configuração
@@ -667,8 +667,8 @@ def main_6(
     print(f"Test f1_mic : {f1_score(y_test, y_pred_best, average='micro', zero_division=0):.4f}")
 
     # 6) Persistir modelo e relatórios
-    MODELPKL = Path("./trabalho1/nb_tuned_model.pkl")
-    METRICS_TXT = Path("./trabalho1/nb_tuned_metrics.txt")
+    MODELPKL = Path("./trabalho1/cenario/nb_tuned_model.pkl")
+    METRICS_TXT = Path("./trabalho1/cenario/nb_tuned_metrics.txt")
 
     joblib.dump({
         "model": best_model,
@@ -706,7 +706,7 @@ def main_7():
     import matplotlib.pyplot as plt
     from pathlib import Path
 
-    CV_OUT = Path("./trabalho1/nb_tuned_cv_results.tsv")
+    CV_OUT = Path("./trabalho1/cenario/nb_tuned_cv_results.tsv")
     if not CV_OUT.exists():
         raise FileNotFoundError(
             f"Resultados de tuning não encontrados: {CV_OUT.resolve()}.\n"
@@ -731,7 +731,7 @@ def main_7():
     plt.legend()
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
-    plt.savefig("./trabalho1/report_cv_f1_macro.png", dpi=150)
+    plt.savefig("./trabalho1/cenario/report_cv_f1_macro.png", dpi=150)
     plt.close()
 
     # 3) Plotar performance no teste
@@ -754,13 +754,13 @@ def main_7():
     ax[1].set_title("F1-macro no teste vs alpha")
 
     plt.tight_layout()
-    plt.savefig("./trabalho1/report_test_performance.png", dpi=150)
+    plt.savefig("./trabalho1/cenario/report_test_performance.png", dpi=150)
     plt.close()
 
     print("=== PASSO 7 concluído ===")
     print("Gráficos salvos em:")
-    print(" - ./trabalho1/report_cv_f1_macro.png")
-    print(" - ./trabalho1/report_test_performance.png")
+    print(" - ./trabalho1/cenario/report_cv_f1_macro.png")
+    print(" - ./trabalho1/cenario/report_test_performance.png")
 
 # === PASSO 8: AUDITORIA - MATRIZ DE CONFUSÃO & ERROS =========================
 def main_8(max_errors_per_class: int = 50):
@@ -784,14 +784,14 @@ def main_8(max_errors_per_class: int = 50):
     from sklearn.metrics import confusion_matrix, classification_report
 
     # caminhos
-    SPLIT_PKL   = Path("./trabalho1/train_test_split.pkl")
-    TUNED_PKL   = Path("./trabalho1/nb_tuned_model.pkl")
-    BASE_PKL    = Path("./trabalho1/nb_model.pkl")
-    VECTORIZER  = Path("./trabalho1/tfidf_vectorizer.pkl")
+    SPLIT_PKL   = Path("./trabalho1/cenario/train_test_split.pkl")
+    TUNED_PKL   = Path("./trabalho1/cenario/nb_tuned_model.pkl")
+    BASE_PKL    = Path("./trabalho1/cenario/nb_model.pkl")
+    VECTORIZER  = Path("./trabalho1/cenario/tfidf_vectorizer.pkl")
 
-    OUT_CM_PNG  = Path("./trabalho1/audit_confusion_matrix.png")
-    OUT_PERCLS  = Path("./trabalho1/audit_per_class.tsv")
-    OUT_ERRORS  = Path("./trabalho1/audit_errors.tsv")
+    OUT_CM_PNG  = Path("./trabalho1/cenario/audit_confusion_matrix.png")
+    OUT_PERCLS  = Path("./trabalho1/cenario/audit_per_class.tsv")
+    OUT_ERRORS  = Path("./trabalho1/cenario/audit_errors.tsv")
 
     # 1) carregar split (X_test/y_test)
     if not SPLIT_PKL.exists():
@@ -890,9 +890,9 @@ def _load_best_model_and_vectorizer():
     from pathlib import Path
     import joblib
 
-    VECTORIZER_PKL = Path("./trabalho1/tfidf_vectorizer.pkl")
-    TUNED_PKL      = Path("./trabalho1/nb_tuned_model.pkl")
-    BASE_PKL       = Path("./trabalho1/nb_model.pkl")
+    VECTORIZER_PKL = Path("./trabalho1/cenario/tfidf_vectorizer.pkl")
+    TUNED_PKL      = Path("./trabalho1/cenario/nb_tuned_model.pkl")
+    BASE_PKL       = Path("./trabalho1/cenario/nb_model.pkl")
 
     if not VECTORIZER_PKL.exists():
         raise FileNotFoundError("Vectorizer não encontrado (execute main_2).")
@@ -923,7 +923,7 @@ def _build_label_maps():
     from pathlib import Path
     import pandas as pd
 
-    CLEAN_PATH = Path("./trabalho1/materiais_clean_fixed.tsv")
+    CLEAN_PATH = Path("./trabalho1/cenario/materiais_clean_fixed.tsv")
     if not CLEAN_PATH.exists():
         raise FileNotFoundError("Arquivo limpo não encontrado (execute main_1).")
 
@@ -1074,7 +1074,7 @@ def predict_from_prompt(k_top: int = 5, proba_warn_threshold: float = 0.15):
     # (Opcional) salvar TSV com as previsões interativas
     try:
         import pandas as pd
-        out_path = Path("./trabalho1/predictions_interactive.tsv")
+        out_path = Path("./trabalho1/cenario/predictions_interactive.tsv")
         pd.DataFrame(results).to_csv(out_path, sep="\t", index=False, encoding="utf-8-sig")
         print(f"\nArquivo salvo: {out_path}")
     except Exception:

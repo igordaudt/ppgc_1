@@ -2,15 +2,15 @@
 
 [ComplementNB]
 alpha    : 1.0
-accuracy : 0.851875
-f1_macro : 0.678479
-f1_micro : 0.851875
+accuracy : 0.711349
+f1_macro : 0.478860
+f1_micro : 0.711349
 
 [MultinomialNB]
 alpha    : 1.0
-accuracy : 0.709281
-f1_macro : 0.243926
-f1_micro : 0.709281
+accuracy : 0.474233
+f1_macro : 0.076556
+f1_micro : 0.474233
 
 ---
 Best: ComplementNB (alpha=1.0)

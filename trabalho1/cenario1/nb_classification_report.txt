@@ -1,0 +1,57 @@
+=== Classification report: ComplementNB ===
+
+                                     precision    recall  f1-score   support
+
+          Acabamentos para Registro       0.00      0.00      0.00         1
+             Acessórios Hidráulicos       1.00      0.25      0.40         8
+    Acessórios e Conexões Elétricas       0.89      0.85      0.87        68
+                   Anéis de Vedação       0.67      0.50      0.57         8
+                Aquecedores de Água       1.00      1.00      1.00         1
+                           Baterias       0.71      1.00      0.83         5
+                    Cabos Elétricos       0.84      1.00      0.91       137
+             Cabos e Fios Elétricos       0.92      0.51      0.65        71
+                   Caixas de Esgoto       1.00      0.40      0.57         5
+            Caixas para Hidrômetros       0.00      0.00      0.00         1
+       Canos e Conexões Hidráulicas       0.85      0.94      0.89       344
+               Carenagem hidraulica       1.00      1.00      1.00         1
+                           Condutos       0.90      0.75      0.82        12
+             Disjuntores e Fusíveis       0.00      0.00      0.00         6
+              Dutos e conexões PEAD       0.00      0.00      0.00         6
+                        Eletricista       0.00      0.00      0.00         1
+                       Eletrocalhas       0.80      0.94      0.86        17
+                       Equipamentos       0.75      1.00      0.86         6
+                    Estabilizadores       0.75      1.00      0.86         3
+                  Fontes de Energia       1.00      0.85      0.92        13
+                     Infraestrutura       0.75      0.68      0.71        22
+                         Luminárias       0.00      0.00      0.00         2
+           Medição e instrumentação       1.00      0.75      0.86         4
+                           Nobreaks       1.00      1.00      1.00         4
+                             Outros       0.00      0.00      0.00         1
+       Outros - Materiais Elétricos       0.89      0.59      0.71        27
+     Outros - Materiais Hidráulicos       0.87      0.57      0.68        23
+                   Outros Elétricos       0.00      0.00      0.00         2
+                  Para Raios e SPDA       0.84      0.84      0.84        37
+                Plugs e Adaptadores       0.67      0.40      0.50         5
+            Pressurizadores de Água       1.00      1.00      1.00         4
+                Proteções Elétricas       0.84      0.94      0.89        99
+         Quadros e Caixas Elétricas       0.82      0.81      0.82        52
+                    Ralos e Grelhas       0.55      1.00      0.71         6
+                  Registros e Bases       0.84      0.90      0.87        29
+             Resistências Elétricas       1.00      1.00      1.00         1
+                          Sanitário       0.83      0.95      0.89       125
+                     Sifão para Pia       0.67      1.00      0.80         2
+                           Sistemas       0.86      1.00      0.92         6
+          Subestações e Alta Tensão       0.78      0.78      0.78         9
+Tomadas e Interruptores Específicos       0.00      0.00      0.00         1
+   Tomadas, interruptores e plugues       0.91      0.81      0.85       185
+                          Torneiras       1.00      1.00      1.00        15
+         Transformadores de Energia       0.89      1.00      0.94        34
+                Tubos e Eletrodutos       0.85      0.89      0.87       166
+                   Tubulação Defofo       1.00      1.00      1.00         1
+                  Válvulas para Pia       1.00      1.00      1.00         1
+                          Água Fria       0.81      0.67      0.73        43
+                        Água Quente       0.86      0.86      0.86         7
+
+                           accuracy                           0.85      1627
+                          macro avg       0.71      0.68      0.68      1627
+                       weighted avg       0.85      0.85      0.84      1627

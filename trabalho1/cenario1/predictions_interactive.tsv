@@ -1,0 +1,2 @@
+﻿Prod_Desc	ID_Sub	Sub_Name	predicted_label	predicted_proba	top_k_labels	top_k_probas	low_confidence_flag	model_source
+haste de aterramento 3/8	14	Para Raios e SPDA	Para Raios e SPDA	0.6882188146084278	['Para Raios e SPDA', 'Torneiras', 'Infraestrutura', 'Chuveiros', 'Medição e instrumentação']	[0.6882188146084278, 0.006189723432702164, 0.006049452777558976, 0.0059894626362678085, 0.00594764798566996]	False	tuned

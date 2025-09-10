@@ -3,153 +3,172 @@ from pathlib import Path
 import pandas as pd
 import re
 
-INPUT = Path("./trabalho1/materiais.csv")
-OUTPUT_TSV = Path("./trabalho1/materiais_clean.tsv")
-OUTPUT_CSV_TAB = Path("./trabalho1/materiais_clean.csv")  # CSV com separador TAB (para quem prefere .csv)
+INPUT = Path("./trabalho1/cenario/materiais.csv")
+OUTPUT = Path("./trabalho1/cenario/materiais_clean.tsv")
+OUTPUT_CSV_TAB = Path("./trabalho1/cenario/materiais_clean.csv")  # CSV com separador TAB (para quem prefere .csv)
 
-EXPECTED_COLS = ["ID_CAT", "Cat_Name", "ID_Sub", "Sub_Name", "ID_Prod", "Prod_Desc", "Prod_Det"]
+EXPECTED_COLS = ["ID_CAT", "Cat_Name", "ID_Sub", "Sub_Name", "ID_Prod", "Prod_Desc"]
 
-def try_read_csv(path: Path, sep, header, encoding):
-    return pd.read_csv(
-        path,
-        sep=sep,
-        engine="python",        # necessário para regex no sep
-        header=header,          # 0 ou None
-        encoding=encoding,
-        dtype=str,
-        keep_default_na=False,
-        quotechar='"',
-        escapechar='\\',
-        on_bad_lines="error",   # se quiser pular linhas ruins: "skip"
-    )
+# ---------- Utilidades ----------
+def read_text_any(path: Path) -> str:
+    for enc in ("utf-8-sig", "utf-8", "latin-1"):
+        try:
+            return path.read_text(encoding=enc, errors="strict")
+        except Exception:
+            continue
+    # fallback: ignora erros para não travar
+    return path.read_text(encoding="utf-8", errors="ignore")
 
-def normalize_headers(df: pd.DataFrame) -> pd.DataFrame:
-    def norm(c: str) -> str:
-        c = str(c).strip()
-        c = c.strip('"').strip("'")
-        c = re.sub(r"\s+", " ", c)  # colapsa espaços múltiplos
-        return c
-    df.columns = [norm(c) for c in df.columns]
-    return df
+def normalize_header_fields(fields):
+    out = []
+    for f in fields:
+        f = (f or "").strip().strip('"').strip("'")
+        f = re.sub(r"\s+", " ", f)
+        out.append(f)
+    return out
 
-def drop_prod_det(df: pd.DataFrame) -> pd.DataFrame:
-    lower_map = {c.lower(): c for c in df.columns}
-    if "prod_det" in lower_map:
-        return df.drop(columns=[lower_map["prod_det"]])
-    return df
+def canon_map(name: str) -> str:
+    key = (name or "").lower().replace(" ", "").replace("-", "_")
+    if key in ("id_cat", "idcat"): return "ID_CAT"
+    if key in ("cat_name", "catname"): return "Cat_Name"
+    if key in ("id_sub", "idsub"): return "ID_Sub"
+    if key in ("sub_name", "subname"): return "Sub_Name"
+    if key in ("id_prod", "idprod"): return "ID_Prod"
+    if key in ("prod_desc", "proddesc"): return "Prod_Desc"
+    if key in ("prod_det", "proddet"): return "Prod_Det"
+    return name or ""
 
-def ensure_prod_desc(df: pd.DataFrame) -> pd.DataFrame:
-    if "Prod_Desc" in df.columns:
-        return df
-    # tenta localizar variações
-    for c in df.columns:
-        key = c.lower().replace(" ", "").replace("-", "_")
-        if key in ("prod_desc", "proddesc", "prod__desc"):
-            return df.rename(columns={c: "Prod_Desc"})
-    raise KeyError(f"Coluna 'Prod_Desc' não encontrada. Colunas vistas: {list(df.columns)}")
+def coerce_to_6_fields(fields):
+    # garante exatamente 6 colunas
+    fields = list(fields)
+    if len(fields) < 6:
+        fields += [""] * (6 - len(fields))
+    elif len(fields) > 6:
+        head, tail = fields[:5], fields[5:]
+        merged_last = "\t".join(tail)  # preserva excedente na última coluna
+        fields = head + [merged_last]
+    return fields
+
+# ---------- Parser manual (estado de aspas) ----------
+def parse_records(raw: str, delim: str = ">", quote: str = '"'):
+    """
+    Retorna lista de linhas, onde cada linha é lista de campos.
+    Regras:
+      - delim só separa fora de aspas
+      - fim de linha só fecha registro fora de aspas
+      - "" dentro de aspas vira aspas literal
+    """
+    rows = []
+    field = []
+    record = []
+    in_quotes = False
+    i = 0
+    n = len(raw)
+
+    while i < n:
+        ch = raw[i]
+
+        if ch == quote:
+            # aspas duplicadas dentro de campo -> aspas literal
+            if in_quotes and i + 1 < n and raw[i+1] == quote:
+                field.append(quote)
+                i += 2
+                continue
+            in_quotes = not in_quotes
+            i += 1
+            continue
+
+        if ch == delim and not in_quotes:
+            record.append("".join(field))
+            field = []
+            i += 1
+            continue
+
+        # tratar quebras de linha (CRLF/CR/LF) somente fora de aspas
+        if (ch == "\n" or ch == "\r") and not in_quotes:
+            # consome \r\n como uma quebra
+            if ch == "\r" and i + 1 < n and raw[i+1] == "\n":
+                i += 1
+            record.append("".join(field))
+            rows.append(record)
+            field = []
+            record = []
+            i += 1
+            continue
+
+        field.append(ch)
+        i += 1
+
+    # flush final (última linha pode não terminar com \n)
+    record.append("".join(field))
+    rows.append(record)
+    return rows
 
 def main():
     if not INPUT.exists():
         raise FileNotFoundError(f"Arquivo não encontrado: {INPUT.resolve()}")
 
-    # Vamos checar rapidamente presença de possíveis separadores no arquivo bruto
-    raw = INPUT.read_text(encoding="utf-8", errors="ignore")
-    sample = "\n".join(raw.splitlines()[:200])
+    raw = read_text_any(INPUT)
+    rows = parse_records(raw, delim=">", quote='"')
+    if not rows:
+        raise RuntimeError("Arquivo vazio.")
 
-    count_gt = sample.count(">")
-    count_tab = sample.count("\t")
-    count_semic = sample.count(";")
-    count_comma = sample.count(",")
+    # detectar cabeçalho
+    header = normalize_header_fields(rows[0])
+    header_mapped = [canon_map(c) for c in header]
+    header_present = any(h.lower() in ("prod_desc", "sub_name", "id_sub") for h in header_mapped)
 
-    # Estratégia de separadores (mais tolerante primeiro)
-    seps = []
-    # Se encontramos '>' e/ou TAB, priorizar regex que aceita AMBOS
-    if count_gt > 0 and count_tab > 0:
-        seps.append(r">\t|[\t>]")
-    elif count_gt > 0:
-        # aceita > ou TAB (p/ cabeçalho que às vezes vem em TAB)
-        seps.append(r">|[\t]")
-        seps.append(">")
-    elif count_tab > 0:
-        seps.append(r"[\t]|>")
-        seps.append("\t")
+    data_rows = rows[1:] if header_present else rows
+
+    # normalizar cada linha para 6 colunas
+    fixed = []
+    for r in data_rows:
+        # strip de espaços externos e aspas redundantes nas células
+        r = [ (c or "").strip() for c in r ]
+        fixed.append(coerce_to_6_fields(r))
+
+    # definir nomes de colunas
+    if header_present:
+        cols = [canon_map(c) for c in header]
+        # se o header não tiver 6, ajusta
+        cols = coerce_to_6_fields(cols)
+        cols = [canon_map(c) for c in cols]
     else:
-        # fallback comuns
-        if count_semic > 0:
-            seps.append(";")
-        if count_comma > 0:
-            seps.append(",")
-        # por último, tentar regex bem abrangente
-        seps.append(r"[>\t;,]")
+        cols = EXPECTED_COLS[:]
 
-    # Estratégia de cabeçalho
-    headers = [0, None]  # 0 = primeira linha é cabeçalho; None = sem cabeçalho
-    encodings = ["utf-8-sig", "utf-8", "latin-1"]
+    df = pd.DataFrame(fixed, columns=cols)
 
-    last_err = None
-    df = None
-    chosen = None
-    for enc in encodings:
-        for sep in seps:
-            for header in headers:
-                try:
-                    temp = try_read_csv(INPUT, sep=sep, header=header, encoding=enc)
-                    # se não tinha cabeçalho, dar nomes provisórios
-                    if header is None:
-                        # se o arquivo tem 7 colunas, use EXPECTED_COLS; senão, nomes genéricos
-                        if temp.shape[1] == len(EXPECTED_COLS):
-                            temp.columns = EXPECTED_COLS
-                        else:
-                            temp.columns = [f"col_{i+1}" for i in range(temp.shape[1])]
-                    temp = normalize_headers(temp)
+    # remover Prod_Det se existir
+    if "Prod_Det" in df.columns:
+        df = df.drop(columns=["Prod_Det"])
 
-                    # remover colunas totalmente vazias (se existirem)
-                    temp = temp.dropna(axis=1, how="all")
+    # garantir e ordenar colunas canônicas
+    for c in EXPECTED_COLS:
+        if c not in df.columns:
+            df[c] = ""
+    df = df[EXPECTED_COLS]
 
-                    # garantir Prod_Desc
-                    temp = ensure_prod_desc(temp)
-
-                    # pronto: conseguimos ler
-                    df = temp.copy()
-                    chosen = (enc, sep, header)
-                    raise StopIteration
-                except StopIteration:
-                    break
-                except Exception as e:
-                    last_err = e
-            if df is not None:
-                break
-        if df is not None:
-            break
-
-    if df is None:
-        # relatório de erro útil
-        raise RuntimeError(
-            "Falha ao ler o arquivo com as tentativas. "
-            f"Último erro: {repr(last_err)}"
-        )
-
-    # Remover Prod_Det
-    df = drop_prod_det(df)
-
-    # Strip em strings
+    # limpeza leve
     for c in df.columns:
         if df[c].dtype == object:
-            df[c] = df[c].str.strip()
+            df[c] = (
+                df[c]
+                .astype(str)
+                .str.strip()
+                .str.replace(r'^\s*"\s*|\s*"\s*$', "", regex=True)  # remove aspas externas
+            )
 
-    # Salvar em TAB (TSV)
-    df.to_csv(OUTPUT_TSV, sep="\t", index=False, encoding="utf-8-sig")
-    df.to_csv(OUTPUT_CSV_TAB, sep="\t", index=False, encoding="utf-8-sig")
+    # filtra linhas sem texto e sem rótulo mínimo
+    has_text = df["Prod_Desc"].astype(str).str.len() > 0
+    has_label = df["Sub_Name"].astype(str).str.len() > 0
+    df = df[has_text & has_label].reset_index(drop=True)
 
-    enc, sep, header = chosen
-    print("=== LIMPEZA CONCLUÍDA ===")
-    print(f"Encoding usado: {enc}")
-    print(f"Separador usado: {sep!r} (engine='python')")
-    print(f"Cabeçalho: {'primeira linha' if header==0 else 'sem cabeçalho'}")
-    print(f"Linhas: {len(df):,} | Colunas: {len(df.columns)}")
-    print("Gerados:")
-    print(f" - {OUTPUT_TSV}")
-    print(f" - {OUTPUT_CSV_TAB}")
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(OUTPUT, sep="\t", index=False, encoding="utf-8-sig")
+
+    print("=== LIMPEZA OK ===")
+    print(f"Linhas: {len(df):,} | Colunas: {len(df.columns)} (6 fixas)")
+    print(f"Saída: {OUTPUT}")
 
 if __name__ == "__main__":
     main()
