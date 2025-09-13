@@ -3,6 +3,9 @@
 from pathlib import Path
 import re
 import pandas as pd
+import numpy as np
+from pathlib import Path
+import joblib
 
 # === CONFIGURAÇÃO DE ARQUIVOS ===
 RAW_PATH = Path("./trabalho1/cenario/materiais_clean.tsv")               # entrada bruta (TSV)
@@ -887,12 +890,11 @@ def main_8(max_errors_per_class: int = 50):
 # === PASSO 9: PREDIÇÃO INTERATIVA VIA PROMPT ================================
 def _load_best_model_and_vectorizer():
     """Carrega o melhor modelo disponível (tuned > baseline) e o vectorizer."""
-    from pathlib import Path
-    import joblib
 
-    VECTORIZER_PKL = Path("./trabalho1/cenario/tfidf_vectorizer.pkl")
-    TUNED_PKL      = Path("./trabalho1/cenario/nb_tuned_model.pkl")
-    BASE_PKL       = Path("./trabalho1/cenario/nb_model.pkl")
+
+    VECTORIZER_PKL = Path("./trabalho1/cenario/tfidf_vectorizer.pkl") # vetorizar
+    TUNED_PKL      = Path("./trabalho1/cenario/nb_tuned_model.pkl") # modelo tunado
+    BASE_PKL       = Path("./trabalho1/cenario/nb_model.pkl") # modelo baseline
 
     if not VECTORIZER_PKL.exists():
         raise FileNotFoundError("Vectorizer não encontrado (execute main_2).")
@@ -964,7 +966,7 @@ def predict_descriptions(descriptions, k_top: int = 5, proba_warn_threshold: flo
       - low_confidence_flag
       - model_source (tuned/baseline)
     """
-    import numpy as np
+    
 
     model, classes, vectorizer, model_src = _load_best_model_and_vectorizer()
     name_to_id, id_to_name = _build_label_maps()
@@ -1105,4 +1107,3 @@ if __name__ == "__main__":
         if a!="s" and a!="n":
             print("Encerrando.")
             break
-

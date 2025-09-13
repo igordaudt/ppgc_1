@@ -1,2 +1,2 @@
 ﻿Prod_Desc	ID_Sub	Sub_Name	predicted_label	predicted_proba	top_k_labels	top_k_probas	low_confidence_flag	model_source
-controlador de irrigação	1	Sem Categoria	Sem Categoria	0.0066371458208342735	['Sem Categoria', 'Controladores de FP', 'Canos e Conexões Hidráulicas', 'Controlador de Demanda', 'Poste de madeira']	[0.0066371458208342735, 0.004223462141363219, 0.0036014832630011117, 0.003365162413219565, 0.0031114847495893245]	True	tuned
+argamassa cimentcola flexível aciii	169	Cimentos	Cimentos	0.10025356328178042	['Cimentos', 'Argamassas', 'Cabos Elétricos', 'Revestimentos', 'Revestimentos Externos']	[0.10025356328178042, 0.00468182268842116, 0.003807006479731756, 0.00271046875800836, 0.002702674010702495]	True	tuned
