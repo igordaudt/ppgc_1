@@ -1,0 +1,16 @@
+=== Naïve Bayes Evaluation (Test Set) ===
+
+[ComplementNB]
+alpha    : 1.0
+accuracy : 0.829616
+f1_macro : 0.820161
+f1_micro : 0.829616
+
+[MultinomialNB]
+alpha    : 1.0
+accuracy : 0.703841
+f1_macro : 0.668737
+f1_micro : 0.703841
+
+---
+Best: ComplementNB (alpha=1.0)

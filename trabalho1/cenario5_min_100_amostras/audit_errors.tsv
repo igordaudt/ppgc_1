@@ -1,0 +1,251 @@
+﻿y_true	y_pred	pred_confidence
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.8000666960393942
+Ferramentas Manuais	Cabos e Fios Elétricos	0.5130715430332572
+Acessórios e Conexões Elétricas	Tomadas, interruptores e plugues	0.6122136992932482
+Aduela de Concreto	Artefatos de Concreto	0.5420496834596384
+Aduela de Concreto	Artefatos de Concreto	0.9736611197514542
+Canos e Conexões Hidráulicas	Parafusos e acessórios	0.16029931175448742
+Tomadas, interruptores e plugues	Sanitário	0.9611498171465674
+Tomadas, interruptores e plugues	Acessórios e Conexões Elétricas	0.9960739067196339
+Ferragens para Fixar e Montar	Acessórios e Conexões Elétricas	0.6392404773281257
+Artefatos de Concreto	Quadros e Caixas Elétricas	0.7016528776362667
+Cabos e Fios Elétricos	Ferramentas Manuais	0.3329176254745898
+Cabos e Fios Elétricos	Construção Civil	0.6132593929892391
+Tomadas, interruptores e plugues	Ferramentas Manuais	0.6490761294257361
+Perfis e chapas em aço carbono	Ferragens para Fixar e Montar	0.23017235476297912
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.8413729653959016
+Telhas	Barras, Tubos e Chapas Metalon	0.28915521859803894
+Cabos e Fios Elétricos	Cabos Elétricos	0.6930647581724698
+Aduela de Concreto	Tomadas, interruptores e plugues	0.6011090373879466
+Quadros e Caixas Elétricas	Proteções Elétricas	0.9736036627815519
+Areia, Pedra Brita, Gesso, Cal e Argila	Aduela de Concreto	0.4451139859891276
+Outros - Ferragens	Artefatos de Concreto	0.5243468087810143
+Cercados e Segurança	Poste de Concreto	0.43021007300631553
+Tomadas, interruptores e plugues	Ferragens para Fixar e Montar	0.9988592467138849
+Artefatos de Concreto	Tomadas, interruptores e plugues	0.44797136898501005
+Aduela de Concreto	Poste de Concreto	0.43020659697985736
+Construção Civil	Quadros e Caixas Elétricas	0.9701290436597476
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.995911658761281
+Perfis e chapas em aço carbono	Sanitário	0.21197383923667418
+Parafusos e acessórios	Sanitário	0.443181253779416
+Outros - Ferragens	Artefatos de Concreto	0.5519167136452349
+Proteções Elétricas	Cabos e Fios Elétricos	0.6821045293455563
+Luminárias	Canos e Conexões Hidráulicas	0.12426402231174465
+Aços para Construção	Perfis e chapas em aço carbono	0.2799524142251632
+Quadros e Caixas Elétricas	Proteções Elétricas	0.78342293068302
+Tomadas, interruptores e plugues	EPI: Equipamentos Proteção Individual	0.5677910194647846
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.9575154928981198
+Sanitário	Aduela de Concreto	0.3432961029776445
+Tubos e conexões industriais	Perfis e chapas em aço carbono	0.26238488760794376
+Tomadas, interruptores e plugues	Ferramentas Manuais	0.4933062103013377
+Artefatos de Concreto	Aduela de Concreto	0.8403649247936212
+Outros - Ferragens	Tomadas, interruptores e plugues	0.24795320105133187
+Ferramentas Manuais	Cabos Elétricos	0.513009736269659
+Para Raios e SPDA	Ferragens para Fixar e Montar	0.7249693153502506
+Ferramentas Manuais	Cabos e Fios Elétricos	0.09054972406901309
+Ferragens para Fixar e Montar	Ferramentas Manuais	0.9992142745899856
+Quadros e Caixas Elétricas	Artefatos de Concreto	0.6753059701677199
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.4933691812024668
+Tomadas, interruptores e plugues	Tubos e Eletrodutos	0.6553765170011789
+Cabos e Fios Elétricos	Construção Civil	0.62435238508362
+Para Raios e SPDA	Ferragens para Fixar e Montar	0.7212611607262709
+Tomadas, interruptores e plugues	Transformadores de Energia	0.4252204421264118
+Ferramentas Manuais	Acessórios e Conexões Elétricas	0.9481542134339315
+Cabos e Fios Elétricos	Cabos Elétricos	0.9981206525444732
+Canos e Conexões Hidráulicas	Tubos e conexões industriais	0.8468364708661283
+Canos e Conexões Hidráulicas	Sanitário	0.9998940901146879
+Acessórios de Portas e Janelas	Sanitário	0.9333520889316635
+Acessórios e Conexões Elétricas	Tomadas, interruptores e plugues	0.31122342245131007
+Acessórios e Conexões Elétricas	Ferramentas Manuais	0.23208828240395818
+Outros - Ferragens	Perfis e chapas em aço carbono	0.5561276846774368
+Artefatos de Concreto	Aduela de Concreto	0.3190683272752731
+Artefatos de Concreto	Aduela de Concreto	0.9431354739871914
+Acessórios e Conexões Elétricas	Tubos e Eletrodutos	0.7116983304271092
+Cimentos	Verniz e Solvente	0.9332189679779839
+Acessórios e Conexões Elétricas	Tomadas, interruptores e plugues	0.4803200086434772
+Aços para Construção	Ferragens para Fixar e Montar	0.321719611618285
+Tomadas, interruptores e plugues	Acessórios de Portas e Janelas	0.4108692631962097
+Artefatos de Concreto	Aduela de Concreto	0.7793571270067841
+Areia, Pedra Brita, Gesso, Cal e Argila	Tomadas, interruptores e plugues	0.2779717411369041
+Acessórios de Portas e Janelas	Tomadas, interruptores e plugues	0.2677490806170595
+Aduela de Concreto	Tomadas, interruptores e plugues	0.6991781296217862
+Artefatos de Concreto	Aduela de Concreto	0.710483303096166
+Cabos e Fios Elétricos	Cabos Elétricos	0.7091878021134662
+Canos e Conexões Hidráulicas	Sanitário	0.9511117822511718
+Barras, Tubos e Chapas Metalon	Aços para Construção	0.9828324981182109
+Outros - Ferragens	Ferramentas Manuais	0.06927760163665808
+Poste de Concreto	Artefatos de Concreto	0.9650471429772639
+Ferragens para Fixar e Montar	Parafusos e acessórios	0.9977384208092173
+Artefatos de Concreto	Canos e Conexões Hidráulicas	0.12426402231174465
+Areia, Pedra Brita, Gesso, Cal e Argila	Verniz e Solvente	0.4560735850378258
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.3660219091842864
+Outros - Ferragens	Tomadas, interruptores e plugues	0.9766171906371011
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.34533774301842113
+Barras, Tubos e Chapas Metalon	Proteções Elétricas	0.7616799949195677
+Ferragens para Fixar e Montar	Para Raios e SPDA	0.5479275883813786
+Tomadas, interruptores e plugues	Perfis e chapas em aço carbono	0.12896510458509663
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.35686586986938906
+Ferramentas Manuais	Cabos e Fios Elétricos	0.4836356111641251
+Canos e Conexões Hidráulicas	Sanitário	0.6249433654021234
+Verniz e Solvente	Tomadas, interruptores e plugues	0.12310820147058478
+Tubos e Eletrodutos	Parafusos e acessórios	0.42278380698926576
+Para Raios e SPDA	Cabos Elétricos	0.3183476509548749
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.561837819775975
+Outros - Ferragens	Acessórios de Portas e Janelas	0.18129727112769564
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.8472506689037781
+Cabos Elétricos	Cabos e Fios Elétricos	0.5234838995900812
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.8479765757620078
+Canos e Conexões Hidráulicas	EPI: Equipamentos Proteção Individual	0.3875105748160807
+Cabos e Fios Elétricos	Cabos Elétricos	0.9660079364183372
+Canos e Conexões Hidráulicas	EPI: Equipamentos Proteção Individual	0.3875105748160807
+Artefatos de Concreto	Aduela de Concreto	0.6001787272492706
+Quadros e Caixas Elétricas	Proteções Elétricas	0.9840427336349777
+Lâmpadas	Luminárias	0.7124909444658215
+Proteções Elétricas	Transformadores de Energia	0.22539422558190972
+Artefatos de Concreto	Aduela de Concreto	0.4837435521770327
+Cabos e Fios Elétricos	Cabos Elétricos	0.6263287892504624
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.9921725134463958
+EPI: Equipamentos Proteção Individual	Ferragens para Fixar e Montar	0.32764954184898787
+Sanitário	Aduela de Concreto	0.48090049288454
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.18625184278500412
+Tomadas, interruptores e plugues	Aduela de Concreto	0.640477315469584
+Tomadas, interruptores e plugues	Aços para Construção	0.9988410684575502
+Para Raios e SPDA	Acessórios e Conexões Elétricas	0.4062657217276304
+Aduela de Concreto	Artefatos de Concreto	0.46153018680170016
+Acessórios e Conexões Elétricas	Ferragens para Fixar e Montar	0.38786654652375824
+Artefatos de Concreto	Aduela de Concreto	0.33187290982219286
+Cercados e Segurança	Tomadas, interruptores e plugues	0.7681470130506788
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.7255180081763252
+Aços para Construção	Perfis e chapas em aço carbono	0.893067336894724
+Canos e Conexões Hidráulicas	Sanitário	0.7653236673213358
+Artefatos de Concreto	Aduela de Concreto	0.5858050932546895
+Tomadas, interruptores e plugues	Areia, Pedra Brita, Gesso, Cal e Argila	0.9966440523507158
+Quadros e Caixas Elétricas	Tomadas, interruptores e plugues	0.37845129198467553
+Tomadas, interruptores e plugues	Ferragens para Fixar e Montar	0.9990173059982607
+Ferramentas Manuais	Cabos Elétricos	0.9562198914510497
+Artefatos de Concreto	Aduela de Concreto	0.7790082824922544
+Tomadas, interruptores e plugues	Sanitário	0.9937991919871028
+Luminárias	Lâmpadas	0.9626744673288646
+Outros - Ferragens	Tomadas, interruptores e plugues	0.7130539224387145
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.9151242991061852
+Aduela de Concreto	Artefatos de Concreto	0.6581868948545763
+Acessórios e Conexões Elétricas	Outros - Ferragens	0.11791307877276494
+Tubos e Eletrodutos	Cabos Elétricos	0.11907690102076089
+Tomadas, interruptores e plugues	Sanitário	0.4921797268965103
+Outros - Ferragens	Parafusos e acessórios	0.44699060910316135
+Cabos e Fios Elétricos	Perfis e chapas em aço carbono	0.3079757725524577
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.741525848341998
+Tomadas, interruptores e plugues	EPI: Equipamentos Proteção Individual	0.9120112471625331
+Acessórios e Conexões Elétricas	Canos e Conexões Hidráulicas	0.7810333315548351
+Quadros e Caixas Elétricas	Tomadas, interruptores e plugues	0.18188749865364018
+Outros - Ferragens	Aços para Construção	0.716663442844953
+Artefatos de Concreto	Aduela de Concreto	0.7790082824922544
+Outros - Ferragens	Perfis e chapas em aço carbono	0.6762159538928284
+Lâmpadas	Luminárias	0.8127453404414707
+EPI: Equipamentos Proteção Individual	Construção Civil	0.97944600097982
+Cimentos	Verniz e Solvente	0.3255005641444627
+Tubos e Eletrodutos	Tubos e conexões industriais	0.20593332587648777
+Cabos Elétricos	Lâmpadas	0.17380638591953532
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.9388907778836054
+Ferragens para Fixar e Montar	Cabos Elétricos	0.43290605996558934
+Canos e Conexões Hidráulicas	Sanitário	0.9994235180061329
+Cabos Elétricos	Cabos e Fios Elétricos	0.9083672134855701
+Tomadas, interruptores e plugues	Tubos e conexões industriais	0.7430028001228116
+Acessórios e Conexões Elétricas	Tomadas, interruptores e plugues	0.820311053202779
+Cabos e Fios Elétricos	Cabos Elétricos	0.9217168650737892
+Cabos e Fios Elétricos	Sanitário	0.2876346424441453
+Aduela de Concreto	Poste de Concreto	0.8930522363810982
+Cercados e Segurança	Artefatos de Concreto	0.9073810053164891
+Quadros e Caixas Elétricas	Proteções Elétricas	0.8451806244767758
+Areia, Pedra Brita, Gesso, Cal e Argila	Acessórios e Conexões Elétricas	0.21113216018705397
+Cabos e Fios Elétricos	Cabos Elétricos	0.8978612244298794
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.9484106672597943
+Cabos e Fios Elétricos	Cabos Elétricos	0.6677297835777201
+Tomadas, interruptores e plugues	Ferramentas Manuais	0.9961794993621762
+Quadros e Caixas Elétricas	Artefatos de Concreto	0.5535512731449265
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.9854784390690137
+Tomadas, interruptores e plugues	Aduela de Concreto	0.9997468608806769
+Aços para Construção	Tubos e conexões industriais	0.21415876011143528
+Cabos e Fios Elétricos	Cabos Elétricos	0.5928367191468102
+Para Raios e SPDA	Ferragens para Fixar e Montar	0.3849645659204114
+Ferragens para Fixar e Montar	Tomadas, interruptores e plugues	0.3445312346898428
+Ferramentas Manuais	Para Raios e SPDA	0.42797231095122856
+Lâmpadas	Luminárias	0.7477725655226528
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.7622485645434608
+EPI: Equipamentos Proteção Individual	Cabos Elétricos	0.6579803502769062
+Tubos e Eletrodutos	Sanitário	0.40949320549124396
+Outros - Ferragens	Tomadas, interruptores e plugues	0.4753355933989849
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.9938732410919635
+Outros - Ferragens	Tomadas, interruptores e plugues	0.15410659595660997
+Tomadas, interruptores e plugues	Cabos Elétricos	0.7202359508142836
+Artefatos de Concreto	Aduela de Concreto	0.7252503052635766
+Aduela de Concreto	Artefatos de Concreto	0.5547824142174158
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.7268397508935847
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.4489593985843567
+Tomadas, interruptores e plugues	Ferramentas Manuais	0.8244980732134773
+Ferragens para Fixar e Montar	Cabos e Fios Elétricos	0.8240079973228345
+Canos e Conexões Hidráulicas	Tomadas, interruptores e plugues	0.15761067172425064
+Aduela de Concreto	Tomadas, interruptores e plugues	0.7789267230070273
+Artefatos de Concreto	Aduela de Concreto	0.5861462711180734
+Perfis e chapas em aço carbono	Barras, Tubos e Chapas Metalon	0.4359078954222901
+Cabos e Fios Elétricos	Ferramentas Manuais	0.16073914170940473
+Cabos e Fios Elétricos	Cabos Elétricos	0.7594989528104469
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.9992686012677428
+Tomadas, interruptores e plugues	Perfis e chapas em aço carbono	0.187372965005336
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.6013556425115636
+Tomadas, interruptores e plugues	Lâmpadas	0.477560522725764
+Outros - Ferragens	Cercados e Segurança	0.5604533552839034
+Ferramentas Manuais	Cabos Elétricos	0.9704005525603931
+Aços para Construção	Cimentos	0.7569055653305613
+Tubos e Eletrodutos	Quadros e Caixas Elétricas	0.2833033410478601
+Acessórios e Conexões Elétricas	Tomadas, interruptores e plugues	0.5714389338008105
+Canos e Conexões Hidráulicas	Sanitário	0.9822167597689143
+Cabos e Fios Elétricos	Tomadas, interruptores e plugues	0.4991806431845642
+Cimentos	Verniz e Solvente	0.7014205676567508
+Luminárias	Ferragens para Fixar e Montar	0.48002426329001396
+Cabos e Fios Elétricos	Cabos Elétricos	0.8356356839318541
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.4565067089537058
+Ferramentas Manuais	Cabos e Fios Elétricos	0.43357643598953394
+Cabos Elétricos	Cabos e Fios Elétricos	0.5130326887741334
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.999796957621649
+Cabos e Fios Elétricos	Cabos Elétricos	0.7353193404755386
+Cabos e Fios Elétricos	Acessórios e Conexões Elétricas	0.8221311512673125
+Cabos e Fios Elétricos	Cabos Elétricos	0.8978612244298794
+Transformadores de Energia	Lâmpadas	0.22727832708867768
+Ferragens para Fixar e Montar	Transformadores de Energia	0.2030427634191748
+Cimentos	Tomadas, interruptores e plugues	0.7560129689872437
+Tomadas, interruptores e plugues	Aduela de Concreto	0.7058519790505927
+Barras, Tubos e Chapas Metalon	Perfis e chapas em aço carbono	0.5158555916153608
+Outros - Ferragens	Parafusos e acessórios	0.8771229428493913
+Aduela de Concreto	Poste de Concreto	0.92916296281765
+Sanitário	Artefatos de Concreto	0.4404093823888706
+Para Raios e SPDA	Cabos Elétricos	0.987445447027339
+Tomadas, interruptores e plugues	Tubos e Eletrodutos	0.9327211550491056
+Canos e Conexões Hidráulicas	Tubos e conexões industriais	0.5950937611870757
+Ferramentas Manuais	Ferragens para Fixar e Montar	0.42860181241753886
+Construção Civil	Verniz e Solvente	0.990021603491405
+Ferragens para Fixar e Montar	Perfis e chapas em aço carbono	0.5561276846774368
+Luminárias	Lâmpadas	0.5632876033503117
+Outros - Ferragens	Ferragens para Fixar e Montar	0.8759143963415986
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.889790252835827
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.1939425117506981
+Cabos e Fios Elétricos	Cabos Elétricos	0.992064999464608
+Cabos e Fios Elétricos	EPI: Equipamentos Proteção Individual	0.9288687369575844
+Perfis e chapas em aço carbono	Acessórios de Portas e Janelas	0.31468592430652553
+Ferragens para Fixar e Montar	Acessórios e Conexões Elétricas	0.5888708309388194
+Tomadas, interruptores e plugues	Aduela de Concreto	0.8101856055249937
+Tomadas, interruptores e plugues	Proteções Elétricas	0.7405495060599437
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.7199994644297187
+Ferramentas Manuais	Tomadas, interruptores e plugues	0.12765957422550067
+Artefatos de Concreto	Tomadas, interruptores e plugues	0.9749545926228562
+Quadros e Caixas Elétricas	Tomadas, interruptores e plugues	0.7192861386090916
+Barras, Tubos e Chapas Metalon	Perfis e chapas em aço carbono	0.8201104868699244
+Sanitário	Canos e Conexões Hidráulicas	0.5500763119644088
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.741525848341998
+Quadros e Caixas Elétricas	Para Raios e SPDA	0.28764264692468117
+Ferragens para Fixar e Montar	Parafusos e acessórios	0.530685357883163
+Construção Civil	Ferramentas Manuais	0.20197100149834032
+Para Raios e SPDA	Outros - Ferragens	0.502037502352595
+Cabos Elétricos	Cabos e Fios Elétricos	0.8602599416257668
+Artefatos de Concreto	Poste de Concreto	0.9762370317238244
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.9843431558135938

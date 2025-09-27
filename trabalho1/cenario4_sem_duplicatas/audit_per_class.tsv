@@ -1,0 +1,260 @@
+﻿label	precision	recall	f1_score	support
+Abajures	0.0	0.0	0.0	0.0
+Acessibilidade	0.5	1.0	0.6666666666666666	2.0
+Acessibilidade e Segurança	0.0	0.0	0.0	1.0
+Acessórios Hidráulicos	0.5	0.14285714285714285	0.2222222222222222	7.0
+Acessórios de Portas e Janelas	0.8043478260869565	0.8809523809523809	0.8409090909090909	42.0
+Acessórios e Conexões Elétricas	0.775	0.775	0.775	40.0
+Acessórios e Consumíveis para Ferramentas	0.7647058823529411	0.6842105263157895	0.7222222222222222	19.0
+Acessórios para Banheiro	0.5714285714285714	0.4444444444444444	0.5	9.0
+Acessórios para Pisos e Revestimentos	0.0	0.0	0.0	1.0
+Acessórios para telhado	0.0	0.0	0.0	4.0
+Adesivos e Colas	0.8181818181818182	0.8181818181818182	0.8181818181818182	11.0
+Adesivos e Selantes	0.0	0.0	0.0	2.0
+Aduela de Concreto	0.7571428571428571	0.8153846153846154	0.7851851851851852	65.0
+Alarmes e Sensores de Presença	0.0	0.0	0.0	2.0
+Anéis de Vedação	0.3333333333333333	0.3333333333333333	0.3333333333333333	3.0
+Apoio e Administrativo	0.0	0.0	0.0	1.0
+Aquecedores de Água	0.6	1.0	0.75	3.0
+Ar Condicionado	0.7878787878787878	0.9285714285714286	0.8524590163934426	28.0
+Areia, Pedra Brita, Gesso, Cal e Argila	0.8148148148148148	0.88	0.8461538461538461	25.0
+Argamassas	0.75	1.0	0.8571428571428571	9.0
+Armazenamento, Captação e Tratamento de Água	0.8181818181818182	0.9	0.8571428571428571	10.0
+Artefatos de Concreto	0.6206896551724138	0.72	0.6666666666666666	75.0
+Assentos Sanitários	0.7777777777777778	0.7777777777777778	0.7777777777777778	9.0
+Automação Industrial	0.9230769230769231	0.75	0.8275862068965517	16.0
+Automação Residencial	0.0	0.0	0.0	1.0
+Aços para Construção	0.6666666666666666	0.6956521739130435	0.6808510638297872	23.0
+Banheiro Comercial	1.0	1.0	1.0	1.0
+Barras e tubos INOX	1.0	1.0	1.0	4.0
+Barras, Tubos e Chapas Metalon	0.6666666666666666	0.5714285714285714	0.6153846153846154	21.0
+Barreiras de Proteção	1.0	0.5	0.6666666666666666	8.0
+Batentes e Guarnições	0.0	0.0	0.0	0.0
+Baterias	0.75	1.0	0.8571428571428571	6.0
+Blocos Cerâmicos	1.0	0.8	0.8888888888888888	5.0
+Blocos de Concreto	0.7083333333333334	0.9444444444444444	0.8095238095238095	18.0
+Blocos de Vidro	0.0	0.0	0.0	1.0
+CBUQ	1.0	1.0	1.0	1.0
+Cabos Blindados	1.0	1.0	1.0	1.0
+Cabos Elétricos	0.8032786885245902	0.9702970297029703	0.8789237668161435	101.0
+Cabos e Fios Elétricos	0.775	0.5344827586206896	0.6326530612244898	58.0
+Cadeiras	0.0	0.0	0.0	1.0
+Caixas de Esgoto	0.5	0.4	0.4444444444444444	5.0
+Calhas, Rufos e Algerosas	0.6923076923076923	0.8181818181818182	0.75	11.0
+Canos de Concreto	1.0	0.16666666666666666	0.2857142857142857	6.0
+Canos e Conexões Hidráulicas	0.7440944881889764	0.9402985074626866	0.8307692307692308	201.0
+Carenagem hidraulica	0.0	0.0	0.0	1.0
+Carrinhos de Carga e Rodas	1.0	1.0	1.0	1.0
+Casa em Steel-Frame	0.0	0.0	0.0	1.0
+Casas pré-fabricadas	1.0	1.0	1.0	1.0
+Cercados e Segurança	0.84	0.9545454545454546	0.8936170212765957	22.0
+Chapa em alumínio	0.6666666666666666	0.4	0.5	5.0
+Chapas INOX	1.0	0.5	0.6666666666666666	2.0
+Chapas e Painéis	0.8888888888888888	0.9411764705882353	0.9142857142857143	17.0
+Chuveiros	0.0	0.0	0.0	1.0
+Cimento Asfáltico de Petróleo - CAP	1.0	1.0	1.0	1.0
+Cimentos	0.8333333333333334	0.9090909090909091	0.8695652173913043	22.0
+Cintas, Cabos, Cordas, Correntes e Acessórios	0.6666666666666666	0.6666666666666666	0.6666666666666666	3.0
+Climatizadores de Ar	1.0	1.0	1.0	1.0
+Combate a Incêndio	0.6666666666666666	0.6666666666666666	0.6666666666666666	3.0
+Compressor de Ar	0.0	0.0	0.0	1.0
+Compressores	0.0	0.0	0.0	1.0
+Concreto	1.0	0.3333333333333333	0.5	6.0
+Condutos	0.6	0.6	0.6	10.0
+Conduítes	0.0	0.0	0.0	0.0
+Conectores	1.0	1.0	1.0	5.0
+Conexões	0.5	0.5	0.5	2.0
+Construção Civil	0.72	0.6923076923076923	0.7058823529411765	26.0
+Conteineres	1.0	0.4	0.5714285714285714	5.0
+Controlador de Carga	1.0	1.0	1.0	2.0
+Controlador de Demanda	0.0	0.0	0.0	0.0
+Controladores de FP	1.0	1.0	1.0	1.0
+Corantes	0.0	0.0	0.0	1.0
+Cubas para Banheiro	1.0	1.0	1.0	1.0
+Câmeras de Segurança e CFTV	0.75	1.0	0.8571428571428571	3.0
+Disjuntores e Fusíveis	1.0	0.2	0.3333333333333333	5.0
+Dispensers	0.3333333333333333	1.0	0.5	1.0
+Divisórias em Granilite	0.0	0.0	0.0	1.0
+Dutos e conexões PEAD	0.0	0.0	0.0	1.0
+EPC: Equipamentos de Proteção Coletiva	0.0	0.0	0.0	1.0
+EPI: Equipamentos Proteção Individual	0.7230769230769231	0.8867924528301887	0.7966101694915254	53.0
+Eletricista	1.0	1.0	1.0	1.0
+Eletrocalhas	0.6666666666666666	0.6153846153846154	0.64	13.0
+Eletrodomésticos	0.3333333333333333	0.5	0.4	2.0
+Eletrodomésticos para Cozinha	0.0	0.0	0.0	1.0
+Eletros para Cozinha	0.0	0.0	0.0	1.0
+Elevador Cremalheira	0.5	1.0	0.6666666666666666	3.0
+Equipamentos	0.8	1.0	0.8888888888888888	4.0
+Equipamentos Elétricos	0.0	0.0	0.0	5.0
+Equipamentos de laboratório	0.0	0.0	0.0	1.0
+Equipamentos para Construção	0.42857142857142855	0.5	0.46153846153846156	6.0
+Equipamentos para Gases Medicinais	0.5	1.0	0.6666666666666666	3.0
+Equipamentos para Piscina	0.0	0.0	0.0	1.0
+Escadas Móveis	0.6666666666666666	0.6666666666666666	0.6666666666666666	3.0
+Esportes e Lazer	0.25	0.5	0.3333333333333333	2.0
+Espuma Expansiva	1.0	1.0	1.0	1.0
+Estabilizadores	1.0	1.0	1.0	1.0
+Exaustores	1.0	1.0	1.0	2.0
+Fechaduras e Travas	0.7142857142857143	0.8333333333333334	0.7692307692307693	6.0
+Ferragens	0.0	0.0	0.0	2.0
+Ferragens para Fixar e Montar	0.6666666666666666	0.7719298245614035	0.7154471544715447	57.0
+Ferragens para Porta	0.0	0.0	0.0	1.0
+Ferramentas   para Pintura	0.6	1.0	0.75	3.0
+Ferramentas Elétricas/Bateria	0.625	0.7142857142857143	0.6666666666666666	7.0
+Ferramentas Manuais	0.75	0.673469387755102	0.7096774193548387	49.0
+Ferramentas de Medição	1.0	0.7142857142857143	0.8333333333333334	7.0
+Ferramentas para Construção	0.8	0.6153846153846154	0.6956521739130435	13.0
+Ferramentas para Jardim	0.8421052631578947	0.8421052631578947	0.8421052631578947	19.0
+Ferramentas para Solda	0.0	0.0	0.0	1.0
+Ferramentas por Profissão	1.0	1.0	1.0	2.0
+Fibra de Vidro	0.0	0.0	0.0	1.0
+Filtros, Purificadores e Bebedouros	0.5	0.5	0.5	2.0
+Fitas	0.7142857142857143	0.8333333333333334	0.7692307692307693	6.0
+Fontes de Energia	0.8333333333333334	0.8333333333333334	0.8333333333333334	12.0
+Formas	0.7647058823529411	0.6842105263157895	0.7222222222222222	19.0
+Forros	0.8333333333333334	1.0	0.9090909090909091	5.0
+Gases refrigerantes	0.0	0.0	0.0	1.0
+Gesso e Drywall	0.8	0.8888888888888888	0.8421052631578947	9.0
+Iluminação Pública	0.0	0.0	0.0	1.0
+Impermeabilizantes	0.5	0.3333333333333333	0.4	3.0
+Informática	0.0	0.0	0.0	1.0
+Infraestrutura	0.9	0.6428571428571429	0.75	14.0
+Insumos metálicos	0.5384615384615384	0.6363636363636364	0.5833333333333334	11.0
+Inversores	0.0	0.0	0.0	1.0
+Isolamento	1.0	0.5	0.6666666666666666	4.0
+Janelas e Venezianas	0.0	0.0	0.0	1.0
+Kits para Banheiro	1.0	1.0	1.0	1.0
+Lixeiras	0.0	0.0	0.0	1.0
+Lixeiras de Calçada	0.0	0.0	0.0	1.0
+Lona, Papelão e Plástico Bolha	0.75	0.75	0.75	4.0
+Luminárias	0.9032258064516129	0.8484848484848485	0.875	33.0
+Lâmpadas	0.859375	1.0	0.9243697478991597	55.0
+Madeiras para Construção	0.5833333333333334	0.7777777777777778	0.6666666666666666	9.0
+Manta e Produtos Asfálticos	0.0	0.0	0.0	4.0
+Marmores e Granitos	0.4	1.0	0.5714285714285714	2.0
+Massa Acrílica	1.0	1.0	1.0	1.0
+Massa Corrida e Niveladora	0.75	0.75	0.75	4.0
+Materiais para Obras	0.0	0.0	0.0	1.0
+Medidores de Energia	0.0	0.0	0.0	1.0
+Medição e instrumentação	1.0	1.0	1.0	3.0
+Minerais	0.0	0.0	0.0	0.0
+Máquinas Elétricas	0.0	0.0	0.0	1.0
+Móveis	0.0	0.0	0.0	1.0
+Móveis de Cozinha	0.0	0.0	0.0	0.0
+Nobreaks	0.8	1.0	0.8888888888888888	4.0
+Notebooks	0.0	0.0	0.0	2.0
+Organização e Transporte de Ferramentas	1.0	0.5	0.6666666666666666	2.0
+Outros	0.0	0.0	0.0	10.0
+Outros - Banheiros	0.0	0.0	0.0	1.0
+Outros - Eletros	0.0	0.0	0.0	1.0
+Outros - Ferragens	0.5555555555555556	0.37037037037037035	0.4444444444444444	27.0
+Outros - Ferramentas	0.0	0.0	0.0	2.0
+Outros - Iluminação	0.0	0.0	0.0	4.0
+Outros - Madeiras	0.0	0.0	0.0	2.0
+Outros - Materiais Elétricos	0.6666666666666666	0.2	0.3076923076923077	10.0
+Outros - Materiais Hidráulicos	0.3333333333333333	0.16666666666666666	0.2222222222222222	12.0
+Outros - Materiais de Construção	0.5	0.14285714285714285	0.2222222222222222	14.0
+Outros - Pavimentação	0.0	0.0	0.0	2.0
+Outros - Pisos e Revestimentos	0.6666666666666666	0.5	0.5714285714285714	4.0
+Outros - Tintas e Acessórios	0.0	0.0	0.0	2.0
+Outros Elétricos	0.0	0.0	0.0	2.0
+Painéis Fotovoltaicos	0.5	1.0	0.6666666666666666	1.0
+Pallets	0.0	0.0	0.0	0.0
+Para Raios e SPDA	0.6071428571428571	0.7391304347826086	0.6666666666666666	23.0
+Parafusos e acessórios	0.7727272727272727	0.6296296296296297	0.6938775510204082	27.0
+Pavimentaço	1.0	1.0	1.0	2.0
+Perfis e chapas em aço carbono	0.5333333333333333	0.6666666666666666	0.5925925925925926	24.0
+Perfis para Steel Frame	1.0	1.0	1.0	2.0
+Pias e Bancadas em Mármore	0.0	0.0	0.0	1.0
+Pias e Cubas de Cozinha	1.0	1.0	1.0	1.0
+Pias e Lavatórios	0.6666666666666666	1.0	0.8	4.0
+Pincéis, Rolos e Acessórios	0.0	0.0	0.0	2.0
+Piso Elevado	1.0	0.6666666666666666	0.8	3.0
+Pisos	0.0	0.0	0.0	1.0
+Pisos Cerâmicos	0.5	0.3333333333333333	0.4	3.0
+Pisos Laminados	1.0	0.5	0.6666666666666666	2.0
+Pisos Vinílicos	0.5	1.0	0.6666666666666666	1.0
+Pisos de Borracha	0.0	0.0	0.0	1.0
+Pisos de concreto	0.0	0.0	0.0	1.0
+Placa de obra	0.6666666666666666	1.0	0.8	2.0
+Placas de sinalização de segurança	0.0	0.0	0.0	1.0
+Placas e forros minerais	1.0	1.0	1.0	1.0
+Plataformas de acessibilidade	1.0	1.0	1.0	1.0
+Plugs e Adaptadores	0.6	0.6	0.6	5.0
+Polias e rolamentos	0.0	0.0	0.0	1.0
+Porcelanatos	1.0	0.3333333333333333	0.5	3.0
+Portas corta fogo	1.0	1.0	1.0	1.0
+Portas e esquadrias	0.75	0.6	0.6666666666666666	10.0
+Portões	1.0	1.0	1.0	1.0
+Poste Metálico	0.9285714285714286	0.7647058823529411	0.8387096774193549	17.0
+Poste de Concreto	0.8979591836734694	0.9166666666666666	0.9072164948453608	48.0
+Poste de fibra de vidro	1.0	1.0	1.0	1.0
+Poste de madeira	0.5	0.3333333333333333	0.4	3.0
+Postes de Jardim	0.0	0.0	0.0	1.0
+Pressurizadores de Água	1.0	0.5	0.6666666666666666	2.0
+Produtos para Aplicação e Acabamento	0.0	0.0	0.0	1.0
+Produtos para Limpeza	0.5	0.4	0.4444444444444444	10.0
+Produtos para Madeira	1.0	0.5714285714285714	0.7272727272727273	7.0
+Produtos para Área de Serviço	0.0	0.0	0.0	1.0
+Proteções Elétricas	0.8148148148148148	0.9565217391304348	0.88	69.0
+Pré-Moldados	0.0	0.0	0.0	1.0
+Pré-moldados	1.0	0.5	0.6666666666666666	2.0
+Puxadores	0.0	0.0	0.0	2.0
+Quadros e Caixas Elétricas	0.75	0.782608695652174	0.7659574468085106	23.0
+Ralos e Grelhas	0.8571428571428571	1.0	0.9230769230769231	6.0
+Rede de hidrantes	1.0	1.0	1.0	1.0
+Refletores	1.0	0.9	0.9473684210526315	10.0
+Registros e Bases	0.8125	1.0	0.896551724137931	13.0
+Revestimentos	0.0	0.0	0.0	1.0
+Revestimentos Externos	1.0	1.0	1.0	3.0
+Revestimentos Internos	0.0	0.0	0.0	2.0
+Rodapés	0.8571428571428571	1.0	0.9230769230769231	6.0
+Rodízios, Pés para Móveis e Eletrodomésticos	0.0	0.0	0.0	1.0
+Sacos de Entulho	0.0	0.0	0.0	1.0
+Sanitário	0.8151260504201681	0.9603960396039604	0.8818181818181818	101.0
+Seladores e Fundos	0.0	0.0	0.0	1.0
+Serviços Mecânicos	0.6666666666666666	1.0	0.8	2.0
+Sinalização, Letras e Números	0.6666666666666666	0.6666666666666666	0.6666666666666666	3.0
+Sistemas	0.8333333333333334	0.8333333333333334	0.8333333333333334	6.0
+Solventes e Removedores	0.0	0.0	0.0	1.0
+String Box	0.5	1.0	0.6666666666666666	1.0
+Subestações e Alta Tensão	0.8333333333333334	0.625	0.7142857142857143	8.0
+Suporte e Fixação	0.0	0.0	0.0	1.0
+Suporte para iluminação em poste	0.0	0.0	0.0	1.0
+Tampões e Grelhas	0.0	0.0	0.0	2.0
+Tela, cerca e gabião em aço	0.75	0.75	0.75	8.0
+Telhas	0.782608695652174	0.8571428571428571	0.8181818181818182	21.0
+Terra vegetal (substrato)	1.0	1.0	1.0	1.0
+Terraplenagem	0.0	0.0	0.0	1.0
+Textura de Parede	1.0	1.0	1.0	1.0
+Tijolos e Blocos Estruturais	0.75	0.8	0.7741935483870968	15.0
+Todos os Pisos	0.0	0.0	0.0	1.0
+Tomadas e Interruptores Específicos	0.0	0.0	0.0	1.0
+Tomadas, interruptores e plugues	0.7216494845360825	0.5343511450381679	0.6140350877192983	131.0
+Torneiras	0.5	1.0	0.6666666666666666	5.0
+Torneiras para Banheiro	0.0	0.0	0.0	1.0
+Torneiras para Cozinha	0.0	0.0	0.0	1.0
+Transformadores de Energia	0.8333333333333334	1.0	0.9090909090909091	30.0
+Transporte Vertical	1.0	1.0	1.0	1.0
+Transportes	0.7692307692307693	0.9090909090909091	0.8333333333333334	11.0
+Tubos e Eletrodutos	0.7916666666666666	0.7916666666666666	0.7916666666666666	48.0
+Tubos e conexões	0.5	0.25	0.3333333333333333	4.0
+Tubos e conexões industriais	0.5714285714285714	0.6666666666666666	0.6153846153846154	24.0
+Tubos e conexões para Gases Medicinais	0.8888888888888888	0.6153846153846154	0.7272727272727273	13.0
+Tubulação Defofo	1.0	1.0	1.0	1.0
+Usina de Asfalto	0.3333333333333333	0.3333333333333333	0.3333333333333333	3.0
+Usina de Solo	1.0	1.0	1.0	1.0
+Utilidades Domésticas	0.0	0.0	0.0	1.0
+Vedação e Impermeabilização	0.5	0.5	0.5	2.0
+Vegetação	1.0	0.5	0.6666666666666666	2.0
+Verniz e Solvente	0.6744186046511628	0.9666666666666667	0.7945205479452054	30.0
+Veículos de transporte	0.0	0.0	0.0	1.0
+Vibroacabadoras	1.0	1.0	1.0	1.0
+Vidros	1.0	1.0	1.0	8.0
+Vidros para Sacadas	1.0	1.0	1.0	1.0
+Vigas e perfis metálicos	0.0	0.0	0.0	0.0
+maquinas pesadas	0.625	1.0	0.7692307692307693	5.0
+Água Fria	0.8	0.21052631578947367	0.3333333333333333	19.0
+Água Quente	0.8	0.5714285714285714	0.6666666666666666	7.0
+macro avg	0.5238461646649617	0.5162791671574098	0.5038554713753771	2479.0
+weighted avg	0.7239731189989436	0.7434449374747882	0.7206193627588642	2479.0

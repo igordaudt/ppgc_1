@@ -1,0 +1,2 @@
+﻿cv_f1_macro_mean	cv_f1_macro_std	rf__max_depth	rf__max_features	rf__min_samples_leaf	rf__n_estimators
+0.32132772200885096	0.005012406532513947		sqrt	2	120

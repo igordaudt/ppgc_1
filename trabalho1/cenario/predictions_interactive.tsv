@@ -1,2 +1,0 @@
-﻿Prod_Desc	ID_Sub	Sub_Name	predicted_label	predicted_proba	top_k_labels	top_k_probas	low_confidence_flag	model_source
-argamassa cimentcola flexível aciii	169	Cimentos	Cimentos	0.10025356328178042	['Cimentos', 'Argamassas', 'Cabos Elétricos', 'Revestimentos', 'Revestimentos Externos']	[0.10025356328178042, 0.00468182268842116, 0.003807006479731756, 0.00271046875800836, 0.002702674010702495]	True	tuned

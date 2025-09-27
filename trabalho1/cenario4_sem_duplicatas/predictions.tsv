@@ -1,0 +1,6 @@
+﻿Prod_Desc	predicted_label	predicted_proba	top_k_labels	top_k_probas	low_confidence_flag
+Disjuntor Bipolar 20A Curva C para trilho DIN	Proteções Elétricas	0.039881292227959594	Proteções Elétricas|Tomadas, interruptores e plugues|Acessórios e Conexões Elétricas|Tubos e conexões industriais|Calhas, Rufos e Algerosas	0.0399|0.0034|0.0032|0.0030|0.0030	True
+Luminária LED retangular de embutir 4000 K 40 W	Luminárias	0.012655249875496875	Luminárias|Tomadas, interruptores e plugues|Lâmpadas|Artefatos de Concreto|Quadros e Caixas Elétricas	0.0127|0.0034|0.0034|0.0032|0.0032	True
+Cabo condutor 16mm² EPR BT 1kV	Cabos Elétricos	0.038544850267369986	Cabos Elétricos|Cabos e Fios Elétricos|Outros - Materiais Elétricos|Ferramentas Manuais|Lona, Papelão e Plástico Bolha	0.0385|0.0040|0.0032|0.0030|0.0029	True
+Para-raios de distribuição 12 kV 10 kA	Para Raios e SPDA	0.008135406373574496	Para Raios e SPDA|Transformadores de Energia|Proteções Elétricas|Outros - Materiais Elétricos|Acessórios e Conexões Elétricas	0.0081|0.0039|0.0038|0.0033|0.0031	True
+Haste de aterramento 3/4 para SPDA	Para Raios e SPDA	0.017563308742720166	Para Raios e SPDA|Poste Metálico|Ferramentas para Construção|Outros - Materiais de Construção|Acessórios de Portas e Janelas	0.0176|0.0036|0.0032|0.0032|0.0031	True

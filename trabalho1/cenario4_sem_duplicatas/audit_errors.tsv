@@ -1,0 +1,626 @@
+﻿y_true	y_pred	pred_confidence
+Outros - Ferragens	Acessórios Hidráulicos	0.004841599624416867
+Canos e Conexões Hidráulicas	Sanitário	0.01647510372231639
+Lixeiras de Calçada	Barras, Tubos e Chapas Metalon	0.005101681966283459
+Madeiras para Construção	Marmores e Granitos	0.0056352237498675985
+Canos e Conexões Hidráulicas	Sanitário	0.023768956329580124
+Acessórios e Conexões Elétricas	Tomadas, interruptores e plugues	0.028315294466172675
+Cabos e Fios Elétricos	Cabos Elétricos	0.009344940207434227
+Produtos para Madeira	Outros - Materiais Hidráulicos	0.009423351143461899
+Cabos e Fios Elétricos	Sinalização, Letras e Números	0.0072319066900167015
+Tomadas, interruptores e plugues	maquinas pesadas	0.04701283342616214
+Outros - Ferragens	Perfis e chapas em aço carbono	0.004775648778734781
+Sinalização, Letras e Números	Abajures	0.0029673590504451044
+Ferragens para Fixar e Montar	Cabos e Fios Elétricos	0.005196571144226617
+Outros - Materiais Elétricos	Ar Condicionado	0.004718358230069831
+Tomadas, interruptores e plugues	Outros - Materiais Hidráulicos	0.009466145159975898
+Poste de Concreto	Poste Metálico	0.060602765892560286
+Sanitário	Assentos Sanitários	0.07614475974756907
+Outros - Tintas e Acessórios	Canos e Conexões Hidráulicas	0.004335625022482799
+Ferragens para Fixar e Montar	Acessórios e Conexões Elétricas	0.032568858518647145
+Condutos	Tomadas, interruptores e plugues	0.016886730418622254
+Perfis e chapas em aço carbono	Parafusos e acessórios	0.011432565566915857
+Tubos e conexões	Cabos Elétricos	0.005517405000492209
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.0074880556619704025
+Canos e Conexões Hidráulicas	Sanitário	0.008642004087448628
+Torneiras para Cozinha	Torneiras	0.005683855730196767
+Cabos e Fios Elétricos	Cabos Elétricos	0.18251698325433488
+Tomadas, interruptores e plugues	Tubos e conexões industriais	0.00884465712132129
+Acessórios e Conexões Elétricas	Fontes de Energia	0.0054845773070979304
+Casa em Steel-Frame	Abajures	0.0029673590504451044
+Ferramentas Elétricas/Bateria	Automação Industrial	0.006612176683997859
+Construção Civil	Para Raios e SPDA	0.005658609760239396
+Fibra de Vidro	Artefatos de Concreto	0.004708640231514961
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.032040193997844246
+Água Fria	Registros e Bases	0.025193103229858946
+Automação Industrial	Proteções Elétricas	0.010327243376505335
+Aduela de Concreto	Artefatos de Concreto	0.008796590393488976
+Perfis e chapas em aço carbono	Tubos e conexões industriais	0.005273616030960513
+Insumos metálicos	Canos e Conexões Hidráulicas	0.004853587483157769
+Ferramentas Manuais	Cabos Elétricos	0.006382876638495238
+Artefatos de Concreto	Aduela de Concreto	0.016046925804700907
+Telhas	Acessórios para Banheiro	0.007297840830376048
+Perfis e chapas em aço carbono	Escadas Móveis	0.004974639896093023
+Construção Civil	EPI: Equipamentos Proteção Individual	0.00526153903911655
+Perfis e chapas em aço carbono	Outros - Ferragens	0.00512907970860887
+Refletores	Luminárias	0.013817629021056606
+Tomadas, interruptores e plugues	Ferragens para Fixar e Montar	0.011337269306752941
+Construção Civil	Ferramentas Manuais	0.01892726927177394
+Outros - Materiais Elétricos	Tubos e Eletrodutos	0.035075537598932165
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.014503070424849905
+Compressor de Ar	Ferramentas Elétricas/Bateria	0.005858993477884863
+Acessórios e Conexões Elétricas	Tijolos e Blocos Estruturais	0.004947379564390415
+Blocos Cerâmicos	Tijolos e Blocos Estruturais	0.013014050758435975
+Outros - Pisos e Revestimentos	Artefatos de Concreto	0.006313774036369542
+Revestimentos Internos	Outros	0.0046900002139374135
+Construção Civil	Verniz e Solvente	0.01579841478090407
+Automação Residencial	Abajures	0.0029673590504451044
+Tubos e conexões industriais	Perfis e chapas em aço carbono	0.004001994950959925
+Outros - Materiais Hidráulicos	Canos e Conexões Hidráulicas	0.0047262138231012885
+Tomadas, interruptores e plugues	Aduela de Concreto	0.00939545508839013
+Caixas de Esgoto	Artefatos de Concreto	0.006567991821498301
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.006832007444684052
+Outros - Materiais Hidráulicos	Canos e Conexões Hidráulicas	0.006874650126271244
+Subestações e Alta Tensão	Outros - Ferragens	0.007531610716682855
+Anéis de Vedação	Canos e Conexões Hidráulicas	0.008791915885353276
+Água Quente	EPI: Equipamentos Proteção Individual	0.007231280421793652
+Tubos e conexões	Canos e Conexões Hidráulicas	0.01767969892786493
+Disjuntores e Fusíveis	Proteções Elétricas	0.012531701545152967
+Infraestrutura	Outros - Ferragens	0.00854352368129798
+Tomadas, interruptores e plugues	Madeiras para Construção	0.016871403268732214
+Proteções Elétricas	Acessórios e Conexões Elétricas	0.012065937302401412
+Proteções Elétricas	Para Raios e SPDA	0.008168499828753922
+Outros - Ferragens	Tomadas, interruptores e plugues	0.009519555822139847
+Acessórios e Conexões Elétricas	Ferragens para Fixar e Montar	0.004885114696393726
+Ferramentas Manuais	Tomadas, interruptores e plugues	0.005950417917178567
+Acessórios e Conexões Elétricas	Proteções Elétricas	0.006309666309076139
+Artefatos de Concreto	Aduela de Concreto	0.004094339782215279
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.01104492140889432
+Manta e Produtos Asfálticos	Usina de Asfalto	0.013273801672104008
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.005627427738218526
+Materiais para Obras	Verniz e Solvente	0.005241296399502999
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.005767021934832995
+Ferramentas para Construção	Equipamentos para Construção	0.008407475775341716
+Outros - Ferragens	Canos e Conexões Hidráulicas	0.004190873183973863
+Outros Elétricos	Equipamentos	0.004310219671404509
+Cabos e Fios Elétricos	Cabos Elétricos	0.007099914497842222
+Aduela de Concreto	Artefatos de Concreto	0.018235829622827743
+Ferramentas para Jardim	Cercados e Segurança	0.00523457393342657
+Luminárias	Lâmpadas	0.00922310121884001
+Poste Metálico	Poste de Concreto	0.005281287144198814
+Luminárias	Tomadas, interruptores e plugues	0.005902629408564923
+Insumos metálicos	Perfis e chapas em aço carbono	0.008657476766659556
+Ferramentas para Construção	EPI: Equipamentos Proteção Individual	0.005563183147037865
+Cabos e Fios Elétricos	Cabos Elétricos	0.16762646916332138
+Sanitário	Canos e Conexões Hidráulicas	0.07019843611450513
+Acessórios Hidráulicos	Transformadores de Energia	0.004179545661555432
+Perfis e chapas em aço carbono	Parafusos e acessórios	0.0106709357524889
+Impermeabilizantes	Vedação e Impermeabilização	0.005276014875297742
+Cimentos	Impermeabilizantes	0.009267920656156267
+Ferramentas Manuais	Cabos Elétricos	0.010742737553902308
+Portas e esquadrias	Acessórios de Portas e Janelas	0.007180179573442404
+Cabos e Fios Elétricos	Torneiras para Cozinha	0.007184935760835342
+Dutos e conexões PEAD	Canos e Conexões Hidráulicas	0.027098692470751452
+Outros - Materiais Hidráulicos	Formas	0.006253770041661382
+Canos e Conexões Hidráulicas	Tubos e Eletrodutos	0.023779975171876237
+Alarmes e Sensores de Presença	Equipamentos para Gases Medicinais	0.010917085972087152
+Outros - Materiais de Construção	Canos e Conexões Hidráulicas	0.006001279100618696
+Canos e Conexões Hidráulicas	EPI: Equipamentos Proteção Individual	0.01630829593827873
+Cabos e Fios Elétricos	Telhas	0.004756884188574258
+Sistemas	Ferramentas Manuais	0.00919606206410527
+EPI: Equipamentos Proteção Individual	Proteções Elétricas	0.0038698566457458566
+Ferramentas Manuais	Cabos Elétricos	0.006843571336570152
+Telhas	Cimentos	0.11610752731600912
+Outros - Tintas e Acessórios	Verniz e Solvente	0.005265657412615501
+Barreiras de Proteção	Canos e Conexões Hidráulicas	0.006494162205813911
+Água Quente	Tomadas, interruptores e plugues	0.004230110789774719
+Outros - Ferragens	Tubos e conexões industriais	0.0062756096523175695
+Tomadas, interruptores e plugues	Areia, Pedra Brita, Gesso, Cal e Argila	0.0869497374827861
+Assentos Sanitários	Construção Civil	0.0050809768595374396
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.03685251172119251
+Artefatos de Concreto	Quadros e Caixas Elétricas	0.015732397357477678
+Poste de Concreto	Quadros e Caixas Elétricas	0.005716388410875253
+Ferragens para Fixar e Montar	Canos e Conexões Hidráulicas	0.005728814908744039
+Outros - Materiais Elétricos	Proteções Elétricas	0.021720055122096134
+Concreto	Artefatos de Concreto	0.005715951238705802
+Puxadores	Tomadas, interruptores e plugues	0.005338371807432045
+Pressurizadores de Água	Equipamentos para Construção	0.010007750853360047
+Revestimentos Internos	Argamassas	0.009688539957108756
+Outros	Gesso e Drywall	0.0128157763999182
+Chapa em alumínio	Perfis e chapas em aço carbono	0.01313830258979019
+Ferragens para Fixar e Montar	Cabos e Fios Elétricos	0.007634707093601699
+Portas e esquadrias	Acessórios de Portas e Janelas	0.01121169320804907
+Insumos metálicos	Chapas e Painéis	0.004523939629120461
+Canos de Concreto	Canos e Conexões Hidráulicas	0.0120008811838027
+Tijolos e Blocos Estruturais	Blocos de Concreto	0.005290885197786929
+Manta e Produtos Asfálticos	Produtos para Limpeza	0.003849357507488056
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.014467923943086726
+Escadas Móveis	Acessórios de Portas e Janelas	0.008193333764618454
+Tomadas, interruptores e plugues	EPI: Equipamentos Proteção Individual	0.007452817385146048
+Veículos de transporte	Ferramentas Manuais	0.004241700211282876
+Assentos Sanitários	Construção Civil	0.006673599203893945
+Artefatos de Concreto	Aduela de Concreto	0.01031266638016008
+Areia, Pedra Brita, Gesso, Cal e Argila	Esportes e Lazer	0.012723081301421258
+Ferragens para Fixar e Montar	Outros - Ferragens	0.006302991918639503
+Ferragens para Fixar e Montar	Tomadas, interruptores e plugues	0.005976129558039395
+Outros - Materiais Hidráulicos	Sanitário	0.008191610933596603
+Outros	EPI: Equipamentos Proteção Individual	0.007505569282432672
+Perfis e chapas em aço carbono	Placa de obra	0.003933044988651119
+Concreto	Sanitário	0.26367684371326
+Lixeiras	Fontes de Energia	0.11143403115526791
+Canos de Concreto	Tubos e Eletrodutos	0.0049271767680973315
+Outros - Materiais de Construção	Tubos e conexões industriais	0.009357847514419438
+Acessórios Hidráulicos	Canos e Conexões Hidráulicas	0.03556575622318216
+Ferragens para Fixar e Montar	Perfis e chapas em aço carbono	0.004775648778734781
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.010228089453354912
+Acessórios e Consumíveis para Ferramentas	Tubos e Eletrodutos	0.008624557347033575
+Aduela de Concreto	Artefatos de Concreto	0.006519521713730029
+Terraplenagem	Tela, cerca e gabião em aço	0.010730214817015183
+Cercados e Segurança	Tela, cerca e gabião em aço	0.00702562260594836
+Chapas INOX	Acessibilidade	0.004293844877432618
+Aços para Construção	Perfis e chapas em aço carbono	0.01374619450086378
+Outros - Iluminação	Lâmpadas	0.06119507265396868
+Armazenamento, Captação e Tratamento de Água	Outros - Materiais de Construção	0.006655007379475332
+Ferragens para Porta	Portas e esquadrias	0.011543197047679171
+Usina de Asfalto	Tomadas, interruptores e plugues	0.00556698782974287
+Construção Civil	Transportes	0.023119065675945558
+Outros - Iluminação	Lâmpadas	0.00442093578150875
+Ferramentas Manuais	Ferragens para Fixar e Montar	0.004951329348825477
+Outros - Ferragens	Vigas e perfis metálicos	0.004924167241285975
+Adesivos e Colas	Canos e Conexões Hidráulicas	0.018428557725503045
+Adesivos e Colas	Acessórios para Banheiro	0.004810853719392019
+Outros	Canos e Conexões Hidráulicas	0.005191073978145361
+Artefatos de Concreto	Formas	0.005974501956986206
+Tubos e Eletrodutos	Tomadas, interruptores e plugues	0.006656108002547466
+Outros - Materiais de Construção	Telhas	0.009004374069487663
+Poste Metálico	Para Raios e SPDA	0.005897324175414154
+Cintas, Cabos, Cordas, Correntes e Acessórios	Ferramentas   para Pintura	0.004133401135510216
+Todos os Pisos	Artefatos de Concreto	0.014745060437838433
+Acessórios e Consumíveis para Ferramentas	Tomadas, interruptores e plugues	0.0037352546022951217
+Tubos e conexões industriais	Eletrocalhas	0.017548307066915257
+Verniz e Solvente	Outros	0.006298797618211456
+Produtos para Limpeza	Móveis de Cozinha	0.0036949123121745855
+Equipamentos de laboratório	Verniz e Solvente	0.0044883925681898735
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.005767021934832995
+Acessórios e Conexões Elétricas	Outros - Materiais Elétricos	0.004187906888894143
+Conexões	Canos e Conexões Hidráulicas	0.00395556206948316
+Canos e Conexões Hidráulicas	Sanitário	0.015072063944581899
+Ferragens para Fixar e Montar	Cabos Elétricos	0.0055269193270507016
+Outros - Ferramentas	Acessórios e Consumíveis para Ferramentas	0.012731105696490972
+Cabos e Fios Elétricos	Areia, Pedra Brita, Gesso, Cal e Argila	0.011754151607250265
+Transportes	Pallets	0.005630963819757583
+Aços para Construção	Insumos metálicos	0.014648580676279065
+Ferramentas Manuais	Cabos Elétricos	0.011814791070783625
+Tomadas, interruptores e plugues	maquinas pesadas	0.049425667210693386
+Pincéis, Rolos e Acessórios	Ferramentas para Jardim	0.04055145733671859
+Ferramentas Elétricas/Bateria	Transportes	0.01117734818204839
+Tijolos e Blocos Estruturais	Blocos de Concreto	0.06258407058178202
+Barras, Tubos e Chapas Metalon	Tubos e Eletrodutos	0.005504120873079246
+Parafusos e acessórios	Forros	0.00453998112786942
+Tomadas, interruptores e plugues	Ferramentas Manuais	0.007495113611773302
+Produtos para Limpeza	Dispensers	0.005153985744803407
+Outros - Materiais Elétricos	Proteções Elétricas	0.016754529537355102
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.017646777472398796
+EPI: Equipamentos Proteção Individual	Cercados e Segurança	0.005179853536640656
+Luminárias	Tubos e Eletrodutos	0.004993283179099724
+Ferramentas para Solda	Acessórios e Conexões Elétricas	0.004201986835251191
+Quadros e Caixas Elétricas	Sanitário	0.00456017442384142
+Tomadas, interruptores e plugues	Ferragens para Fixar e Montar	0.014996710666983413
+Tubos e Eletrodutos	Barras, Tubos e Chapas Metalon	0.0052219651104635344
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.07689875109668547
+Artefatos de Concreto	Blocos de Concreto	0.0037314814525030654
+Outros Elétricos	Ferramentas para Jardim	0.0041763255340867495
+Acessórios de Portas e Janelas	Verniz e Solvente	0.008692172532338832
+Outros - Ferragens	Cabos Elétricos	0.009167584520746376
+Eletrodomésticos	Ar Condicionado	0.006780083804439663
+Outros	Esportes e Lazer	0.021446329412536207
+Ferramentas Manuais	Cabos Elétricos	0.014757077148032288
+Água Fria	Sanitário	0.007818609155007511
+Corantes	Acessórios de Portas e Janelas	0.032699662254081684
+Acessórios para Pisos e Revestimentos	Verniz e Solvente	0.003943173652816351
+Aduela de Concreto	Artefatos de Concreto	0.007829884977337175
+Água Fria	Canos e Conexões Hidráulicas	0.0481836433800119
+Acessórios Hidráulicos	Canos e Conexões Hidráulicas	0.007515182714109121
+Tijolos e Blocos Estruturais	Blocos de Concreto	0.04573974605930437
+Para Raios e SPDA	Quadros e Caixas Elétricas	0.007387694486173202
+Água Fria	Canos e Conexões Hidráulicas	0.07619566847484523
+Equipamentos Elétricos	Perfis e chapas em aço carbono	0.004895227958088839
+Outros - Materiais Elétricos	Lâmpadas	0.003866417142241426
+Produtos para Limpeza	Verniz e Solvente	0.006976084508685928
+Fechaduras e Travas	Acessórios de Portas e Janelas	0.007515301062780221
+Tomadas, interruptores e plugues	Nobreaks	0.006841733339128846
+Tomadas, interruptores e plugues	Pisos Cerâmicos	0.011596260352113707
+Ferramentas de Medição	Ferramentas Manuais	0.020843424990146343
+Porcelanatos	Rodapés	0.007825568249563049
+Produtos para Limpeza	Ferragens para Fixar e Montar	0.005165579682008776
+Cabos e Fios Elétricos	Sanitário	0.02133590513005175
+Caixas de Esgoto	Ferragens	0.004394719342947238
+Condutos	Quadros e Caixas Elétricas	0.004990004105574911
+Puxadores	Acessórios de Portas e Janelas	0.11779210882670889
+Isolamento	Artefatos de Concreto	0.005023864719922852
+Outros - Ferragens	Subestações e Alta Tensão	0.004978212041140025
+Tomadas, interruptores e plugues	Lâmpadas	0.1289185440784535
+Blocos de Vidro	Blocos de Concreto	0.011355162298725184
+Tela, cerca e gabião em aço	Tomadas, interruptores e plugues	0.02288168128524278
+Tubos e conexões industriais	Tubos e Eletrodutos	0.00595038004119593
+Eletros para Cozinha	Painéis Fotovoltaicos	0.005912873595936808
+Artefatos de Concreto	Outros - Ferragens	0.0052079070187942365
+Outros - Banheiros	Aços para Construção	0.00984915773253746
+Artefatos de Concreto	Aduela de Concreto	0.01508767307849096
+Infraestrutura	Tomadas, interruptores e plugues	0.007776604743312259
+Outros - Materiais de Construção	Canos e Conexões Hidráulicas	0.008686441345735105
+Canos e Conexões Hidráulicas	Calhas, Rufos e Algerosas	0.010079144409083132
+Medidores de Energia	Formas	0.006741310684828231
+Cabos Elétricos	Tomadas, interruptores e plugues	0.007989082109269033
+Barras, Tubos e Chapas Metalon	Perfis e chapas em aço carbono	0.004903305887120443
+Combate a Incêndio	Massa Corrida e Niveladora	0.01722593856997105
+Água Fria	Canos e Conexões Hidráulicas	0.04273814000150017
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.010193727144394923
+Cabos e Fios Elétricos	Sanitário	0.025037294248845172
+Rodízios, Pés para Móveis e Eletrodomésticos	Lâmpadas	0.005610565761200165
+Equipamentos para Construção	Elevador Cremalheira	0.011249784894428239
+Tubos e conexões para Gases Medicinais	Plugs e Adaptadores	0.0060617649276430265
+Água Fria	Artefatos de Concreto	0.005830890027755494
+Tomadas, interruptores e plugues	Transportes	0.008150336082560935
+Ferragens para Fixar e Montar	Parafusos e acessórios	0.005690451182122388
+Ferragens	Aços para Construção	0.019251493806321403
+Água Fria	Canos e Conexões Hidráulicas	0.013303313725839809
+EPI: Equipamentos Proteção Individual	Canos e Conexões Hidráulicas	0.00653698462530803
+Adesivos e Selantes	Verniz e Solvente	0.00882553202844141
+Tomadas, interruptores e plugues	Gesso e Drywall	0.011511814925766277
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.03890074543941743
+Anéis de Vedação	Canos e Conexões Hidráulicas	0.011088877504096357
+Calhas, Rufos e Algerosas	Aços para Construção	0.007539944763317762
+Janelas e Venezianas	Acessórios de Portas e Janelas	0.012964092467634025
+Ferragens para Fixar e Montar	Acessórios e Conexões Elétricas	0.03383216301095787
+Esportes e Lazer	Conexões	0.0054919101647204665
+Tomadas, interruptores e plugues	Equipamentos para Gases Medicinais	0.0071087593752024916
+Tomadas, interruptores e plugues	Conduítes	0.009218275973950018
+Barras, Tubos e Chapas Metalon	Canos e Conexões Hidráulicas	0.017559298931678385
+Ferragens para Fixar e Montar	Parafusos e acessórios	0.008949898208011604
+Artefatos de Concreto	Aduela de Concreto	0.005727415641613915
+Tomadas, interruptores e plugues	Tubos e conexões industriais	0.039078498500847325
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.0598692391378094
+Tomadas, interruptores e plugues	Aduela de Concreto	0.04559858728859793
+Apoio e Administrativo	Construção Civil	0.006286890903106137
+Massa Corrida e Niveladora	Todos os Pisos	0.003991259523022524
+Outros - Materiais de Construção	Tubos e conexões industriais	0.011501725812238647
+Outros	Verniz e Solvente	0.012104177351210525
+Equipamentos para Piscina	Abajures	0.0029673590504451044
+Piso Elevado	Outros - Pisos e Revestimentos	0.009364901805650205
+Tela, cerca e gabião em aço	Aços para Construção	0.0462660014200072
+Ferragens para Fixar e Montar	Tubos e Eletrodutos	0.003999326288220383
+Cabos e Fios Elétricos	Torneiras	0.004340966214666712
+Disjuntores e Fusíveis	Proteções Elétricas	0.013406117282510756
+Portas e esquadrias	Acessórios de Portas e Janelas	0.004691231696478281
+Conteineres	Tomadas, interruptores e plugues	0.006887389860745923
+Pisos Cerâmicos	Pisos Vinílicos	0.005188010838892426
+Barras, Tubos e Chapas Metalon	Perfis e chapas em aço carbono	0.005569115246632434
+Acessórios para Banheiro	Ferramentas   para Pintura	0.005663106548914934
+Acessórios de Portas e Janelas	Notebooks	0.014058411431299447
+Tomadas, interruptores e plugues	maquinas pesadas	0.006367028021647644
+Tomadas, interruptores e plugues	Acessórios e Conexões Elétricas	0.07899685078544355
+Para Raios e SPDA	Acessórios e Conexões Elétricas	0.006107350772509808
+Utilidades Domésticas	Eletros para Cozinha	0.0054254584987384995
+Manta e Produtos Asfálticos	Tomadas, interruptores e plugues	0.2622477710669588
+Outros - Pavimentação	Artefatos de Concreto	0.007578180455405145
+Artefatos de Concreto	Sanitário	0.00500878830270696
+Pré-moldados	Artefatos de Concreto	0.008328813285878667
+Produtos para Aplicação e Acabamento	Verniz e Solvente	0.006259957847733757
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.009683047072727139
+Acessórios e Consumíveis para Ferramentas	Ferramentas Elétricas/Bateria	0.011926457898788918
+Outros - Pavimentação	Adesivos e Colas	0.004629594631465284
+Equipamentos para Construção	Cabos e Fios Elétricos	0.005340944451767138
+Construção Civil	Adesivos e Colas	0.008601445373642278
+Acessórios de Portas e Janelas	Fechaduras e Travas	0.011462026853156414
+Conteineres	Ar Condicionado	0.008751638098429755
+Artefatos de Concreto	Armazenamento, Captação e Tratamento de Água	0.005527322314359759
+Aduela de Concreto	Artefatos de Concreto	0.008311430339577652
+Alarmes e Sensores de Presença	Baterias	0.004863508266606127
+Formas	Construção Civil	0.003951892959428508
+Infraestrutura	Artefatos de Concreto	0.01936478010733395
+Outros - Ferragens	Ferragens para Fixar e Montar	0.0076171356402498875
+Chapas e Painéis	Madeiras para Construção	0.006267375463946127
+Água Fria	Canos e Conexões Hidráulicas	0.050721680169729305
+Parafusos e acessórios	Tubos e conexões industriais	0.004014672864921221
+Construção Civil	Barras, Tubos e Chapas Metalon	0.005822771889225736
+Formas	Transformadores de Energia	0.06535298112062762
+Usina de Asfalto	Areia, Pedra Brita, Gesso, Cal e Argila	0.01978136114480378
+Sanitário	Aduela de Concreto	0.004698541866769106
+Artefatos de Concreto	Aduela de Concreto	0.03415388091065228
+Barras, Tubos e Chapas Metalon	Acessórios e Conexões Elétricas	0.0052635813434514555
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.02180025657552197
+Acessórios para telhado	Parafusos e acessórios	0.011694060864488187
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.00612332179530783
+Poste de madeira	Controlador de Demanda	0.005269825878787321
+Adesivos e Selantes	Calhas, Rufos e Algerosas	0.005724589999966425
+Outros - Materiais Hidráulicos	Canos e Conexões Hidráulicas	0.018103101980903098
+Outros - Materiais Hidráulicos	Canos e Conexões Hidráulicas	0.012338738107645143
+Canos e Conexões Hidráulicas	Equipamentos para Construção	0.004477664653385093
+Tomadas, interruptores e plugues	Sanitário	0.010382991376410494
+Acessórios e Consumíveis para Ferramentas	Ferramentas Manuais	0.0111999221574862
+Acessórios e Consumíveis para Ferramentas	Ferragens para Fixar e Montar	0.015261594827960768
+Tomadas, interruptores e plugues	Aquecedores de Água	0.015994256411714196
+Cabos e Fios Elétricos	Sanitário	0.01444606173104305
+Iluminação Pública	Luminárias	0.0466048144849162
+Outros - Iluminação	Verniz e Solvente	0.009174862980236575
+Artefatos de Concreto	Quadros e Caixas Elétricas	0.004913710399854901
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.014503070424849905
+Artefatos de Concreto	Sanitário	0.018962789463476817
+Subestações e Alta Tensão	Cabos e Fios Elétricos	0.005893393712729234
+Produtos para Área de Serviço	Pias e Lavatórios	0.006717614816461567
+Aduela de Concreto	Artefatos de Concreto	0.007681647703273152
+Barreiras de Proteção	Insumos metálicos	0.007145006336709396
+Luminárias	Lâmpadas	0.009302479158618857
+EPI: Equipamentos Proteção Individual	Verniz e Solvente	0.005147797118563323
+Disjuntores e Fusíveis	Proteções Elétricas	0.010672659870370735
+Aços para Construção	Perfis e chapas em aço carbono	0.020289692465873577
+Acessórios e Consumíveis para Ferramentas	Produtos para Limpeza	0.005431907390075302
+Ar Condicionado	Eletrodomésticos	0.005730840745708068
+Polias e rolamentos	Equipamentos para Construção	0.007288028684429637
+Infraestrutura	Perfis e chapas em aço carbono	0.01100825812682804
+Móveis	Baterias	0.005148609585084855
+Eletrocalhas	Perfis e chapas em aço carbono	0.004396652339156013
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.04302506361606279
+Outros - Materiais de Construção	Batentes e Guarnições	0.005592113049461032
+Notebooks	EPI: Equipamentos Proteção Individual	0.01229859799274782
+Telhas	Chapa em alumínio	0.005373916065063412
+Automação Industrial	EPI: Equipamentos Proteção Individual	0.007063904472447147
+Barras, Tubos e Chapas Metalon	Tomadas, interruptores e plugues	0.005209549905430258
+Placas de sinalização de segurança	Ar Condicionado	0.004799746329093237
+Ferramentas Manuais	Cabos Elétricos	0.03679912073449111
+Água Fria	Canos e Conexões Hidráulicas	0.017976565025967475
+Fontes de Energia	Filtros, Purificadores e Bebedouros	0.006024042359105912
+Ferramentas para Construção	Abajures	0.0029673590504451044
+Água Fria	Sanitário	0.018075795034094837
+Outros - Materiais Hidráulicos	Artefatos de Concreto	0.00596885733633621
+Acessórios para Banheiro	Canos e Conexões Hidráulicas	0.0043808547659095485
+Outros - Materiais Elétricos	Quadros e Caixas Elétricas	0.006335823455550919
+Equipamentos Elétricos	Tubos e Eletrodutos	0.026966109632431862
+Ferragens para Fixar e Montar	Para Raios e SPDA	0.007385693756063488
+Postes de Jardim	Torneiras	0.007013536493267008
+Outros	Insumos metálicos	0.005255893840471973
+Aduela de Concreto	Areia, Pedra Brita, Gesso, Cal e Argila	0.010724467814952713
+Acessórios para Banheiro	Construção Civil	0.005686364314179325
+Parafusos e acessórios	Ferragens para Fixar e Montar	0.007537247686371792
+Automação Industrial	EPI: Equipamentos Proteção Individual	0.004725333818111963
+Ferramentas Manuais	Cabos Elétricos	0.015324606158262383
+Canos e Conexões Hidráulicas	EPI: Equipamentos Proteção Individual	0.004121869363454607
+Acessórios Hidráulicos	Canos e Conexões Hidráulicas	0.0087954501075499
+Eletrodomésticos para Cozinha	Abajures	0.0029673590504451044
+Compressores	Serviços Mecânicos	0.005825446010446402
+Acessórios de Portas e Janelas	Outros - Ferramentas	0.006572359008318472
+Divisórias em Granilite	Marmores e Granitos	0.004413751375684152
+Cabos e Fios Elétricos	Cabos Elétricos	0.1595121525994241
+Concreto	Artefatos de Concreto	0.011161942075319661
+Seladores e Fundos	Verniz e Solvente	0.017381315635623826
+Ferramentas Manuais	Cintas, Cabos, Cordas, Correntes e Acessórios	0.011198133477095017
+EPC: Equipamentos de Proteção Coletiva	Outros - Ferragens	0.0037773638536608483
+Gases refrigerantes	Ar Condicionado	0.038871029823350674
+Canos de Concreto	Cabos e Fios Elétricos	0.006579319078185728
+Produtos para Madeira	Ferragens para Fixar e Montar	0.004816586963307209
+Acessórios e Conexões Elétricas	Abajures	0.0029673590504451044
+Outros - Ferragens	Aços para Construção	0.00609569892356295
+Outros - Materiais Elétricos	Registros e Bases	0.0045974599729381935
+Ferramentas Manuais	Torneiras	0.007156661927689985
+Cabos e Fios Elétricos	Cabos Elétricos	0.01199085306876016
+Outros - Materiais Elétricos	Lâmpadas	0.003820866318660215
+Tomadas, interruptores e plugues	Cabos e Fios Elétricos	0.0842071220160838
+Outros - Ferramentas	Acessórios e Consumíveis para Ferramentas	0.020362145345867576
+Notebooks	Câmeras de Segurança e CFTV	0.011163152718629507
+Aduela de Concreto	Artefatos de Concreto	0.022878049423065993
+Porcelanatos	Revestimentos Internos	0.0065990001406345845
+Outros - Madeiras	Aduela de Concreto	0.008317047633697668
+Sacos de Entulho	Produtos para Limpeza	0.008923781779057612
+Outros - Eletros	Eletros para Cozinha	0.00643169748150036
+Condutos	Canos e Conexões Hidráulicas	0.012970476321668435
+Informática	Notebooks	0.00940415042956114
+Cabos Elétricos	Ferragens para Fixar e Montar	0.005408561046761603
+Canos e Conexões Hidráulicas	Acessórios e Conexões Elétricas	0.005149461271094419
+Ferramentas para Construção	Para Raios e SPDA	0.005601550872395915
+Água Fria	Canos e Conexões Hidráulicas	0.017653463214492553
+Pisos	Pisos de Borracha	0.00716768340130342
+Areia, Pedra Brita, Gesso, Cal e Argila	Outros - Ferragens	0.00567257273427742
+Tubos e Eletrodutos	Tomadas, interruptores e plugues	0.006727760052124338
+Conteineres	Assentos Sanitários	0.017272573617593306
+Cabos e Fios Elétricos	Canos e Conexões Hidráulicas	0.005298596620361245
+Outros - Pisos e Revestimentos	Outros - Ferragens	0.010546736467395526
+Tomadas, interruptores e plugues	Canos e Conexões Hidráulicas	0.06473788813518351
+Poste de Concreto	Artefatos de Concreto	0.07183249197410402
+Canos e Conexões Hidráulicas	Tubos e conexões industriais	0.018269308791324854
+Artefatos de Concreto	Aduela de Concreto	0.018276202107347008
+Plugs e Adaptadores	Água Fria	0.012549524426172732
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.013102141870389335
+Canos de Concreto	Canos e Conexões Hidráulicas	0.009998383310029075
+Equipamentos Elétricos	Ar Condicionado	0.01989819536387775
+Tubos e conexões para Gases Medicinais	Sanitário	0.019018918327673003
+Outros	Cimentos	0.02659340112331568
+Poste Metálico	Para Raios e SPDA	0.005874851729151476
+Aços para Construção	Cimentos	0.015145277945723916
+Aduela de Concreto	Poste de Concreto	0.0059135581556719235
+Água Fria	Tubos e conexões para Gases Medicinais	0.007721249482044593
+Quadros e Caixas Elétricas	Proteções Elétricas	0.014246383270741951
+Máquinas Elétricas	Argamassas	0.010363423268975866
+Luminárias	Lâmpadas	0.0071094816243208675
+Automação Industrial	Ferramentas Manuais	0.00409784524230837
+Artefatos de Concreto	Tomadas, interruptores e plugues	0.008369721950649216
+Outros - Materiais de Construção	Argamassas	0.004580688003240535
+Fitas	Combate a Incêndio	0.007178186554580015
+Tubos e conexões industriais	Perfis e chapas em aço carbono	0.010074171827181524
+Outros - Materiais Hidráulicos	Canos e Conexões Hidráulicas	0.008648514008867849
+Chuveiros	Areia, Pedra Brita, Gesso, Cal e Argila	0.006561809214855983
+Outros - Ferragens	Para Raios e SPDA	0.008515709192713857
+Cabos e Fios Elétricos	Cabos Elétricos	0.006905535661808595
+Chapa em alumínio	Telhas	0.00744802084616064
+Vegetação	Abajures	0.0029673590504451044
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.008075991905710319
+Infraestrutura	Tomadas, interruptores e plugues	0.0048903872054696035
+Cabos e Fios Elétricos	Sistemas	0.012795329339137839
+Barreiras de Proteção	Fitas	0.01065413484457646
+Ferramentas Manuais	Tubos e Eletrodutos	0.005945301131499811
+Tubos e Eletrodutos	Canos e Conexões Hidráulicas	0.005409562769294705
+Plugs e Adaptadores	Condutos	0.009261316397470984
+Areia, Pedra Brita, Gesso, Cal e Argila	Para Raios e SPDA	0.003602753747784647
+Quadros e Caixas Elétricas	Proteções Elétricas	0.00651406148501446
+Cabos e Fios Elétricos	Construção Civil	0.011329793108540681
+Tomadas e Interruptores Específicos	Tomadas, interruptores e plugues	0.0209774861312182
+Cadeiras	Artefatos de Concreto	0.00804540211983963
+Cabos Elétricos	Cabos e Fios Elétricos	0.013737323078378182
+Artefatos de Concreto	Sanitário	0.004766676972636101
+Tomadas, interruptores e plugues	Esportes e Lazer	0.022082568090640728
+Acessibilidade e Segurança	Acessibilidade	0.013181860584337098
+Acessórios Hidráulicos	Canos e Conexões Hidráulicas	0.03983538954768631
+Outros - Materiais de Construção	Armazenamento, Captação e Tratamento de Água	0.01019557619707286
+Ferramentas Manuais	Produtos para Limpeza	0.007373479990445853
+Inversores	Água Quente	0.007997977014802553
+Outros - Ferragens	Artefatos de Concreto	0.009251765957130387
+Manta e Produtos Asfálticos	Usina de Asfalto	0.006366548112869529
+Acessórios para telhado	Cimentos	0.02688687439047751
+Outros - Ferragens	Ferragens para Fixar e Montar	0.034081075790607616
+Tampões e Grelhas	Ralos e Grelhas	0.007010280255424908
+Tomadas, interruptores e plugues	Telhas	0.020821482650464747
+Poste de Concreto	Proteções Elétricas	0.007716992751464309
+Aduela de Concreto	Tomadas, interruptores e plugues	0.00741750681957537
+Perfis e chapas em aço carbono	Insumos metálicos	0.007651572130238139
+Condutos	Tijolos e Blocos Estruturais	0.004196027152037686
+EPI: Equipamentos Proteção Individual	Construção Civil	0.02246214148789735
+Acessórios para Banheiro	EPI: Equipamentos Proteção Individual	0.009379026926384192
+Acessórios para telhado	Calhas, Rufos e Algerosas	0.012575215332434992
+Artefatos de Concreto	Aduela de Concreto	0.013563011769376132
+Cabos e Fios Elétricos	Cabos Elétricos	0.1547071930401305
+Eletrocalhas	Tubos e conexões industriais	0.005574809107812283
+Aduela de Concreto	Condutos	0.006682586455937577
+Outros - Ferragens	Eletrocalhas	0.004993541633553546
+Outros - Ferragens	Ferramentas para Construção	0.005895367647357783
+Subestações e Alta Tensão	Ferramentas Manuais	0.009837316504578435
+Cabos e Fios Elétricos	Cabos Elétricos	0.16374989338074852
+Outros - Madeiras	Portas e esquadrias	0.0173008787540468
+Equipamentos para Construção	Tomadas, interruptores e plugues	0.00890085881467626
+Poste de madeira	Poste de Concreto	0.005708406997638224
+Artefatos de Concreto	Poste de Concreto	0.010780144234110363
+Ferramentas para Jardim	Acessórios e Conexões Elétricas	0.011820620905601587
+Pisos Laminados	Aduela de Concreto	0.004212012104066495
+Para Raios e SPDA	Tomadas, interruptores e plugues	0.004425627004555115
+Pias e Bancadas em Mármore	Pias e Lavatórios	0.006351611317450898
+Outros - Materiais de Construção	Tubos e conexões industriais	0.0037787557614174573
+Isolamento	Ferragens para Fixar e Montar	0.010402330785328573
+Equipamentos Elétricos	Ar Condicionado	0.03284215128547352
+Ferramentas de Medição	Abajures	0.0029673590504451044
+Parafusos e acessórios	Tomadas, interruptores e plugues	0.009562904331631608
+Eletrocalhas	Ferragens para Fixar e Montar	0.0075011976976424866
+Outros - Materiais de Construção	Telhas	0.0336873969184895
+Acessórios e Conexões Elétricas	Tomadas, interruptores e plugues	0.028489306236545976
+Formas	EPI: Equipamentos Proteção Individual	0.6335100455354054
+Pisos de concreto	Artefatos de Concreto	0.012633385005901299
+Cabos e Fios Elétricos	Canos e Conexões Hidráulicas	0.013468442867743768
+Aços para Construção	Barras, Tubos e Chapas Metalon	0.004182401326881432
+Torneiras para Banheiro	Torneiras	0.011489929485589731
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.02156046390373475
+Construção Civil	Barras, Tubos e Chapas Metalon	0.006378392649106964
+Suporte e Fixação	Tomadas, interruptores e plugues	0.006621307895087986
+Pisos de Borracha	EPI: Equipamentos Proteção Individual	0.005303652275261799
+Equipamentos Elétricos	Elevador Cremalheira	0.010512071545569322
+Tomadas, interruptores e plugues	Acessórios para Banheiro	0.008106836572517321
+Tomadas, interruptores e plugues	Artefatos de Concreto	0.03333098255724125
+Outros - Materiais de Construção	Aduela de Concreto	0.008293073608243343
+Tomadas, interruptores e plugues	Proteções Elétricas	0.014519733979674852
+Ferramentas para Construção	Ferramentas Elétricas/Bateria	0.006125742575471131
+Barreiras de Proteção	Canos e Conexões Hidráulicas	0.0071113367789881025
+Suporte para iluminação em poste	Luminárias	0.005597870311157842
+Acessórios para Banheiro	Canos e Conexões Hidráulicas	0.0036262987369904184
+Poste Metálico	Poste de Concreto	0.00602815872138682
+Canos e Conexões Hidráulicas	EPI: Equipamentos Proteção Individual	0.004121869363454607
+Madeiras para Construção	Poste de madeira	0.006890950148609237
+Outros	Insumos metálicos	0.005245025378498587
+Disjuntores e Fusíveis	Proteções Elétricas	0.019045490134412604
+Outros - Iluminação	Transformadores de Energia	0.003948487519450313
+Impermeabilizantes	Anéis de Vedação	0.005334916985696938
+Cabos e Fios Elétricos	Tubos e conexões	0.010604415096551972
+Tomadas, interruptores e plugues	Aços para Construção	0.025261022114096532
+Pisos Cerâmicos	Marmores e Granitos	0.019572029346392218
+Aços para Construção	Insumos metálicos	0.008864790018211742
+Pré-Moldados	Artefatos de Concreto	0.015109393952090397
+Sanitário	Canos e Conexões Hidráulicas	0.0634656143956077
+Tubos e conexões	Cabos Elétricos	0.004026734575044121
+Cabos e Fios Elétricos	EPI: Equipamentos Proteção Individual	0.004091850666326693
+Formas	Transformadores de Energia	0.09023999657350648
+Acessórios e Conexões Elétricas	String Box	0.004684415665749392
+Outros - Ferragens	Anéis de Vedação	0.004828373571896804
+Insumos metálicos	Sanitário	0.005081714841376894
+Para Raios e SPDA	Eletrocalhas	0.00539617203272463
+Tubos e conexões para Gases Medicinais	Canos e Conexões Hidráulicas	0.007165178328676663
+Barras, Tubos e Chapas Metalon	Perfis e chapas em aço carbono	0.003445926871280109
+Chapa em alumínio	Todos os Pisos	0.0048045243806747245
+Tampões e Grelhas	Tubos e conexões industriais	0.006575317302987273
+Proteções Elétricas	Para Raios e SPDA	0.004528267861185627
+Artefatos de Concreto	Aduela de Concreto	0.01630048168854486
+Portas e esquadrias	Acessórios de Portas e Janelas	0.006462344260965779
+Organização e Transporte de Ferramentas	EPI: Equipamentos Proteção Individual	0.005011433092824012
+Eletrocalhas	Condutos	0.006378683314375535
+Barras, Tubos e Chapas Metalon	Chapas e Painéis	0.0036502451533509624
+Outros - Materiais de Construção	Canos e Conexões Hidráulicas	0.004631383556312338
+Água Fria	Canos e Conexões Hidráulicas	0.04722915753413011
+Ferragens	Aços para Construção	0.03449380738135064
+Ferramentas Manuais	Cabos e Fios Elétricos	0.009529274097206957
+Ar Condicionado	Eletrodomésticos	0.006019402117429582
+Aços para Construção	Formas	0.003326400607885138
+Filtros, Purificadores e Bebedouros	Aquecedores de Água	0.004462544593877356
+Concreto	Artefatos de Concreto	0.008190396539927286
+Quadros e Caixas Elétricas	Para Raios e SPDA	0.005790723234347309
+Tomadas, interruptores e plugues	Madeiras para Construção	0.02029909235248217
+Tomadas, interruptores e plugues	Ferragens para Fixar e Montar	0.011438771984011085
+Acessórios de Portas e Janelas	Fechaduras e Travas	0.0089471351349528
+Para Raios e SPDA	Elevador Cremalheira	0.00434138558213873
+Carenagem hidraulica	Abajures	0.0029673590504451044
+Tubos e conexões industriais	Canos e Conexões Hidráulicas	0.005913782092028917
+EPI: Equipamentos Proteção Individual	Cabos e Fios Elétricos	0.011742214022003629
+Cabos e Fios Elétricos	Cabos Elétricos	0.03825109945910992
+Formas	Transformadores de Energia	0.011535175351838671
+Calhas, Rufos e Algerosas	Caixas de Esgoto	0.004522369045398145
+Tubos e conexões para Gases Medicinais	Condutos	0.009915624581230728
+Acessórios Hidráulicos	Outros - Materiais Hidráulicos	0.009064231696763932
+Ferramentas para Jardim	Ferramentas Manuais	0.015488672324389
+Pincéis, Rolos e Acessórios	Ferramentas para Jardim	0.005798732947979237
+Cimentos	Acessórios e Consumíveis para Ferramentas	0.004727958208883036
+Fontes de Energia	Proteções Elétricas	0.006745219969977973
+Perfis e chapas em aço carbono	Barras, Tubos e Chapas Metalon	0.02239242878073409
+Caixas de Esgoto	Sanitário	0.005291561445678847
+Revestimentos	Outros - Tintas e Acessórios	0.003643802050942067
+Ferramentas Manuais	Cabos Elétricos	0.009204928908278452
+Tomadas, interruptores e plugues	Blocos de Concreto	0.007053810531186318
+Blocos de Concreto	Tijolos e Blocos Estruturais	0.01604809572530163
+Tubos e conexões para Gases Medicinais	Canos e Conexões Hidráulicas	0.011494795846259136
+Água Quente	Sanitário	0.005117969502936945
+Água Fria	Sanitário	0.01736206047665844
+Aduela de Concreto	Artefatos de Concreto	0.0069160454540651735
+Outros	Abajures	0.0029673590504451044
+Tomadas, interruptores e plugues	EPI: Equipamentos Proteção Individual	0.02059178383938323
+Água Fria	Plugs e Adaptadores	0.006660269609484558
+Cabos e Fios Elétricos	Cabos Elétricos	0.023366918783818667
+Barras, Tubos e Chapas Metalon	Tubos e conexões industriais	0.008698633536022637
+Produtos para Limpeza	Dispensers	0.007255232812532121
+Quadros e Caixas Elétricas	Proteções Elétricas	0.03506974007486905
+Eletrocalhas	Infraestrutura	0.006031474723150958
+Solventes e Removedores	Lona, Papelão e Plástico Bolha	0.009912780920578042
+Canos de Concreto	Canos e Conexões Hidráulicas	0.008751894560056971
+Tubos e Eletrodutos	Aduela de Concreto	0.0052042244383928935
+Produtos para Madeira	Fitas	0.024336936954864843
+Cabos e Fios Elétricos	Aços para Construção	0.008246278359731962
+Tomadas, interruptores e plugues	Para Raios e SPDA	0.10247152119614485
+Outros - Materiais Hidráulicos	Canos e Conexões Hidráulicas	0.010045134194740079
+Para Raios e SPDA	Ferragens para Fixar e Montar	0.010461916219056622
+Formas	Transformadores de Energia	0.054164864135650796
+Tubos e Eletrodutos	Registros e Bases	0.003923093028883473
+Outros - Ferragens	Eletrocalhas	0.005904862719392987
+Cabos e Fios Elétricos	Cercados e Segurança	0.008249098858941064
+Acessórios para telhado	Calhas, Rufos e Algerosas	0.007845500993436364
+Produtos para Limpeza	Verniz e Solvente	0.00641379509918584
+Tomadas, interruptores e plugues	Madeiras para Construção	0.02188046240357463
+Artefatos de Concreto	Aduela de Concreto	0.005819116185886993
+Lona, Papelão e Plástico Bolha	Outros - Materiais Hidráulicos	0.004798212128684519
+Outros	Ferragens para Fixar e Montar	0.0033669791654560625
+Outros - Materiais Hidráulicos	Ferramentas Manuais	0.004118065950285697
+Gesso e Drywall	Minerais	0.007528126304740517
+Vedação e Impermeabilização	Canos e Conexões Hidráulicas	0.005153851848086766
+Tomadas, interruptores e plugues	Sanitário	0.009052294963643716
+Ferramentas Manuais	Cabos Elétricos	0.012715622914236443

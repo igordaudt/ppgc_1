@@ -1,0 +1,2 @@
+﻿Prod_Desc	ID_Sub	Sub_Name	predicted_label	predicted_proba	top_k_labels	top_k_probas	low_confidence_flag	model_source
+poste de concreto dan500 12m	361	Poste de Concreto	Poste de Concreto	0.012076908379362533	['Poste de Concreto', 'Artefatos de Concreto', 'Aduela de Concreto', 'Ferragens', 'Poste Metálico']	[0.012076908379362533, 0.0038442018682353367, 0.0036633678136208355, 0.003317326499399376, 0.0032439893452121116]	True	ComplementNB

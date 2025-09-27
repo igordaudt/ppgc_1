@@ -1,0 +1,262 @@
+=== Classification report: ComplementNB ===
+
+                                               precision    recall  f1-score   support
+
+                                     Abajures       0.00      0.00      0.00         0
+                               Acessibilidade       0.50      1.00      0.67         2
+                   Acessibilidade e Segurança       0.00      0.00      0.00         1
+                       Acessórios Hidráulicos       0.00      0.00      0.00         7
+               Acessórios de Portas e Janelas       0.77      0.88      0.82        42
+              Acessórios e Conexões Elétricas       0.80      0.80      0.80        40
+    Acessórios e Consumíveis para Ferramentas       0.81      0.68      0.74        19
+                     Acessórios para Banheiro       0.71      0.56      0.62         9
+        Acessórios para Pisos e Revestimentos       0.00      0.00      0.00         1
+                      Acessórios para telhado       0.00      0.00      0.00         4
+                             Adesivos e Colas       0.82      0.82      0.82        11
+                          Adesivos e Selantes       0.00      0.00      0.00         2
+                           Aduela de Concreto       0.77      0.83      0.80        65
+               Alarmes e Sensores de Presença       0.00      0.00      0.00         2
+                             Anéis de Vedação       0.00      0.00      0.00         3
+                       Apoio e Administrativo       0.00      0.00      0.00         1
+                          Aquecedores de Água       0.60      1.00      0.75         3
+                              Ar Condicionado       0.76      0.93      0.84        28
+      Areia, Pedra Brita, Gesso, Cal e Argila       0.79      0.88      0.83        25
+                                   Argamassas       0.82      1.00      0.90         9
+ Armazenamento, Captação e Tratamento de Água       0.60      0.90      0.72        10
+                        Artefatos de Concreto       0.60      0.69      0.65        75
+                          Assentos Sanitários       0.75      0.67      0.71         9
+                         Automação Industrial       0.87      0.81      0.84        16
+                        Automação Residencial       0.00      0.00      0.00         1
+                         Aços para Construção       0.62      0.70      0.65        23
+                           Banheiro Comercial       1.00      1.00      1.00         1
+                          Barras e tubos INOX       1.00      1.00      1.00         4
+               Barras, Tubos e Chapas Metalon       0.68      0.62      0.65        21
+                        Barreiras de Proteção       1.00      0.50      0.67         8
+                                     Baterias       0.75      1.00      0.86         6
+                             Blocos Cerâmicos       1.00      0.80      0.89         5
+                           Blocos de Concreto       0.73      0.89      0.80        18
+                              Blocos de Vidro       0.00      0.00      0.00         1
+                                         CBUQ       0.00      0.00      0.00         1
+                              Cabos Blindados       1.00      1.00      1.00         1
+                              Cabos Elétricos       0.72      0.98      0.83       101
+                       Cabos e Fios Elétricos       0.79      0.45      0.57        58
+                                     Cadeiras       0.00      0.00      0.00         1
+                             Caixas de Esgoto       0.67      0.40      0.50         5
+                    Calhas, Rufos e Algerosas       0.70      0.64      0.67        11
+                            Canos de Concreto       1.00      0.17      0.29         6
+                 Canos e Conexões Hidráulicas       0.71      0.94      0.81       201
+                         Carenagem hidraulica       0.00      0.00      0.00         1
+                   Carrinhos de Carga e Rodas       1.00      1.00      1.00         1
+                          Casa em Steel-Frame       0.00      0.00      0.00         1
+                         Casas pré-fabricadas       1.00      1.00      1.00         1
+                         Cercados e Segurança       0.84      0.95      0.89        22
+                            Chapa em alumínio       1.00      0.40      0.57         5
+                                  Chapas INOX       1.00      0.50      0.67         2
+                             Chapas e Painéis       0.80      0.94      0.86        17
+                                    Chuveiros       0.00      0.00      0.00         1
+          Cimento Asfáltico de Petróleo - CAP       1.00      1.00      1.00         1
+                                     Cimentos       0.80      0.91      0.85        22
+Cintas, Cabos, Cordas, Correntes e Acessórios       0.67      0.67      0.67         3
+                         Climatizadores de Ar       1.00      1.00      1.00         1
+                           Combate a Incêndio       0.67      0.67      0.67         3
+                             Compressor de Ar       0.00      0.00      0.00         1
+                                 Compressores       0.00      0.00      0.00         1
+                                     Concreto       0.50      0.17      0.25         6
+                                     Condutos       0.60      0.60      0.60        10
+                                    Conduítes       0.00      0.00      0.00         0
+                                   Conectores       1.00      1.00      1.00         5
+                                     Conexões       0.50      0.50      0.50         2
+                             Construção Civil       0.75      0.69      0.72        26
+                                  Conteineres       1.00      0.40      0.57         5
+                         Controlador de Carga       0.50      1.00      0.67         2
+                       Controlador de Demanda       0.00      0.00      0.00         0
+                          Controladores de FP       1.00      1.00      1.00         1
+                                     Corantes       0.00      0.00      0.00         1
+                          Cubas para Banheiro       0.50      1.00      0.67         1
+                  Câmeras de Segurança e CFTV       0.75      1.00      0.86         3
+                       Disjuntores e Fusíveis       0.00      0.00      0.00         5
+                                   Dispensers       0.25      1.00      0.40         1
+                      Divisórias em Granilite       0.00      0.00      0.00         1
+                        Dutos e conexões PEAD       0.00      0.00      0.00         1
+       EPC: Equipamentos de Proteção Coletiva       0.00      0.00      0.00         1
+        EPI: Equipamentos Proteção Individual       0.79      0.91      0.84        53
+                                  Eletricista       1.00      1.00      1.00         1
+                                 Eletrocalhas       0.64      0.69      0.67        13
+                             Eletrodomésticos       0.50      0.50      0.50         2
+                Eletrodomésticos para Cozinha       0.00      0.00      0.00         1
+                         Eletros para Cozinha       0.00      0.00      0.00         1
+                         Elevador Cremalheira       0.43      1.00      0.60         3
+                                 Equipamentos       0.80      1.00      0.89         4
+                       Equipamentos Elétricos       0.00      0.00      0.00         5
+                  Equipamentos de laboratório       0.00      0.00      0.00         1
+                 Equipamentos para Construção       0.20      0.17      0.18         6
+           Equipamentos para Gases Medicinais       0.50      1.00      0.67         3
+                    Equipamentos para Piscina       0.00      0.00      0.00         1
+                               Escadas Móveis       0.67      0.67      0.67         3
+                             Esportes e Lazer       0.00      0.00      0.00         2
+                             Espuma Expansiva       1.00      1.00      1.00         1
+                              Estabilizadores       1.00      1.00      1.00         1
+                                   Exaustores       1.00      1.00      1.00         2
+                          Fechaduras e Travas       0.71      0.83      0.77         6
+                                    Ferragens       0.00      0.00      0.00         2
+                Ferragens para Fixar e Montar       0.60      0.75      0.67        57
+                         Ferragens para Porta       0.00      0.00      0.00         1
+                   Ferramentas   para Pintura       0.60      1.00      0.75         3
+                Ferramentas Elétricas/Bateria       0.56      0.71      0.62         7
+                          Ferramentas Manuais       0.73      0.67      0.70        49
+                       Ferramentas de Medição       1.00      0.71      0.83         7
+                  Ferramentas para Construção       0.89      0.62      0.73        13
+                      Ferramentas para Jardim       0.84      0.84      0.84        19
+                       Ferramentas para Solda       0.00      0.00      0.00         1
+                    Ferramentas por Profissão       1.00      1.00      1.00         2
+                               Fibra de Vidro       0.00      0.00      0.00         1
+          Filtros, Purificadores e Bebedouros       0.50      0.50      0.50         2
+                                        Fitas       0.71      0.83      0.77         6
+                            Fontes de Energia       0.85      0.92      0.88        12
+                                       Formas       0.81      0.68      0.74        19
+                                       Forros       0.83      1.00      0.91         5
+                          Gases refrigerantes       0.00      0.00      0.00         1
+                              Gesso e Drywall       0.82      1.00      0.90         9
+                           Iluminação Pública       0.00      0.00      0.00         1
+                           Impermeabilizantes       0.50      0.33      0.40         3
+                                  Informática       0.00      0.00      0.00         1
+                               Infraestrutura       0.89      0.57      0.70        14
+                            Insumos metálicos       0.45      0.45      0.45        11
+                                   Inversores       0.00      0.00      0.00         1
+                                   Isolamento       1.00      0.75      0.86         4
+                         Janelas e Venezianas       0.00      0.00      0.00         1
+                           Kits para Banheiro       1.00      1.00      1.00         1
+                                     Lixeiras       0.00      0.00      0.00         1
+                          Lixeiras de Calçada       0.00      0.00      0.00         1
+               Lona, Papelão e Plástico Bolha       0.75      0.75      0.75         4
+                                   Luminárias       0.90      0.85      0.88        33
+                                     Lâmpadas       0.87      1.00      0.93        55
+                     Madeiras para Construção       0.58      0.78      0.67         9
+                  Manta e Produtos Asfálticos       0.00      0.00      0.00         4
+                          Marmores e Granitos       0.50      1.00      0.67         2
+                               Massa Acrílica       1.00      1.00      1.00         1
+                   Massa Corrida e Niveladora       0.75      0.75      0.75         4
+                         Materiais para Obras       0.00      0.00      0.00         1
+                         Medidores de Energia       0.00      0.00      0.00         1
+                     Medição e instrumentação       1.00      1.00      1.00         3
+                           Máquinas Elétricas       0.00      0.00      0.00         1
+                                       Móveis       0.00      0.00      0.00         1
+                            Móveis de Cozinha       0.00      0.00      0.00         0
+                                     Nobreaks       0.80      1.00      0.89         4
+                                    Notebooks       0.00      0.00      0.00         2
+      Organização e Transporte de Ferramentas       1.00      0.50      0.67         2
+                                       Outros       0.00      0.00      0.00        10
+                           Outros - Banheiros       0.00      0.00      0.00         1
+                             Outros - Eletros       0.00      0.00      0.00         1
+                           Outros - Ferragens       0.67      0.37      0.48        27
+                         Outros - Ferramentas       0.00      0.00      0.00         2
+                          Outros - Iluminação       0.00      0.00      0.00         4
+                            Outros - Madeiras       0.00      0.00      0.00         2
+                 Outros - Materiais Elétricos       1.00      0.20      0.33        10
+               Outros - Materiais Hidráulicos       0.38      0.25      0.30        12
+             Outros - Materiais de Construção       1.00      0.07      0.13        14
+                        Outros - Pavimentação       0.00      0.00      0.00         2
+               Outros - Pisos e Revestimentos       0.67      0.50      0.57         4
+                 Outros - Tintas e Acessórios       0.00      0.00      0.00         2
+                             Outros Elétricos       0.00      0.00      0.00         2
+                        Painéis Fotovoltaicos       0.50      1.00      0.67         1
+                            Para Raios e SPDA       0.63      0.74      0.68        23
+                       Parafusos e acessórios       0.75      0.56      0.64        27
+                                  Pavimentaço       1.00      1.00      1.00         2
+               Perfis e chapas em aço carbono       0.56      0.75      0.64        24
+                      Perfis para Steel Frame       1.00      1.00      1.00         2
+                   Pias e Bancadas em Mármore       0.00      0.00      0.00         1
+                      Pias e Cubas de Cozinha       0.00      0.00      0.00         1
+                            Pias e Lavatórios       0.67      1.00      0.80         4
+                  Pincéis, Rolos e Acessórios       0.00      0.00      0.00         2
+                                 Piso Elevado       0.50      0.67      0.57         3
+                                        Pisos       0.00      0.00      0.00         1
+                              Pisos Cerâmicos       0.50      0.33      0.40         3
+                              Pisos Laminados       1.00      0.50      0.67         2
+                              Pisos Vinílicos       0.50      1.00      0.67         1
+                            Pisos de Borracha       0.00      0.00      0.00         1
+                            Pisos de concreto       0.00      0.00      0.00         1
+                                Placa de obra       1.00      1.00      1.00         2
+           Placas de sinalização de segurança       0.00      0.00      0.00         1
+                     Placas e forros minerais       0.00      0.00      0.00         1
+                Plataformas de acessibilidade       1.00      1.00      1.00         1
+                          Plugs e Adaptadores       0.67      0.40      0.50         5
+                          Polias e rolamentos       0.00      0.00      0.00         1
+                                 Porcelanatos       1.00      1.00      1.00         3
+                            Portas corta fogo       1.00      1.00      1.00         1
+                          Portas e esquadrias       0.75      0.60      0.67        10
+                                      Portões       0.00      0.00      0.00         1
+                               Poste Metálico       0.86      0.71      0.77        17
+                            Poste de Concreto       0.81      0.92      0.86        48
+                      Poste de fibra de vidro       0.00      0.00      0.00         1
+                             Poste de madeira       0.50      0.33      0.40         3
+                             Postes de Jardim       0.00      0.00      0.00         1
+                      Pressurizadores de Água       1.00      0.50      0.67         2
+         Produtos para Aplicação e Acabamento       0.00      0.00      0.00         1
+                        Produtos para Limpeza       0.50      0.40      0.44        10
+                        Produtos para Madeira       1.00      0.57      0.73         7
+                Produtos para Área de Serviço       0.00      0.00      0.00         1
+                          Proteções Elétricas       0.79      0.94      0.86        69
+                                 Pré-Moldados       0.00      0.00      0.00         1
+                                 Pré-moldados       1.00      0.50      0.67         2
+                                    Puxadores       0.00      0.00      0.00         2
+                   Quadros e Caixas Elétricas       0.72      0.78      0.75        23
+                              Ralos e Grelhas       0.83      0.83      0.83         6
+                            Rede de hidrantes       1.00      1.00      1.00         1
+                                   Refletores       0.90      0.90      0.90        10
+                            Registros e Bases       0.86      0.92      0.89        13
+                                Revestimentos       0.00      0.00      0.00         1
+                       Revestimentos Externos       1.00      1.00      1.00         3
+                       Revestimentos Internos       0.00      0.00      0.00         2
+                                      Rodapés       1.00      1.00      1.00         6
+ Rodízios, Pés para Móveis e Eletrodomésticos       0.00      0.00      0.00         1
+                             Sacos de Entulho       0.00      0.00      0.00         1
+                                    Sanitário       0.79      0.96      0.87       101
+                           Seladores e Fundos       0.00      0.00      0.00         1
+                           Serviços Mecânicos       1.00      1.00      1.00         2
+                Sinalização, Letras e Números       0.67      0.67      0.67         3
+                                     Sistemas       0.83      0.83      0.83         6
+                      Solventes e Removedores       0.00      0.00      0.00         1
+                                   String Box       0.50      1.00      0.67         1
+                    Subestações e Alta Tensão       0.57      0.50      0.53         8
+                            Suporte e Fixação       0.00      0.00      0.00         1
+             Suporte para iluminação em poste       0.00      0.00      0.00         1
+                            Tampões e Grelhas       0.00      0.00      0.00         2
+                  Tela, cerca e gabião em aço       0.60      0.38      0.46         8
+                                       Telhas       0.79      0.90      0.84        21
+                    Terra vegetal (substrato)       1.00      1.00      1.00         1
+                                Terraplenagem       0.00      0.00      0.00         1
+                            Textura de Parede       1.00      1.00      1.00         1
+                 Tijolos e Blocos Estruturais       0.75      0.80      0.77        15
+                               Todos os Pisos       0.00      0.00      0.00         1
+          Tomadas e Interruptores Específicos       0.00      0.00      0.00         1
+             Tomadas, interruptores e plugues       0.75      0.50      0.60       131
+                                    Torneiras       0.45      1.00      0.62         5
+                      Torneiras para Banheiro       0.00      0.00      0.00         1
+                       Torneiras para Cozinha       0.00      0.00      0.00         1
+                   Transformadores de Energia       0.83      1.00      0.91        30
+                          Transporte Vertical       1.00      1.00      1.00         1
+                                  Transportes       0.73      1.00      0.85        11
+                          Tubos e Eletrodutos       0.76      0.73      0.74        48
+                             Tubos e conexões       1.00      0.25      0.40         4
+                 Tubos e conexões industriais       0.58      0.62      0.60        24
+       Tubos e conexões para Gases Medicinais       0.86      0.46      0.60        13
+                             Tubulação Defofo       1.00      1.00      1.00         1
+                             Usina de Asfalto       0.33      0.33      0.33         3
+                                Usina de Solo       1.00      1.00      1.00         1
+                        Utilidades Domésticas       0.00      0.00      0.00         1
+                  Vedação e Impermeabilização       0.50      0.50      0.50         2
+                                    Vegetação       1.00      0.50      0.67         2
+                            Verniz e Solvente       0.70      1.00      0.82        30
+                       Veículos de transporte       0.00      0.00      0.00         1
+                              Vibroacabadoras       1.00      1.00      1.00         1
+                                       Vidros       1.00      1.00      1.00         8
+                          Vidros para Sacadas       1.00      1.00      1.00         1
+                     Vigas e perfis metálicos       0.00      0.00      0.00         0
+                             maquinas pesadas       0.57      0.80      0.67         5
+                                    Água Fria       0.67      0.21      0.32        19
+                                  Água Quente       0.67      0.57      0.62         7
+
+                                     accuracy                           0.73      2479
+                                    macro avg       0.50      0.49      0.48      2479
+                                 weighted avg       0.71      0.73      0.70      2479

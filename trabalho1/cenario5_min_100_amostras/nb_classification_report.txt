@@ -1,0 +1,41 @@
+=== Classification report: ComplementNB ===
+
+                                         precision    recall  f1-score   support
+
+         Acessórios de Portas e Janelas       0.85      0.95      0.90        42
+        Acessórios e Conexões Elétricas       0.79      0.75      0.77        40
+                     Aduela de Concreto       0.79      0.83      0.81        65
+                        Ar Condicionado       1.00      1.00      1.00        27
+Areia, Pedra Brita, Gesso, Cal e Argila       0.96      0.92      0.94        25
+                  Artefatos de Concreto       0.77      0.79      0.78        75
+                   Aços para Construção       0.81      0.74      0.77        23
+         Barras, Tubos e Chapas Metalon       0.84      0.80      0.82        20
+                        Cabos Elétricos       0.72      0.98      0.83       101
+                 Cabos e Fios Elétricos       0.93      0.48      0.64        58
+           Canos e Conexões Hidráulicas       0.84      0.94      0.88       200
+                   Cercados e Segurança       0.86      0.90      0.88        21
+                               Cimentos       0.86      0.82      0.84        22
+                       Construção Civil       0.88      0.85      0.86        26
+  EPI: Equipamentos Proteção Individual       0.88      0.92      0.90        53
+          Ferragens para Fixar e Montar       0.72      0.74      0.73        57
+                    Ferramentas Manuais       0.85      0.69      0.76        49
+                             Luminárias       0.97      0.91      0.94        32
+                               Lâmpadas       0.93      0.98      0.95        54
+                     Outros - Ferragens       0.91      0.37      0.53        27
+                      Para Raios e SPDA       0.75      0.65      0.70        23
+                 Parafusos e acessórios       0.70      0.78      0.74        27
+         Perfis e chapas em aço carbono       0.66      0.79      0.72        24
+                      Poste de Concreto       0.84      0.98      0.90        48
+                    Proteções Elétricas       0.87      0.97      0.92        69
+             Quadros e Caixas Elétricas       0.82      0.64      0.72        22
+                              Sanitário       0.84      0.98      0.90       100
+                                 Telhas       0.90      0.86      0.88        21
+       Tomadas, interruptores e plugues       0.82      0.56      0.66       131
+             Transformadores de Energia       0.88      1.00      0.94        30
+                    Tubos e Eletrodutos       0.88      0.75      0.81        48
+           Tubos e conexões industriais       0.80      0.67      0.73        24
+                      Verniz e Solvente       0.88      0.97      0.92        30
+
+                               accuracy                           0.83      1614
+                              macro avg       0.84      0.82      0.82      1614
+                           weighted avg       0.83      0.83      0.82      1614
