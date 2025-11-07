@@ -134,7 +134,18 @@ def save_results(model, metrics, report_df, cm):
 
     # Salvar matriz de confusão
     plt.figure(figsize=(10, 8))
-    sns.heatmap(cm, annot=False, fmt="d", cmap="Blues")
+    # Converter matriz em float para poder mascarar zeros
+    cm_display = np.where(cm == 0, np.nan, cm)
+    sns.heatmap(
+        cm_display,
+        annot=True,            # exibe números
+        fmt=".0f",             # formato inteiro (sem casas decimais)
+        cmap="Blues",
+        cbar=False,
+        linewidths=0.5,
+        linecolor="gray",
+        annot_kws={"size": 8, "color": "black"}  # tamanho e cor dos números
+    )
     plt.title(f"{MODEL_NAME} - Matriz de Confusão")
     plt.xlabel("Previsto")
     plt.ylabel("Real")
