@@ -59,7 +59,7 @@ def load_holdout():
 def build_model():
     """Cria o modelo Random Forest com hiperparâmetros padrão razoáveis."""
     model = RandomForestClassifier(
-        n_estimators=200,      # número de árvores
+        n_estimators=100,      # número de árvores
         max_depth=None,       # árvores crescem até esgotar nós puros ou min_samples
         min_samples_split=2,
         min_samples_leaf=1,

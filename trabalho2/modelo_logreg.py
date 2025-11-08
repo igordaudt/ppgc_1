@@ -61,7 +61,7 @@ def build_model():
     model = LogisticRegression(
         max_iter=1000,      # mais iterações para convergência
         solver="lbfgs",     # bom equilíbrio entre velocidade e estabilidade
-        C=1.0,              # inverso da regularização
+        C=5.0,              # inverso da regularização
         n_jobs=-1,          # usa todos os núcleos disponíveis
         random_state=42
     )

@@ -60,7 +60,7 @@ def build_model():
     """Cria o modelo Naive Bayes Multinomial com hiperparâmetros padrão."""
     model = MultinomialNB(
         alpha=1.0,       # suavização de Laplace
-        fit_prior=True
+        fit_prior=False
     )
     return model
 
