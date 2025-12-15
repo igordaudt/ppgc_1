@@ -32,6 +32,7 @@ MODEL_PKL   = MODEL_DIR / "svm_model.pkl"
 METRICS_TXT = METRIC_DIR / "svm_metrics.txt"
 REPORT_TSV  = METRIC_DIR / "svm_class_report.tsv"
 CM_PNG      = FIG_DIR / "svm_confusion_matrix.png"
+CM_XLSX     = METRIC_DIR / "svm_confusion_matrix.xlsx"
 
 MODEL_NAME  = "Support Vector Machine (SVM)"
 
@@ -45,6 +46,7 @@ def load_holdout():
     
     split = joblib.load(HOLDOUT_PKL)
     X_train = split["X_train"]
+    y_train = split["y_train"]
     y_train = split["y_train"]
     X_test  = split["X_test"]
     y_test  = split["y_test"]
@@ -98,8 +100,11 @@ def evaluate_model(model, X_test, y_test):
     report_dict = classification_report(y_test, y_pred, output_dict=True, zero_division=0)
     report_df = pd.DataFrame(report_dict).transpose()
 
-    # Matriz de confusão
-    cm = confusion_matrix(y_test, y_pred)
+    # Matriz de confusão com labels fixos (usa os rótulos presentes no y_test)
+    # Dica: se quiser garantir que todos os IDs apareçam, mesmo sem ocorrências no teste,
+    # passe uma lista de IDs conhecida no lugar de 'classes' abaixo.
+    classes = np.array(sorted(pd.unique(y_test)))
+    cm = confusion_matrix(y_test, y_pred, labels=classes)
 
     print(f"[{MODEL_NAME}] Avaliação concluída.")
     print(f"  Acurácia:        {metrics['accuracy']:.4f}")
@@ -107,12 +112,13 @@ def evaluate_model(model, X_test, y_test):
     print(f"  Precisão-macro:  {metrics['precision_macro']:.4f}")
     print(f"  Recall-macro:    {metrics['recall_macro']:.4f}")
 
-    return metrics, report_df, cm
+    return metrics, report_df, cm, classes
+
 
 
 # ========================== 5. SALVAR RESULTADOS ==========================
 
-def save_results(model, metrics, report_df, cm):
+def save_results(model, metrics, report_df, cm, classes):
     """Salva modelo, métricas e figuras."""
     MODEL_DIR.mkdir(parents=True, exist_ok=True)
     METRIC_DIR.mkdir(parents=True, exist_ok=True)
@@ -131,32 +137,70 @@ def save_results(model, metrics, report_df, cm):
     # Salvar relatório por classe
     report_df.to_csv(REPORT_TSV, sep="\t", encoding="utf-8-sig")
 
-    # Preparar matriz para visualização (esconder zeros)
+    # Matriz de confusão em Excel para consulta tabular
+    cm_df = pd.DataFrame(cm, index=classes, columns=classes)
+    cm_df.index.name = "Real/Previsto"
+    total_erros_linha = cm_df.sum(axis=1) - np.diag(cm)  # soma da linha menos a diagonal (acertos)
+    total_erros_coluna = cm_df.sum(axis=0) - np.diag(cm) # soma da coluna menos a diagonal
+
+    # Trabalha em dtype object para permitir células em branco (NaN/strings)
+    cm_export = cm_df.astype(object)
+    cm_export.insert(0, "Erros", total_erros_linha)
+
+    # Linha extra no topo com total de erros por coluna (diagonal ignorada)
+    erros_coluna_row = pd.Series(
+        [np.nan] + total_erros_coluna.tolist(),
+        index=cm_export.columns,
+        name="Erros_colunas"
+    )
+    cm_export = pd.concat([erros_coluna_row.to_frame().T, cm_export])
+
+    # Zeros na matriz de confusão ficam em branco na planilha
+    cm_export.loc[classes, classes] = cm_export.loc[classes, classes].replace(0, "")
+
+    cm_export.to_excel(CM_XLSX, sheet_name="Matriz de Confusao")
+
+    # Preparar matriz para visualização:
+    # - zeros viram NaN para não aparecerem
+    # - valores > 0 serão anotados na célula
     cm_display = np.where(cm == 0, np.nan, cm)
 
-    # Salvar matriz de confusão
-    plt.figure(figsize=(10, 8))
-    sns.heatmap(
+    # Dimensão e resolução dinâmicas para muitas classes
+    L = len(classes)
+    width  = max(12, 0.12 * L)   # ex.: ~36 para 300 classes
+    height = max(10, 0.12 * L)
+
+    plt.figure(figsize=(width, height))
+
+    ax = sns.heatmap(
         cm_display,
-        annot=True,
+        annot=True,          # SEMPRE anota (valores > 0 aparecem, NaN fica em branco)
         fmt=".0f",
         cmap="Blues",
         cbar=False,
-        linewidths=0.5,
-        linecolor="gray",
-        annot_kws={"size": 8, "color": "black"}
+        linewidths=0.2,
+        linecolor="lightgray",
+        annot_kws={"size": 6, "color": "black"},
+        xticklabels=classes,   # usa ID_Sub (ou rótulo de y_test)
+        yticklabels=classes
     )
-    plt.title(f"{MODEL_NAME} - Matriz de Confusão")
-    plt.xlabel("Previsto")
-    plt.ylabel("Real")
+    ax.set_title(f"{MODEL_NAME} - Matriz de Confusão")
+    ax.set_xlabel("Previsto (ID_Sub)")
+    ax.set_ylabel("Real (ID_Sub)")
+
+    # Ticks pequenos e rotação para caber
+    ax.tick_params(axis='x', labelsize=4, rotation=90)
+    ax.tick_params(axis='y', labelsize=4, rotation=0)
+
     plt.tight_layout()
-    plt.savefig(CM_PNG, dpi=150)
+    plt.savefig(CM_PNG, dpi=600, bbox_inches="tight")
     plt.close()
 
     print(f"[{MODEL_NAME}] Resultados salvos em:")
     print(f"  Modelo   : {MODEL_PKL}")
     print(f"  Métricas : {METRICS_TXT}")
     print(f"  Relatório: {REPORT_TSV}")
+    print(f"  Matriz   : {CM_XLSX}")
     print(f"  Matriz   : {CM_PNG}")
 
 
@@ -166,8 +210,9 @@ def main():
     X_train, X_test, y_train, y_test = load_holdout()
     model = build_model()
     model = train_model(model, X_train, y_train)
-    metrics, report_df, cm = evaluate_model(model, X_test, y_test)
-    save_results(model, metrics, report_df, cm)
+    metrics, report_df, cm, classes = evaluate_model(model, X_test, y_test)
+    save_results(model, metrics, report_df, cm, classes)
+
     print(f"\n[{MODEL_NAME}] Finalizado com F1-macro = {metrics['f1_macro']:.4f}")
 
 

@@ -3,7 +3,7 @@ import pandas as pd
 import sys
 from pathlib import Path
 
-def main(path="./trabalho1/cenario/materiais_clean.tsv", min_count=100):
+def main(path="./trabalho1/cenario/materiais_clean.tsv", min_count=3):
     p = Path(path)
     if not p.exists():
         print(f"[ERRO] Arquivo não encontrado: {p.resolve()}")

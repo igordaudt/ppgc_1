@@ -1,5 +1,12 @@
 # Fluxo Geral da Arquitetura
 
+## Rodar nesta ordem:
+1. tsv_para_tf_idf.py
+2. holdout.py
+3. modelo_xxx.py
+
+
+
 ## 1. Entrada de Dados
 **Arquivo:** `materiais_clean.tsv`  
 **Local:** `./trabalho2/dados/`

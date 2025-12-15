@@ -74,7 +74,7 @@ def build_tfidf(df: pd.DataFrame):
         strip_accents="unicode",
         analyzer="word",
         ngram_range=(1, 2),
-        min_df=2,          # ignora termos muito raros
+        min_df=2,          # ignora termos muito raros 
         max_df=0.95        # ignora termos extremamente frequentes
     )
 
