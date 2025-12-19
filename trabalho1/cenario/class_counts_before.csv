@@ -1,0 +1,346 @@
+ID_Sub,Sub_Name,count
+207,Canos e Conexões Hidráulicas,1002
+40,"Tomadas, interruptores e plugues",655
+5,Cabos Elétricos,504
+21,Sanitário,502
+317,Artefatos de Concreto,376
+38,Proteções Elétricas,344
+400,Aduela de Concreto,326
+189,Cabos e Fios Elétricos,290
+107,Ferragens para Fixar e Montar,283
+138,Lâmpadas,272
+255,EPI: Equipamentos Proteção Individual,265
+124,Ferramentas Manuais,245
+203,Tubos e Eletrodutos,240
+361,Poste de Concreto,238
+236,Acessórios de Portas e Janelas,208
+188,Acessórios e Conexões Elétricas,198
+139,Luminárias,158
+202,Transformadores de Energia,151
+280,Verniz e Solvente,150
+66,Ar Condicionado,137
+287,Outros - Ferragens,136
+467,Parafusos e acessórios,133
+314,Construção Civil,129
+161,"Areia, Pedra Brita, Gesso, Cal e Argila",123
+398,Tubos e conexões industriais,118
+439,Perfis e chapas em aço carbono,118
+14,Para Raios e SPDA,116
+159,Aços para Construção,113
+197,Quadros e Caixas Elétricas,112
+169,Cimentos,109
+167,Cercados e Segurança,108
+183,Telhas,105
+163,"Barras, Tubos e Chapas Metalon",103
+119,Acessórios e Consumíveis para Ferramentas,96
+20,Água Fria,96
+425,Formas,95
+126,Ferramentas para Jardim,93
+9,Blocos de Concreto,90
+362,Poste Metálico,84
+147,Chapas e Painéis,83
+300,Automação Industrial,80
+165,Tijolos e Blocos Estruturais,72
+11,Infraestrutura,70
+291,Outros - Materiais de Construção,69
+303,Eletrocalhas,67
+25,Tubos e conexões para Gases Medicinais,66
+214,Registros e Bases,66
+125,Ferramentas para Construção,66
+293,Outros - Materiais Hidráulicos,62
+194,Fontes de Energia,61
+402,Insumos metálicos,55
+267,Adesivos e Colas,55
+166,"Calhas, Rufos e Algerosas",54
+320,Transportes,53
+240,Portas e esquadrias,52
+162,"Armazenamento, Captação e Tratamento de Água",51
+143,Refletores,51
+13,Condutos,50
+319,Produtos para Limpeza,49
+292,Outros - Materiais Elétricos,48
+37,Gesso e Drywall,47
+43,Acessórios para Banheiro,47
+160,Argamassas,44
+427,"Tela, cerca e gabião em aço",42
+298,Vidros,40
+164,Barreiras de Proteção,38
+15,Subestações e Alta Tensão,38
+123,Ferramentas Elétricas/Bateria,35
+156,Produtos para Madeira,34
+204,Acessórios Hidráulicos,33
+122,Ferramentas de Medição,33
+152,Madeiras para Construção,33
+19,Água Quente,33
+474,Canos de Concreto,30
+158,Rodapés,30
+172,Equipamentos para Construção,29
+10,Concreto,29
+213,Ralos e Grelhas,29
+16,Sistemas,29
+269,Fitas,28
+313,Conectores,27
+8,Blocos Cerâmicos,27
+302,Baterias,26
+190,Disjuntores e Fusíveis,26
+217,Torneiras,26
+432,maquinas pesadas,25
+206,Caixas de Esgoto,25
+409,Conteineres,24
+401,Chapa em alumínio,24
+196,Plugs e Adaptadores,24
+27,Equipamentos Elétricos,23
+150,Forros,23
+371,Acessórios para telhado,22
+271,Massa Corrida e Niveladora,21
+17,Equipamentos,21
+23,Outros,21
+294,Outros - Pisos e Revestimentos,20
+399,Barras e tubos INOX,20
+436,Manta e Produtos Asfálticos,19
+60,Pias e Lavatórios,19
+45,Assentos Sanitários,19
+176,Isolamento,19
+28,Tubos e conexões,19
+178,"Lona, Papelão e Plástico Bolha",19
+289,Outros - Iluminação,18
+195,Nobreaks,18
+346,Usina de Asfalto,17
+226,Pisos Cerâmicos,17
+106,Fechaduras e Travas,17
+24,Equipamentos para Gases Medicinais,17
+446,Anéis de Vedação,17
+175,Impermeabilizantes,16
+372,Elevador Cremalheira,16
+127,Ferramentas   para Pintura,16
+229,Porcelanatos,16
+262,"Sinalização, Letras e Números",15
+36,Outros,15
+254,Combate a Incêndio,14
+250,Câmeras de Segurança e CFTV,14
+423,Medição e instrumentação,14
+104,Escadas Móveis,14
+256,Fechaduras e Travas,13
+433,Piso Elevado,13
+231,Revestimentos Externos,13
+102,"Cintas, Cabos, Cordas, Correntes e Acessórios",13
+340,Vegetação,12
+297,Outros - Tintas e Acessórios,12
+324,Acessibilidade,12
+290,Outros - Madeiras,12
+26,Outros,12
+129,Ferramentas por Profissão,12
+464,Chapas INOX,12
+322,Serviços Mecânicos,11
+368,Esportes e Lazer,11
+365,Placa de obra,11
+430,Poste de madeira,11
+452,Adesivos e Selantes,11
+232,Revestimentos Internos,11
+33,Ferragens,11
+247,Alarmes e Sensores de Presença,11
+181,Pré-moldados,10
+272,"Pincéis, Rolos e Acessórios",10
+227,Pisos Laminados,10
+282,Vedação e Impermeabilização,10
+333,Controlador de Carga,10
+179,Madeiras para Construção,10
+90,Eletrodomésticos,10
+470,Marmores e Granitos,9
+69,Exaustores,9
+381,Conexões,9
+212,Pressurizadores de Água,8
+81,"Filtros, Purificadores e Bebedouros",8
+288,Outros - Ferramentas,8
+304,Notebooks,8
+18,Outros Elétricos,8
+34,Luminárias,8
+355,Outros - Pavimentação,8
+460,Perfis para Steel Frame,8
+131,Organização e Transporte de Ferramentas,8
+437,Tampões e Grelhas,8
+115,Puxadores,8
+321,Pavimentaço,8
+394,Cimento Asfáltico de Petróleo - CAP,7
+341,Espuma Expansiva,7
+311,String Box,7
+310,Painéis Fotovoltaicos,7
+301,Equipamentos para Piscina,7
+192,Estabilizadores,7
+187,Materiais para Obras,7
+88,Torneiras para Cozinha,7
+85,Pias e Cubas de Cozinha,7
+113,Lixeiras de Calçada,7
+454,Dutos e conexões PEAD,7
+128,Ferramentas para Solda,7
+434,Pisos de concreto,7
+396,Cadeiras,7
+386,Placas de sinalização de segurança,7
+387,Portas corta fogo,6
+403,Pré-Moldados,6
+347,Vibroacabadoras,6
+405,Polias e rolamentos,6
+57,Kits para Banheiro,6
+96,Eletros para Cozinha,6
+142,Postes de Jardim,6
+426,Compressor de Ar,6
+246,Vidros para Sacadas,6
+222,Acessórios para Pisos e Revestimentos,6
+239,Janelas e Venezianas,6
+205,Aquecedores de Água,6
+283,Outros - Banheiros,6
+278,Solventes e Removedores,6
+2,Pisos,6
+270,Massa Acrílica,6
+318,Apoio e Administrativo,6
+312,Inversores,6
+67,Climatizadores de Ar,6
+299,Automação Residencial,5
+228,Pisos Vinílicos,5
+268,Corantes,5
+363,EPC: Equipamentos de Proteção Coletiva,5
+354,Terraplenagem,5
+444,Iluminação Pública,5
+51,Dispensers,5
+100,Carrinhos de Carga e Rodas,5
+315,Móveis,5
+201,Tomadas e Interruptores Específicos,5
+3,Revestimentos,5
+234,Todos os Pisos,5
+241,Portões,5
+44,Aquecedores de Água,5
+395,CBUQ,5
+50,Cubas para Banheiro,5
+130,Máquinas Elétricas,5
+82,Lixeiras,5
+47,Banheiro Comercial,5
+185,Blocos de Vidro,4
+326,Cabos Blindados,4
+456,Casas pré-fabricadas,4
+443,Pias e Bancadas em Mármore,4
+469,Suporte para iluminação em poste,4
+429,Poste de fibra de vidro,4
+438,Usina de Solo,4
+472,Terra vegetal (substrato),4
+63,Torneiras para Banheiro,4
+453,Pisos de Borracha,4
+435,Placas e forros minerais,4
+424,Equipamentos de laboratório,4
+364,Gases refrigerantes,4
+404,Compressores,4
+392,Controladores de FP,4
+369,Transporte Vertical,4
+49,Chuveiros,4
+475,Tubulação Defofo,4
+258,Informática,4
+22,Outros,4
+325,Suporte e Fixação,4
+116,"Rodízios, Pés para Móveis e Eletrodomésticos",4
+286,Outros - Eletros,3
+279,Textura de Parede,3
+370,Plataformas de acessibilidade,3
+408,Veículos de transporte,3
+445,Divisórias em Granilite,3
+431,Carenagem hidraulica,3
+89,Utilidades Domésticas,3
+42,Acessibilidade e Segurança,3
+390,Rede de hidrantes,3
+397,Medidores de Energia,3
+230,Produtos para Aplicação e Acabamento,3
+86,Produtos para Área de Serviço,3
+79,Eletrodomésticos para Cozinha,3
+308,Fibra de Vidro,3
+182,Sacos de Entulho,3
+191,Eletricista,3
+277,Seladores e Fundos,3
+110,Ferragens para Porta,3
+105,Estrados,2
+218,Acessórios para Torneiras e Misturadores,2
+263,Suportes para Eletro,2
+111,Ganchos e Cabideiros,2
+62,Vasos Sanitários,2
+108,Ferragens para Janelas,2
+216,Sifão para Pia,2
+68,Desumidificadores de Ambientes,2
+98,Acessórios para Móveis,2
+422,Suportes,2
+407,Vigas e perfis metálicos,2
+153,Madeiras para Telhado,2
+366,Perfis de alumínio,2
+375,Abrigos para extintores,2
+377,Alarme de incêndio convencional,2
+338,Piso Podotátil,2
+339,Geradores de Energia,2
+170,Conduítes,2
+41,Outros Arquitetura,2
+199,Resistências Elétricas,2
+237,Batentes e Guarnições,2
+251,Campainhas,2
+285,Outros - Cozinhas e Áreas de Serviço,2
+296,Outros - Segurança e Comunicação,2
+32,Madeiras,2
+332,Baterias,2
+411,Bomba de Êmbolo,2
+388,Sprinklers,2
+140,Lustres e Pendentes,2
+146,Barreiras de Proteção,2
+421,Canaletas e acessórios,2
+93,Eletroportáteis de Áudio e Vídeo,2
+463,Monitor,2
+331,Outros - Fotovoltaicos,1
+276,Proteção para Pintura,1
+323,Maquinário,1
+316,Sacos de Lixo,1
+31,Componentes,1
+307,Seguros,1
+186,Toldos e Coberturas,1
+284,Outros - Climatização e Ventilação,1
+281,Tintas Spray,1
+215,Acabamentos para Registro,1
+83,Móveis de Cozinha,1
+70,Dutos e Grades de Ventilação,1
+80,Escadas e Banquetas Domésticas,1
+109,Ferragens para Móveis,1
+101,Cavaletes,1
+112,Letras e Números Residenciais,1
+114,Perfil para Bricolagem,1
+221,Misturadores para Bidê,1
+275,Produtos para Metais e Ferros,1
+274,Produtos para Madeira,1
+198,Reatores e Soquetes,1
+233,Rodapés,1
+225,Pedras Naturais e Mosaicos,1
+249,Cadeados,1
+257,Iluminação de Segurança,1
+420,Selantes,1
+410,Peças de reposição,1
+154,Pallets,1
+155,Pisos de Madeira,1
+406,Correias e correntes,1
+144,Spots,1
+393,Controlador de Demanda,1
+389,Suporte para extintores,1
+360,"Análises, medições e termografia",1
+356,Instalações Elétricas Baixa tensão,1
+351,Caminhões Espargidores,1
+35,Instalações Provisórias,1
+349,Frasadores e Recicladoras de Asfalto,1
+367,Roldanas,1
+168,Churrasqueiras,1
+173,Escadas Profissionais,1
+458,Casa Container,1
+459,Casa em Steel-Frame,1
+455,Bomba Submersa,1
+442,Caixas para Hidrômetros,1
+441,Controle de Vibração,1
+428,Test Subcategory,1
+465,Equipamentos para Academia,1
+468,Parafuso tipo U,1
+473,Guindastes,1
+133,Arandelas,1
+132,Abajures,1
+466,Minerais,1
+59,Nichos para Banheiro,1
+53,Duchas Higiênicas,1
+52,Duchas,1
+91,Eletroportáteis,1
