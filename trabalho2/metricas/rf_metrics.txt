@@ -1,0 +1,6 @@
+Random Forest - Resultados de Avaliação
+==================================================
+accuracy: 0.8861
+precision_macro: 0.8650
+recall_macro: 0.8030
+f1_macro: 0.8166

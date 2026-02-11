@@ -1,0 +1,6 @@
+Support Vector Machine (SVM) - Resultados de Avaliação
+==================================================
+accuracy: 0.9192
+precision_macro: 0.8960
+recall_macro: 0.8717
+f1_macro: 0.8724

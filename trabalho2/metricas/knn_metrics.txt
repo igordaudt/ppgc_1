@@ -1,0 +1,6 @@
+K-Nearest Neighbors - Resultados de Avaliação
+==================================================
+accuracy: 0.8941
+precision_macro: 0.8433
+recall_macro: 0.8106
+f1_macro: 0.8128

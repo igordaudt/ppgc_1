@@ -1,0 +1,6 @@
+Naive Bayes - Resultados de Avaliação
+==================================================
+accuracy: 0.8522
+precision_macro: 0.8233
+recall_macro: 0.7077
+f1_macro: 0.7329

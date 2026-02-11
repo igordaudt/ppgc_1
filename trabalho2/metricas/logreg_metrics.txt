@@ -1,0 +1,6 @@
+Logistic Regression - Resultados de Avaliação
+==================================================
+accuracy: 0.9083
+precision_macro: 0.9050
+recall_macro: 0.8063
+f1_macro: 0.8358

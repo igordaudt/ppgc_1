@@ -1,0 +1,98 @@
+label	count
+Acessibilidade e Segurança	3
+Acessórios para Banheiro	3
+Acessórios para Pisos e Revestimentos	5
+Acessórios para telhado	8
+Alarmes e Sensores de Presença	2
+Apoio e Administrativo	6
+Automação Residencial	4
+Banheiro Comercial	3
+Blocos de Vidro	4
+CBUQ	5
+Cadeiras	3
+Carenagem hidraulica	3
+Carrinhos de Carga e Rodas	5
+Casas pré-fabricadas	4
+Chapas INOX	9
+Chuveiros	4
+Cimento Asfáltico de Petróleo - CAP	7
+Climatizadores de Ar	6
+Compressor de Ar	6
+Compressores	4
+Conectores	4
+Conexões	9
+Controladores de FP	4
+Cubas para Banheiro	5
+Dispensers	5
+Divisórias em Granilite	3
+EPC: Equipamentos de Proteção Coletiva	5
+Eletrodomésticos para Cozinha	3
+Eletros para Cozinha	6
+Equipamentos Elétricos	4
+Equipamentos de laboratório	4
+Equipamentos para Piscina	4
+Espuma Expansiva	8
+Estabilizadores	5
+Exaustores	9
+Ferragens	6
+Ferragens para Porta	2
+Fibra de Vidro	2
+Filtros, Purificadores e Bebedouros	9
+Gases refrigerantes	4
+Iluminação Pública	5
+Informática	2
+Inversores	5
+Kits para Banheiro	6
+Lixeiras	2
+Lixeiras de Calçada	4
+Massa Acrílica	6
+Medidores de Energia	3
+Máquinas Elétricas	5
+Móveis	3
+Organização e Transporte de Ferramentas	8
+Outros - Materiais de Construção	1
+Outros - Tintas e Acessórios	1
+Pavimentaço	5
+Perfis para Steel Frame	8
+Pias e Bancadas em Mármore	4
+Pias e Cubas de Cozinha	7
+Pisos	2
+Pisos Vinílicos	5
+Pisos de Borracha	3
+Placas de sinalização de segurança	7
+Placas e forros minerais	4
+Plataformas de acessibilidade	3
+Polias e rolamentos	6
+Portas corta fogo	6
+Portões	5
+Poste de fibra de vidro	4
+Postes de Jardim	4
+Pressurizadores de Água	2
+Produtos para Aplicação e Acabamento	3
+Produtos para Área de Serviço	3
+Pré-Moldados	6
+Puxadores	6
+Rede de hidrantes	3
+Revestimentos Internos	7
+Rodízios, Pés para Móveis e Eletrodomésticos	3
+Sacos de Entulho	1
+Seladores e Fundos	3
+Solventes e Removedores	3
+String Box	7
+Suporte e Fixação	3
+Suporte para iluminação em poste	3
+Terra vegetal (substrato)	4
+Terraplenagem	5
+Textura de Parede	3
+Torneiras para Banheiro	4
+Torneiras para Cozinha	7
+Transporte Vertical	4
+Tubos e conexões para Gases Medicinais	6
+Tubulação Defofo	4
+Usina de Solo	4
+Utilidades Domésticas	3
+Vedação e Impermeabilização	8
+Veículos de transporte	2
+Vibroacabadoras	6
+Vidros para Sacadas	6
+Água Quente	5
