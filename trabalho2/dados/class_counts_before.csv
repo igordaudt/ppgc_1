@@ -146,58 +146,58 @@ ID_Sub,Sub_Name,count
 333,Controlador de Carga,10
 179,Madeiras para Construção,10
 90,Eletrodomésticos,10
-470,Marmores e Granitos,9
-69,Exaustores,9
-381,Conexões,9
-212,Pressurizadores de Água,8
-81,"Filtros, Purificadores e Bebedouros",8
-288,Outros - Ferramentas,8
-304,Notebooks,8
-18,Outros Elétricos,8
-34,Luminárias,8
-355,Outros - Pavimentação,8
-460,Perfis para Steel Frame,8
-131,Organização e Transporte de Ferramentas,8
-437,Tampões e Grelhas,8
-115,Puxadores,8
-321,Pavimentaço,8
+470,Marmores e Granitos,10
+69,Exaustores,10
+381,Conexões,0
+212,Pressurizadores de Água,10
+81,"Filtros, Purificadores e Bebedouros",10
+288,Outros - Ferramentas,10
+304,Notebooks,10
+18,Outros Elétricos,10
+34,Luminárias,rever
+355,Outros - Pavimentação,10
+460,Perfis para Steel Frame,10
+131,Organização e Transporte de Ferramentas,10
+437,Tampões e Grelhas,10
+115,Puxadores,10
+321,Pavimentaço,5
 394,Cimento Asfáltico de Petróleo - CAP,7
-341,Espuma Expansiva,7
-311,String Box,7
+341,Espuma Expansiva,13
+311,String Box,8
 310,Painéis Fotovoltaicos,7
-301,Equipamentos para Piscina,7
-192,Estabilizadores,7
-187,Materiais para Obras,7
-88,Torneiras para Cozinha,7
-85,Pias e Cubas de Cozinha,7
+301,Equipamentos para Piscina,10
+192,Estabilizadores,10
+187,Materiais para Obras,10
+88,Torneiras para Cozinha,10
+85,Pias e Cubas de Cozinha,10
 113,Lixeiras de Calçada,7
-454,Dutos e conexões PEAD,7
-128,Ferramentas para Solda,7
-434,Pisos de concreto,7
-396,Cadeiras,7
-386,Placas de sinalização de segurança,7
-387,Portas corta fogo,6
-403,Pré-Moldados,6
-347,Vibroacabadoras,6
-405,Polias e rolamentos,6
-57,Kits para Banheiro,6
-96,Eletros para Cozinha,6
-142,Postes de Jardim,6
-426,Compressor de Ar,6
-246,Vidros para Sacadas,6
-222,Acessórios para Pisos e Revestimentos,6
-239,Janelas e Venezianas,6
-205,Aquecedores de Água,6
-283,Outros - Banheiros,6
-278,Solventes e Removedores,6
-2,Pisos,6
-270,Massa Acrílica,6
-318,Apoio e Administrativo,6
-312,Inversores,6
-67,Climatizadores de Ar,6
-299,Automação Residencial,5
-228,Pisos Vinílicos,5
-268,Corantes,5
+454,Dutos e conexões PEAD,28
+128,Ferramentas para Solda,12
+434,Pisos de concreto,50
+396,Cadeiras,16
+386,Placas de sinalização de segurança,14
+387,Portas corta fogo,10
+403,Pré-Moldados,10
+347,Vibroacabadoras,10
+405,Polias e rolamentos,13
+57,Kits para Banheiro,12
+96,Eletros para Cozinha,31
+142,Postes de Jardim,10
+426,Compressor de Ar,15
+246,Vidros para Sacadas,37
+222,Acessórios para Pisos e Revestimentos,41
+239,Janelas e Venezianas,25
+205,Aquecedores de Água,26 #repete classe
+283,Outros - Banheiros,13
+278,Solventes e Removedores,26
+2,Pisos,33
+270,Massa Acrílica,23
+318,Apoio e Administrativo,6 #não sei o que significa
+312,Inversores,17
+67,Climatizadores de Ar,11
+299,Automação Residencial,13
+228,Pisos Vinílicos,1 #não possui itens cadastrados
+268,Corantes,4 #não possui itens cadastrados suficientes
 363,EPC: Equipamentos de Proteção Coletiva,5
 354,Terraplenagem,5
 444,Iluminação Pública,5
@@ -208,7 +208,7 @@ ID_Sub,Sub_Name,count
 3,Revestimentos,5
 234,Todos os Pisos,5
 241,Portões,5
-44,Aquecedores de Água,5
+44,Aquecedores de Água, #repete classe
 395,CBUQ,5
 50,Cubas para Banheiro,5
 130,Máquinas Elétricas,5

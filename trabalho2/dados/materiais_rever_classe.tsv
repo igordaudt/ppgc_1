@@ -416,12 +416,6 @@
 
 88	Portas, Janelas e Portões	236	Acessórios de Portas e Janelas	6020	Switch 24 Portas Gigabit 10/100/1000
 
-88	Portas, Janelas e Portões	239	Janelas e Venezianas	103	Janela Alumínio de correr 1,00x1,50m
-88	Portas, Janelas e Portões	239	Janelas e Venezianas	9780	JANELA COM 2 FOLHAS DE CORRER EM PVC BRANCA E TELA MILIMÉTRICA RETRÁTIL (RECOLHÍVEL). MÓDULO SUPERIOR COM 2 FOLHAS MAXIM-AR COM HASTE LIMITADORA DE ABERTURA. VIDROS COMUNS, TRANSLÚCIDOS, INCOLOR, 4mm. DIMENSÕES (osso): 120x170/110cm
-88	Portas, Janelas e Portões	239	Janelas e Venezianas	13071	JANELA DE ALUMÍNIO DE CORRER 4 FOLHAS, DUAS FIXAS E DUAS MÓVEIS, PINTURA ELETROSTÁTICA BRANCA, VIDRO LISO INCOLOR 4 MM a 6 MM, DIMENSÕES 220 CM X120 CM (LXA) LINHA 25 (SUPREMA).A ESQUADRIA DEVE ACOMPANHAR DE GRAPAS PARA CHUMBAMENTO, O MATERIAL SERÁ ENTREGUE EMBALADO EM HDF, MADEIRAS E FITAS DE AMARRAÇÃO, QUE GARANTE MAIS PROTEÇÃO E QUALIDADE DURANTE O TRANSPORTE, ARMAZENAMENTO E INSTALAÇÃO.
-88	Portas, Janelas e Portões	239	Janelas e Venezianas	9779	JANELA EM VENEZIANA DE VENTILAÇÃO PERMANENTE EM ALUMÍNIO COM PINTURA ELETROSTÁTICA NA COR BRANCA. DIMENSÕES (osso): 140x120/100cm
-88	Portas, Janelas e Portões	239	Janelas e Venezianas	8552	Portinhola / Tipo Veneziana em alumínio para porta de madeira 60 x 40 cM
-88	Portas, Janelas e Portões	239	Janelas e Venezianas	10849	VENEZIANA 3 FOLHAS
 83	Materiais Hidráulicos	207	Canos e Conexões Hidráulicas	20200	Registro de esfera soldável PVC marrom, 20 mm
 83	Materiais Hidráulicos	207	Canos e Conexões Hidráulicas	20201	Registro de esfera soldável PVC marrom, 25 mm
 83	Materiais Hidráulicos	207	Canos e Conexões Hidráulicas	20202	Registro de esfera soldável PVC marrom, 32 mm
@@ -967,9 +961,6 @@
 
 75	Ferragens	110	Ferragens para Porta	31	Porta Corta Fogo P90 Simples 89x210x5 cm
 
-75	Ferragens	115	Puxadores	1359	CAIXA DE DESCARGA DE PLASTICO EXTERNA, DE *9* L, PUXADOR FIO DE NYLON, NAO INCLUSO CANO, BOLSA, ENGATE
-75	Ferragens	115	Puxadores	4136	PORTA DE CORRER EM ALUMINIO, DUAS FOLHAS MOVEIS COM VIDRO, FECHADURA E PUXADOR EMBUTIDO, ACABAMENTO ANODIZADO NATURAL, SEM GUARNICAO/ALIZAR/VISTA
-
 75	Ferragens	116	Rodízios, Pés para Móveis e Eletrodomésticos	3203	LOCACAO DE ANDAIME METALICO TUBULAR DE ENCAIXE, TIPO DE TORRE, COM LARGURA DE 1 ATE 1,5 M E ALTURA DE *1,00* M (INCLUSO SAPATAS FIXAS OU RODIZIOS)
 76	Ferramentas	124	Ferramentas Manuais	1831	CONECTOR METALICO TIPO PARAFUSO FENDIDO (SPLIT BOLT), COM SEPARADOR DE CABOS BIMETALICOS, PARA CABOS ATE 25 MM2
 76	Ferramentas	124	Ferramentas Manuais	1832	CONECTOR METALICO TIPO PARAFUSO FENDIDO (SPLIT BOLT), COM SEPARADOR DE CABOS BIMETALICOS, PARA CABOS ATE 50 MM2
@@ -997,14 +988,6 @@
 45	Infraestrutura	362	Poste Metálico	11923	Poste de concreto. Carga horizontal: 90 dan. Topo: 10X10 cm. Base: 19x19cm peso:320k buraco: 30x30 cm. Profundidade:1,40 cm
 
 
-98	Pavimentação	355	Outros - Pavimentação	18459	AQUEC. FLUIDO TERMICO P/USINA
-98	Pavimentação	355	Outros - Pavimentação	788	ARGAMASSA USINADA AUTOADENSAVEL E AUTONIVELANTE PARA CONTRAPISO, INCLUI BOMBEAMENTO
-98	Pavimentação	355	Outros - Pavimentação	9366	Asfalto diluido - Adeflex
-98	Pavimentação	355	Outros - Pavimentação	15761	Distribuidor de Agregados Rebocável
-98	Pavimentação	355	Outros - Pavimentação	3560	MAQUINA DEMARCADORA DE FAIXA DE TRAFEGO A FRIO, AUTOPROPELIDA, MOTOR DIESEL 38 HP
-98	Pavimentação	355	Outros - Pavimentação	16433	Máquina Extrusora para execução meio fio e sarjeta.
-98	Pavimentação	355	Outros - Pavimentação	12278	Pavimento Intertravado Espessura de 10cm FCK=35MPA
-98	Pavimentação	355	Outros - Pavimentação	12279	Pavimento Intertravado Espessura de 6cm FCK=35MPA
 45	Infraestrutura	36	Outros	7108	Afastador para telha de fibrocimento, canalete 90
 45	Infraestrutura	36	Outros	7102	Bucha elástica
 45	Infraestrutura	36	Outros	23664	CHAPA ACO ASTM A36 3/8POL X 1500MM X 6000MM
@@ -1022,12 +1005,6 @@
 45	Infraestrutura	36	Outros	7105	Trava para canalete 90
 87	Pisos e Revestimentos	453	Pisos de Borracha	10450	Tapete Isolante Elétrico – CLASSE 2 -25x1000x1000mm
 
-69	Banheiros	283	Outros - Banheiros	893	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 60CM, DIAMETRO MINIMO 3 CM
-69	Banheiros	283	Outros - Banheiros	894	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 70CM, DIAMETRO MINIMO 3 CM
-69	Banheiros	283	Outros - Banheiros	895	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 80 CM, DIAMETRO MINIMO 3 CM
-69	Banheiros	283	Outros - Banheiros	896	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 90 CM, DIAMETRO MINIMO 3 CM
-69	Banheiros	283	Outros - Banheiros	14630	Divisoria de banheiro granito cinza corumba 1,20x2mx2,5cm polido nos quatro lados
-69	Banheiros	283	Outros - Banheiros	15736	MICTÓRIO EM INOX AISI 304 MED. 1,00M
 74	Eletros	286	Outros - Eletros	9261	Alça pré-formada para cabo de aço 9,5mm
 74	Eletros	286	Outros - Eletros	21568	Extensão elétrica 20 mts
 74	Eletros	286	Outros - Eletros	17699	Pezinho de fogão Continental
@@ -1166,14 +1143,6 @@
 75	Ferragens	287	Outros - Ferragens	12516	TRANSIÇÃO PE X AÇO PONTA SOLDA DN600
 75	Ferragens	287	Outros - Ferragens	17943	Uniduti cônico com porca 1”
 75	Ferragens	287	Outros - Ferragens	11320	VERGALHÃO - para os grampos (barras de 12m)
-76	Ferramentas	288	Outros - Ferramentas	6285	Afiador de Broca
-76	Ferramentas	288	Outros - Ferramentas	9361	Broca 14 plus para concreto
-76	Ferramentas	288	Outros - Ferramentas	6287	Brocas
-76	Ferramentas	288	Outros - Ferramentas	6293	Esmeril de Bancada 127V 550W
-76	Ferramentas	288	Outros - Ferramentas	6289	Ferramentas de Carpintaria
-76	Ferramentas	288	Outros - Ferramentas	6298	Motosserra portátil com motor a gasolina de 30cc
-76	Ferramentas	288	Outros - Ferramentas	6376	Porca sextavada 1/4
-76	Ferramentas	288	Outros - Ferramentas	6288	Serra de Corrente Portátil
 77	Iluminação	289	Outros - Iluminação	707	APARELHO SINALIZADOR LUMINOSO COM LED, PARA SAIDA GARAGEM, COM 2 LENTES EM POLICARBONATO, BIVOLT (INCLUI SUPORTE DE FIXACAO)
 77	Iluminação	289	Outros - Iluminação	6303	Automatizador de lâmpadas
 77	Iluminação	289	Outros - Iluminação	863	BALDE VERMELHO PARA SINALIZACAO DE VIAS
@@ -1364,10 +1333,6 @@
 82	Materiais Elétricos	197	Quadros e Caixas Elétricas	19070	CAIXA DE PASSAGEM EM ALVENARIA IMPERMEABILIZADA INTERNAMENTE 0,80x0,80 ALT. MÉD. 0,90M
 82	Materiais Elétricos	197	Quadros e Caixas Elétricas	19069	CAIXA DE PASSAGEM EM ALVENARIA IMPERMEABILIZADA INTERNAMENTE 1,00x01,00x1,00M
 
-28	Arquitetura	2	Pisos	5788	Duto flexível isolado termicamente, Ø150mm
-28	Arquitetura	2	Pisos	6900	Bloco Sextavado de Concreto 20X6 CM
-28	Arquitetura	2	Pisos	6882	PISO INTERTRAVADO DE CONCRETO - COR MARROM MODELO PAVER PLATO 20x10x6cm (CxLxH)
-28	Arquitetura	2	Pisos	285	Tanque Fortplus 1750 Litros
 82	Materiais Elétricos	203	Tubos e Eletrodutos	19354	Luva água fria rosca DN 20mm
 82	Materiais Elétricos	203	Tubos e Eletrodutos	19355	Luva água fria rosca DN 25mm
 82	Materiais Elétricos	203	Tubos e Eletrodutos	19356	Luva água fria rosca DN 32mm
@@ -1381,8 +1346,6 @@
 
 83	Materiais Hidráulicos	214	Registros e Bases	118	Adaptador Caixa dÁgua Registro DN32mm PVC Marrom Soldável NBR 5648
 83	Materiais Hidráulicos	214	Registros e Bases	116	Adaptador para caixa de água com registro DN40mm PVC
-
-87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	7528	REJUNTE CERAMICAS FLEXIVEL BRANCO 1KG
 
 42	Gases Medicinais	23	Outros	12194	ACETILENO (RECARGA DE GAS ACETILENO PARA CILINDRO DE CONJUNTO OXICORTE GRANDE) NAO INCLUI TROCA/MANUTENCAO DO CILINDRO
 42	Gases Medicinais	23	Outros	14599	Barbante de algodão natural com acabamento encerado, 14 fios, trançado, SAO LEOPOLD SANSAN BRAN 14 fios 5 MM
@@ -1492,12 +1455,6 @@
 90	Tintas e Acessórios	267	Adesivos e Colas	12939	Compensado tipo Madeirite, plastificado, confeccionado a partir de madeira seca (naturalmente ou por secagem forçada em estufa própria) originária de reflorestamento, por meio da colagem de cola branca e colagem em cola fenólica, fabricado com lâminas torneadas coladas sob pressão e temperatura, com capa e contracapa reparadas, painel com aplicação de anilina em ambas as faces e nos topos, medida padrão de 220 x 110cm e espessura de 12mm.
 90	Tintas e Acessórios	267	Adesivos e Colas	12940	Compensado tipo Madeirite, plastificado, confeccionado a partir de madeira seca (naturalmente ou por secagem forçada em estufa própria) originária de reflorestamento, por meio da colagem de cola branca e colagem em cola fenólica, fabricado com lâminas torneadas coladas sob pressão e temperatura, com capa e contracapa reparadas, painel com aplicação de anilina em ambas as faces e nos topos, medida padrão de 220 x 110cm e espessura de 18mm.
 
-90	Tintas e Acessórios	268	Corantes	2798	GUARNICAO/ALIZAR/VISTA, E = *1,3* CM, L = *5,0* CM HASTE REGULAVEL = *35* MM, EM MDF/PVC WOOD/ POLIESTIRENO OU MADEIRA LAMINADA, PRIMER BRANCO (JOGO PARA 1 FACE)
-90	Tintas e Acessórios	268	Corantes	2799	GUARNICAO/ALIZAR/VISTA, E = *1,3* CM, L = *7,0* CM, EM POLIESTIRENO, BRANCO (JOGO PARA 1 FACE)
-90	Tintas e Acessórios	268	Corantes	2797	GUARNICAO / ALIZAR / VISTA, E = *1,5* CM, L = *5,0* CM, EM POLIESTIRENO, BRANCO (JOGO PARA 1 FACE)
-90	Tintas e Acessórios	268	Corantes	20880	GUARNIÇÃO / MOLDURA / ARREMATE DE ACABAMENTO PARA ESQUADRIA, EM ALUMÍNIO PERFIL 25, ACABAMENTO ANODIZADO BRANCO OU BRILHANTE, PARA 1 FACE
-90	Tintas e Acessórios	268	Corantes	2800	GUARNICAO/MOLDURA DE ACABAMENTO PARA ESQUADRIA DE ALUMINIO ANODIZADO NATURAL, PARA 1 FACE
-
 71	Climatização e Ventilação	27	Equipamentos Elétricos	7969	Cremalheira para locação cabine simples
 71	Climatização e Ventilação	27	Equipamentos Elétricos	209	Eletroduto flexível corrugado Reforçado em PVC
 71	Climatização e Ventilação	27	Equipamentos Elétricos	5924	Elevador elétrico instalação painéis fotovoltaicos
@@ -1513,9 +1470,6 @@
 90	Tintas e Acessórios	271	Massa Corrida e Niveladora	16509	MASSA NIVELADORA ACRÍLICA PREMIUM. TEXTURA LISA APÓS LIXADA E ACABAMENTO FOSCO. INDICADO PARA UNIFORMIZAR, CORRIGIR E NIVELAR IMPERFEIÇÕES EM SUPERFÍCIES DE REBOCO, CONCRETO E SUPERFÍCIES SEMELHANTES. SECAGEM RÁPIDA E FÁCIL DE LIXAR. USO EM INTERIORES QUANTO EM EXTERIORES. COR BRANCO. BALDE/GALÃO 6 KG. CONFORME NORMAS ABNT/NBR VIGENTES.
 90	Tintas e Acessórios	271	Massa Corrida e Niveladora	16510	MASSA NIVELADORA ACRÍLICA PREMIUM. TEXTURA LISA APÓS LIXADA E ACABAMENTO FOSCO. INDICADO PARA UNIFORMIZAR, CORRIGIR E NIVELAR IMPERFEIÇÕES EM SUPERFÍCIES DE REBOCO, CONCRETO E SUPERFÍCIES SEMELHANTES. SECAGEM RÁPIDA E FÁCIL DE LIXAR. USO EM INTERIORES QUANTO EM EXTERIORES. COR BRANCO. BALDE/LATA 1,5 KG. CONFORME NORMAS ABNT/NBR VIGENTES.
 
-90	Tintas e Acessórios	278	Solventes e Removedores	3233	LONA PLASTICA EXTRA FORTE PRETA, E = 200 MICRA
-90	Tintas e Acessórios	278	Solventes e Removedores	3234	LONA PLASTICA PESADA PRETA, E = 150 MICRA
-90	Tintas e Acessórios	278	Solventes e Removedores	6471	LONA PLASTICA, PRETA, LARGURA 8 M, E= 150 MICRA
 90	Tintas e Acessórios	280	Verniz e Solvente	15754	Calha retangular em chapa galvanizada nº 14( 1,8mm), desenvolvimento de 50 cm, pintada com tinta esmalte sintético areia em ambas as faces.
 
 90	Tintas e Acessórios	280	Verniz e Solvente	15752	Cumeeira de chapa de alumínio pintada com tinta esmalte sintético areia em ambas as faces.-* Considerado quantitativo de cumeeira da LI-9525.03-8226-190-OGB-401=A-* Considerados a pré-pintura em ambas as faces e os acessórios de fixação incluídos-* item sem correspondente nos Insumos_SINAPI e Composições_SINAPI-* Insumos_SINAPI similar mais próximo : 7216
@@ -1536,14 +1490,7 @@
 90	Tintas e Acessórios	282	Vedação e Impermeabilização	247	Anel vedação 40mm
 90	Tintas e Acessórios	282	Vedação e Impermeabilização	249	Anel vedação 50mm
 
-92	Informática	304	Notebooks	17896	Cabo patch cord U/UTP CM Cat 6 vermelho 150 cm
-92	Informática	304	Notebooks	14855	Fonte 500w PFC Ativo Automática
-92	Informática	304	Notebooks	14856	HD 2TB com raid 1
-92	Informática	304	Notebooks	14854	Memoria 16GB DR4 3200MHz ECC
-92	Informática	304	Notebooks	14857	Placa de Rede Gigabit 10/100/1000
-
 81	Construção Civil	308	Fibra de Vidro	10724	Tela acabamento antialcalino malha 10x10 cor preta
-94	Fotovoltaico	312	Inversores	5902	QUADRO DE TRANSFERENCIA AUTOMATICO  1600 A
 45	Infraestrutura	317	Artefatos de Concreto	18916	BANCO DE ÔNIBUS (Altura2.40m/Largura3.00m/Assento 60 cm / Base1.35 m) com 5 assentos
 
 
@@ -1657,14 +1604,9 @@
 82	Materiais Elétricos	38	Proteções Elétricas	5700	QUADRO DE TRANSFERÊNCIA QF TIPO 02 63A composto por interruptor minidisjuntor cabo quadro
 82	Materiais Elétricos	38	Proteções Elétricas	17909	Quadro geral de distribuição de embutir, com barramento em chapa de aço galvanizado com pintura eletrostática para até 800A, medindo 1800x1000x600cm exclusive disjuntores
 
-28	Arquitetura	396	Cadeiras	14181	BANCO DE CONCRETO PADRAO SUDESCAP SEM ENCOSTO
-28	Arquitetura	396	Cadeiras	15380	BANCO SEM ENCOSTO COM ESTRUTURA EM CONCRETO, MEDINDO 150 X 40 X 45cm Banco sem encosto, com assento e estrutura em concreto pré-moldado.
-
-28	Arquitetura	396	Cadeiras	10119	BANCO METÁLICO COM ENCOSTO, 1,60 M DE COMPRIMENTO, EM TUBO DE AÇO CARBONO COM PINTURA ELETROSTÁTICA
-28	Arquitetura	396	Cadeiras	9707	banco metálico com encosto, 1,60M de comprimento, em tubo de aço carbono com pintura eletrostática
 75	Ferragens	398	Tubos e conexões industriais	3877	PARAFUSO ZINCADO, AUTOBROCANTE, FLANGEADO, 4,2 MM X 19 MM
-
 75	Ferragens	398	Tubos e conexões industriais	8383	válvulas tipo wafer - 4’’
+75	Ferragens	401	Chapa em alumínio	14576	Pingadeira/Chapa galvanizada 0,043mm medindo 5x20x50cm
 
 82	Materiais Elétricos	40	Tomadas, interruptores e plugues	5764	Tomada de ar exterior, 10x10cm
 82	Materiais Elétricos	40	Tomadas, interruptores e plugues	5766	Tomada de ar exterior, 20x15cm
@@ -1672,7 +1614,6 @@
 82	Materiais Elétricos	40	Tomadas, interruptores e plugues	5765	Tomada de ar exterior, 25x25cm
 82	Materiais Elétricos	40	Tomadas, interruptores e plugues	5769	Tomada de ar exterior, 50x20cm
 82	Materiais Elétricos	40	Tomadas, interruptores e plugues	5768	Tomada de ar exterior, 60x20cm
-75	Ferragens	401	Chapa em alumínio	14576	Pingadeira/Chapa galvanizada 0,043mm medindo 5x20x50cm
 
 
 36	Equipamentos	408	Veículos de transporte	18457	VIBRO ACAB. CAT. AP-1050-B
@@ -1919,10 +1860,6 @@
 82	Materiais Elétricos	11	Infraestrutura	3972	PERFILADO PERFURADO SIMPLES 38 X 38 MM, CHAPA 22
 82	Materiais Elétricos	11	Infraestrutura	8201	PERFILADO PERFURADO SIMPLES 38 X 76 MM, CHAPA 14
 
-75	Ferragens	113	Lixeiras de Calçada	23706	Lixeira 30L - Fixar na Parede
-
-75	Ferragens	113	Lixeiras de Calçada	14747	Lixeira 50 litros
-75	Ferragens	113	Lixeiras de Calçada	23708	Lixeira de 50L
 76	Ferramentas	119	Acessórios e Consumíveis para Ferramentas	6706	Desengripante WD-40
 
 76	Ferramentas	122	Ferramentas de Medição	2684	FORRO DE PVC, FRISADO, BRANCO, REGUA DE 10 CM, ESPESSURA DE 8 MM A 10 MM E COMPRIMENTO 6 M (SEM COLOCACAO)
@@ -2250,10 +2187,6 @@
 82	Materiais Elétricos	14	Para Raios e SPDA	9460	Cabo de aço cobreado nu de 1/C x 16 até 25mm
 82	Materiais Elétricos	14	Para Raios e SPDA	9461	Cabo de aço cobreado nu de 1/C x 70 mm
 82	Materiais Elétricos	14	Para Raios e SPDA	20	CABO DE COBRE NÚ, 25 mm²
-
-77	Iluminação	142	Postes de Jardim	208	Poste 1 Medidor Lateral Bifásico Completo
-
-77	Iluminação	142	Postes de Jardim	7112	POSTE DE CONCRETO ARMADO, SEÇÃO CIRCULAR, EXTENSAO 11,00M, RESISTÊNCIA DE 200 A 300 DAN - TIPO C-14
 
 80	Madeiras	150	Forros	22916	Cantoneira P/Moldura Forro PVC branco.
 80	Madeiras	150	Forros	1531	CAPA PARA CHUVA EM PVC COM FORRO DE POLIESTER, COM CAPUZ (AMARELA OU AZUL)
@@ -2635,15 +2568,6 @@
 81	Construção Civil	179	Madeiras para Construção	14504	DORMENTE EM MAÇARANDUBA APARELHADA : 0,20 X 0,20 X 3,20 METROS
 81	Construção Civil	179	Madeiras para Construção	23362	Forma
 
-82	Materiais Elétricos	18	Outros Elétricos	221	Barras Chatas em Alumínio  78″ x 18″
-82	Materiais Elétricos	18	Outros Elétricos	14368	Controlador Automático de Bancos de Capacitores Monofásicos e Trifásicos
-82	Materiais Elétricos	18	Outros Elétricos	9658	Parafuso Sextavado Latão Rosca Inteira Bsw - 1/2-12 X 1.1/2
-82	Materiais Elétricos	18	Outros Elétricos	96	QUADRO DE DISTRIBUICAO METALICO EMBUTIR 34/24 DISJUNTORES DIN/UL S/BARRAMENTO 100A C/GERAL
-82	Materiais Elétricos	18	Outros Elétricos	97	QUADRO DE DISTRIBUICAO METALICO EMBUTIR 44/32 DISJUNTORES DIN/UL S/BARRAMENTO 150A C/GERAL
-82	Materiais Elétricos	18	Outros Elétricos	19757	sensor Fotocélula azul
-82	Materiais Elétricos	18	Outros Elétricos	8612	Tubo de Injeção 11mm Jetplast em rolo de 200,0m
-82	Materiais Elétricos	18	Outros Elétricos	21581	UNIDADE SELADORA
-
 81	Construção Civil	182	Sacos de Entulho	14750	Saco de lixo 30L Resistente
 81	Construção Civil	182	Sacos de Entulho	14749	Saco de lixo 60L Resistente
 
@@ -2654,6 +2578,9 @@
 81	Construção Civil	187	Materiais para Obras	12841	Gesso lento, embalagem de 20kg. Composição: Sulfato de cálcio semi- hidratado CaSO4. 0,5 H2O. Validade de até 360 (trezentos e sessenta) dias a partir da data de fabricação. A data de fabricação deverá anteceder no máximo 30 dias da entrega do mesmo.Poderá ser solicitado catálogo, para verificação dos requisitos.
 81	Construção Civil	187	Materiais para Obras	10801	Malha Q 283 Gerdau (2,45m x 6,00m)
 81	Construção Civil	187	Materiais para Obras	9584	TELA DE AÇO SOLDADA NERVURADA CA-60, Q-113
+81	Construção Civil	187	Materiais para Obras	7505	CIMENTO SACO 25KG TODAS AS OBRAS
+81	Construção Civil	187	Materiais para Obras	772	    AREIA GROSSA - POSTO JAZIDA/FORNECEDOR (RETIRADO NA JAZIDA, SEM TRANSPORTE)
+81	Construção Civil	187	Materiais para Obras	5652	TIJOLOS CERÂMICO 09 FUROS 14 X 19 X 24 CM MEDIDA MINIMA
 
 82	Materiais Elétricos	188	Acessórios e Conexões Elétricas	258	Eletrocalha 200 x 100 x 3000 mm
 82	Materiais Elétricos	188	Acessórios e Conexões Elétricas	305	Eletrocalha Lisa cabos chapa aço carbono galvanizada 100 x 300
@@ -2696,11 +2623,6 @@
 82	Materiais Elétricos	191	Eletricista	2343	ELETRICISTA DE MANUTENCAO INDUSTRIAL
 82	Materiais Elétricos	191	Eletricista	2344	ELETRICISTA DE MANUTENCAO INDUSTRIAL (MENSALISTA)
 82	Materiais Elétricos	191	Eletricista	10842	Serviços de Instalação - Elétrica
-
-82	Materiais Elétricos	192	Estabilizadores	590	ADITIVO PLASTIFICANTE E ESTABILIZADOR PARA ARGAMASSAS DE ASSENTAMENTO E REBOCO, LIQUIDO E ISENTO DE CLORETOS
-
-82	Materiais Elétricos	192	Estabilizadores	13205	FUSÍVEL, VIDRO, TENSÃO MÁXIMA: 250V, CORRENTE: 15 AMPERES, DIMENSÕES:  ALTURA 20MM, LARGURA 5MM (PEQUENO), CAPACIDADE DE INTERRUPÇÃO:  BAIXA, FILAMENTO DE CHUMBO EM SEU INTERIOR, ENCAPSULAMENTO  DE VIDRO, LAMINA DE METAL,  UTILIZADOS PARA PROTEÇÃO DE CIRCUITOS ELE TROELETRÔNICOS, FILTROS DE LINHA, ESTABILIZADORES  DE TENSÃO,  NO-BREAK, PORTA FUSÍVEIS VEICULARES MODELOS  ANTIGOS, ENTRE OUTROS
-
 
 82	Materiais Elétricos	194	Fontes de Energia	23340	REFRIGERADOR (GELADEIRA), CARACTERÍSTICAS: TIPO DE DEGELO: FROST FREE
 82	Materiais Elétricos	194	Fontes de Energia	23341	REFRIGERADOR (GELADEIRA), UMA PORTA
@@ -2825,13 +2747,6 @@
 83	Materiais Hidráulicos	21	Sanitário	14704	T Esgoto 50 mm
 83	Materiais Hidráulicos	21	Sanitário	14705	T Esgoto 75 mm
 
-
-83	Materiais Hidráulicos	212	Pressurizadores de Água	8959	BOMBA CENTRÍFUGA COM MOTOR ELÉTRICO TRIFÁSICO, POTÊNCIA 15 HP, PARA RECALQUE D'ÁGUA
-83	Materiais Hidráulicos	212	Pressurizadores de Água	1004	BOMBA CENTRIFUGA MONOESTAGIO COM MOTOR ELETRICO MONOFASICO, POTENCIA 15 HP,  DIAMETRO DO ROTOR *173* MM, HM/Q = *30* MCA / *90* M3/H A *45* MCA / *55* M3/H
-83	Materiais Hidráulicos	212	Pressurizadores de Água	17676	BOMBA CENTRÍFUGA, TRIFÁSICA, 10 CV OU 9,86 HP, HM 85 A 140 M, Q 4,2 A 14,9 M3/H
-83	Materiais Hidráulicos	212	Pressurizadores de Água	1027	BOMBA SUBMERSIVEL, ELETRICA, TRIFASICA, POTENCIA 2,96 HP, DIAMETRO DO ROTOR 144 MM SEMIABERTO, BOCAL DE SAIDA DIAMETRO DE DUAS POLEGADAS, HM/Q = 2 M / 38,8 M3/H A 28 M / 5 M3/H
-83	Materiais Hidráulicos	212	Pressurizadores de Água	1022	BOMBA SUBMERSIVEL,  ELETRICA, TRIFASICA, POTENCIA 6 HP, DIAMETRO DO ROTOR 127 MM, BOCAL DE SAIDA DIAMETRO DE 3 POLEGADAS, HM/Q = 7 M / 66,90 M3/H A 26 M / 2,88 M3/H
-83	Materiais Hidráulicos	212	Pressurizadores de Água	11630	BOMBA TIPO CENTRIFUGA MONOESTAGIO, POLOS TRIFASICO, POTENCIA 3CV, ALTURA MANOMETRICA: 14-42 MCA, VAZAO: 14,5-2,8 M3/HASTE
 87	Pisos e Revestimentos	232	Revestimentos Internos	23293	FRIGIDEIRA DE ALUMÍNIO COM REVESTIMENTO INTERNO E EXTERNO DE ANTIADERENTE STARFLON T1.
 87	Pisos e Revestimentos	232	Revestimentos Internos	21010	Luva de segurança em nitrílica, sem revestimento interno. Tam: EG (10)
 87	Pisos e Revestimentos	232	Revestimentos Internos	21009	Luva de segurança em nitrílica, sem revestimento interno. Tam: G (9)

@@ -234,6 +234,10 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 75	Ferragens	115	Puxadores	4247	PUXADOR TIPO ALCA, EM ZAMAC CROMADO, COM COMPRIMENTO DE APROX 150 MM, COM ROSETA PARA PORTAS DE MADEIRAS, INCLUINDO PARAFUSOS
 75	Ferragens	115	Puxadores	4248	PUXADOR TIPO ALCA, EM ZAMAC CROMADO, COM ROSETAS, COMPRIMENTO DE APROX *100* MM, PARA PORTAS E JANELAS DE MADEIRA, INCLUINDO PARAFUSOS
 75	Ferragens	115	Puxadores	4250	PUXADOR TUBULAR RETO SIMPLES, EM ALUMINIO CROMADO, COM COMPRIMENTO DE APROX 400 MM E DIAMETRO DE 25 MM
+75	Ferragens	115	Puxadores	33223	PUXADOR PARA PCD, FIXADO NA PORTA - FORNECIMENTO E INSTALAÇÃO
+75	Ferragens	115	Puxadores	13046	Perfil Alumínio Puxador M02 espessura de 15mm Jateado comprimento de 3 Metros
+75	Ferragens	115	Puxadores	4249	PUXADOR TUBULAR RETO DUPLO, EM ALUMINIO CROMADO, COMPRIMENTO DE APROX 400 MM E DIAMETRO DE 25 MM (1")
+75	Ferragens	115	Puxadores	35423	PUXADOR DE EMBUTIR TIPO CONCHA, COM FURO PARA CHAVE, EM LATAO CROMADO, COMPRIMENTO DE APROX *100* MM E LARGURA DE APROX *40* MM
 75	Ferragens	116	Rodízios, Pés para Móveis e Eletrodomésticos	8344	Rodizio Giratório Placa Com Freio Poliuretano 350Kg 4 Pol
 75	Ferragens	116	Rodízios, Pés para Móveis e Eletrodomésticos	4404	RODIZIO TIPO NAPOLEAO PARA JANELAS DE CORRER, EM ZAMAC, COMPRIMENTO DE APROX 60 CM, COM ROLAMENTO EM ACO
 75	Ferragens	116	Rodízios, Pés para Móveis e Eletrodomésticos	5082	TRILHO QUADRADO FRIZADO PARA RODIZIO (VERGALHAO MACICO), EM ALUMINIO, COM DIMENSOES DE *6 X 6* MM
@@ -715,6 +719,16 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 76	Ferramentas	128	Ferramentas para Solda	15922	VARETA DE SOLDA Ø 1/8” (Ø 3,2mm) MATERIAL PVC BRANCO
 76	Ferramentas	128	Ferramentas para Solda	10501	Vareta de Solda PVC - 4,00 mm espessura
 76	Ferramentas	128	Ferramentas para Solda	3891	PASTA PARA SOLDA DE TUBOS E CONEXOES DE COBRE (EMBALAGEM COM 250 G)
+76	Ferramentas	288	Outros - Ferramentas	6285	Afiador de Broca
+76	Ferramentas	288	Outros - Ferramentas	9361	Broca 14 plus para concreto
+76	Ferramentas	288	Outros - Ferramentas	6287	Brocas
+76	Ferramentas	288	Outros - Ferramentas	6293	Esmeril de Bancada 127V 550W
+76	Ferramentas	288	Outros - Ferramentas	6289	Ferramentas de Carpintaria
+76	Ferramentas	288	Outros - Ferramentas	6298	Motosserra portátil com motor a gasolina de 30cc
+76	Ferramentas	288	Outros - Ferramentas	6376	Porca sextavada 1/4
+76	Ferramentas	288	Outros - Ferramentas	6288	Serra de Corrente Portátil
+76	Ferramentas	288	Outros - Ferramentas	5942	Kit ferramentas básicas
+76	Ferramentas	288	Outros - Ferramentas	6843	Jogo Chaves Fenda De Precisão 135 Em 1 Kit Ferramentas
 82	Materiais Elétricos	13	Condutos	19650	Adaptador condulete ¾” em PVC cor cinza
 82	Materiais Elétricos	13	Condutos	17846	ADAPTADOR CONDULETE PVC 3/4
 82	Materiais Elétricos	13	Condutos	15301	Adaptador de Redução para Condulete de PVC, Ø1''x3/4''
@@ -750,6 +764,8 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 76	Ferramentas	131	Organização e Transporte de Ferramentas	21104	Caixa para ferramentas
 76	Ferramentas	131	Organização e Transporte de Ferramentas	10107	Maleta de Aluminio, medida: 395x240x90mm
 76	Ferramentas	131	Organização e Transporte de Ferramentas	23314	MOCHILA, COR PRETA, MODELO: COSTAS
+76	Ferramentas	131	Organização e Transporte de Ferramentas	33696	BOLSA DE TRANSPORTE PARA FERRAMENTAS
+76	Ferramentas	131	Organização e Transporte de Ferramentas	13966	Bolsa em lona para ferramentas, dimensões de 430x240x300;
 77	Iluminação	138	Lâmpadas	17054	Item 1 - Lâmpada bulbo LED alta potência 50W 6500K E27
 77	Iluminação	138	Lâmpadas	17055	Item 2 - Lâmpada bulbo LED alta potência 30W E27
 77	Iluminação	138	Lâmpadas	17056	Item 3 - Lâmpada bulbo LED 15W 6500K E27
@@ -1043,10 +1059,26 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 82	Materiais Elétricos	14	Para Raios e SPDA	13514	TH/THR     -     GRAMPO     PARA ATERRAMENTO TH-12-58
 82	Materiais Elétricos	14	Para Raios e SPDA	13566	TH/THR         GRAMPO         PARA ATERRAMENTO TH012-58
 82	Materiais Elétricos	14	Para Raios e SPDA	16218	Torre telescópica  4 a 6 m
+82	Materiais Elétricos	18	Outros Elétricos	221	Barras Chatas em Alumínio  78″ x 18″
+82	Materiais Elétricos	18	Outros Elétricos	14368	Controlador Automático de Bancos de Capacitores Monofásicos e Trifásicos
+82	Materiais Elétricos	18	Outros Elétricos	9658	Parafuso Sextavado Latão Rosca Inteira Bsw - 1/2-12 X 1.1/2
+82	Materiais Elétricos	18	Outros Elétricos	96	QUADRO DE DISTRIBUICAO METALICO EMBUTIR 34/24 DISJUNTORES DIN/UL S/BARRAMENTO 100A C/GERAL
+82	Materiais Elétricos	18	Outros Elétricos	97	QUADRO DE DISTRIBUICAO METALICO EMBUTIR 44/32 DISJUNTORES DIN/UL S/BARRAMENTO 150A C/GERAL
+82	Materiais Elétricos	18	Outros Elétricos	19757	sensor Fotocélula azul
+82	Materiais Elétricos	18	Outros Elétricos	8612	Tubo de Injeção 11mm Jetplast em rolo de 200,0m
+82	Materiais Elétricos	18	Outros Elétricos	21581	UNIDADE SELADORA
+82	Materiais Elétricos	18	Outros Elétricos	3652	MISTURADOR DUPLO HORIZONTAL DE ALTA TURBULENCIA, CAPACIDADE / VOLUME 2 X 500 LITROS, MOTORES ELETRICOS MINIMO 5 CV CADA, PARA NATA CIMENTO, ARGAMASSA E OUTROS
+82	Materiais Elétricos	18	Outros Elétricos	16744	Relé fotoelétrico magnético, 220V, 50/60Hz; falha mantém carga ligada; compatível com tomadas de outros fabricantes; uso externo entre -20°C e +50°C; umidade até 100%; resistente a sol, chuva e poeira; conforme NBR 5123; contatos de latão estanhado; 5.000
 77	Iluminação	142	Postes de Jardim	14584	Poste Balizador para Jardim aluminio e vidro
 77	Iluminação	142	Postes de Jardim	6876	POSTE COM: 2 OU 3 REFLETORES DI 200 - REPUME, LÂMPADA VAPOR METÁLICO - 400 W-FIXADOS EM POSTE METÁLICO TELECÔNICO 7 METROS.
 77	Iluminação	142	Postes de Jardim	6875	POSTE DE ILUMINAÇÃO H= 2,80
 77	Iluminação	142	Postes de Jardim	7111	POSTE ORNAMENTAL DE AÇO SAE 1010/1020 - COMP. LIVRE 4,70M
+77	Iluminação	142	Postes de Jardim	4192	POSTE DECORATIVO PARA JARDIM EM ACO TUBULAR, SEM LUMINARIA, H = *2,5* M
+77	Iluminação	142	Postes de Jardim	36941	POSTE RETO DE JARDIM NA COR PRETA, COM DOIS GLOBOS DE ILUMINAÇÃO PARA LÂMPADAS DE LED BULBO DE ATÉ 150W, FABRICADO COM ESTRUTURA EM AÇO REFORÇADO, MEDINDO PELO MENOS 2,40 METROS DE ALTURA, COM BASE EM AÇO REFORÇADO PARA FIXAÇÃO AO SOLO.
+77	Iluminação	142	Postes de Jardim	15327	POSTE BALIZADOR DE JARDIM CORPO EM AÇO INOXIDÁVEL E DIFUSOR EM ACRÍLICO - VIA LUZ SOLAR - 4,5V - IP65
+77	Iluminação	142	Postes de Jardim	37019	CONE BALIZADOR (PIRULITO) OU BALIZADOR TIPO T, PRODUZIDO EM POLIETILENO
+77	Iluminação	142	Postes de Jardim	36141	CONE BALIZADOR (PIRULITO) OU BALIZADOR TIPO T, PRODUZIDO EM POLIETILENO
+77	Iluminação	142	Postes de Jardim	9145	Luminária com corpo em tubo de alumínio tipo balizador para uso externo
 77	Iluminação	143	Refletores	23136	LED REFLETOR 30W 6500K BIV OUROLUX
 77	Iluminação	143	Refletores	14829	LUMINARIA LED REFLETOR RETANGULAR BIVOLT, LUZ AMARELA, 30 W
 77	Iluminação	143	Refletores	15714	Reatores para luminárias a vapor metálico de 1000W
@@ -2472,6 +2504,11 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 82	Materiais Elétricos	192	Estabilizadores	2516	ESTABILIZADOR BIVOLT AUTOMATICO, 2000 VA
 82	Materiais Elétricos	192	Estabilizadores	2517	ESTABILIZADOR BIVOLT AUTOMATICO, 300 VA
 82	Materiais Elétricos	192	Estabilizadores	2518	ESTABILIZADOR BIVOLT AUTOMATICO, 500 VA
+82	Materiais Elétricos	192	Estabilizadores	13205	FUSÍVEL, VIDRO, TENSÃO MÁXIMA: 250V, CORRENTE: 15 AMPERES, DIMENSÕES:  ALTURA 20MM, LARGURA 5MM (PEQUENO), CAPACIDADE DE INTERRUPÇÃO:  BAIXA, FILAMENTO DE CHUMBO EM SEU INTERIOR, ENCAPSULAMENTO  DE VIDRO, LAMINA DE METAL,  UTILIZADOS PARA PROTEÇÃO DE CIRCUITOS ELE TROELETRÔNICOS, FILTROS DE LINHA, ESTABILIZADORES  DE TENSÃO,  NO-BREAK, PORTA FUSÍVEIS VEICULARES MODELOS  ANTIGOS, ENTRE OUTROS
+82	Materiais Elétricos	192	Estabilizadores	34142	ESTABILIZADOR - 10 KVA 220V
+82	Materiais Elétricos	192	Estabilizadores	35053	ESTABILIZADOR BIVOLT AUTOMATICO, 500 VA
+82	Materiais Elétricos	192	Estabilizadores	28501	ESTABILIZADOR TENSÃO, 2000VA, PROTEÇÃO CONTRA SURTOS
+82	Materiais Elétricos	192	Estabilizadores	34634	SVC-10000VA 127 e 220V 10KVA ESTABILIZADOR DE ENERGIA (182P50,P55,P51)
 82	Materiais Elétricos	194	Fontes de Energia	6683	Fonte 12V 2A bivolt
 82	Materiais Elétricos	194	Fontes de Energia	10466	Gerador 120 KVA
 82	Materiais Elétricos	194	Fontes de Energia	15293	Gerador 220kVA 220/127V
@@ -2647,8 +2684,46 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 82	Materiais Elétricos	197	Quadros e Caixas Elétricas	10938	QUADRO METALICO 2 TRAVESSAS - 400X900
 82	Materiais Elétricos	197	Quadros e Caixas Elétricas	211	Tampa caixa inspeção Ø300mm ferro fundido
 82	Materiais Elétricos	197	Quadros e Caixas Elétricas	21870	Tampão de PVC para Condulete tipo “X” de alumínio 3/4’’
-28	Arquitetura	2	Pisos	6850	Piso cimentado
+28	Arquitetura	2	Pisos	33351	Piso Drenante
+28	Arquitetura	2	Pisos	6857	Proteção para pisos em reformas construção salva piso 1,2m largura
+28	Arquitetura	2	Pisos	6881	PISO INTERTRAVADO DE CONCRETO - COR NATURAL MODELO PAVER PLATO 20x10x6cm (CxLxH)
+28	Arquitetura	2	Pisos	31835	Piso de borracha esportivo, espessura 50mm
+28	Arquitetura	2	Pisos	7552	ARGAMASSA PISO SOBRE PISO EXTERNO BRANCO 20KG
+28	Arquitetura	2	Pisos	6882	PISO INTERTRAVADO DE CONCRETO - COR MARROM MODELO PAVER PLATO 20x10x6cm (CxLxH)
 28	Arquitetura	2	Pisos	2843	Piso Emborrachado 50 x 50
+28	Arquitetura	2	Pisos	24438	PISO CERÂMICO, CLASSE A, ANTIDERRAPANTE, 40 X 40CM
+28	Arquitetura	2	Pisos	36400	Revestimento cerâmico piso 60x60 (cx 2,52m2)
+28	Arquitetura	2	Pisos	28788	PISO MODULAR OUTDOOR – PISO MODULAR EM POLIPROPILENO, COM MÓDULOS DE 300MMX300MM, COM ESPESSURA DE 15MM, PESO SUPORTADO MÍNIMO DE 4.088G/M², COM SISTEMA DE ENCAIXE COMPOSTO POR 20 ENCAIXES LATERAIS (10 MACHOS E 10 FÊMEAS), COM SISTEMA DE AMORTECIMENTO COM
+28	Arquitetura	2	Pisos	27732	PISO TATIL 25 x 25 x 2,50cm, alerta, natural, na cor cinza.
+28	Arquitetura	2	Pisos	24437	PISO CERÂMICO, BRANCO, PEI 4, CLASSE A
+28	Arquitetura	2	Pisos	16725	PISO cinza ( 10 X 20X 06CM )
+28	Arquitetura	2	Pisos	16724	PISO MARROM ( 10 X 20X 06CM )
+28	Arquitetura	2	Pisos	11473	Piso emborrachado pastilhado argamassado 10mm, cor preta.
+28	Arquitetura	2	Pisos	10764	Piso Cerâmico
+28	Arquitetura	2	Pisos	10584	Piso de borracha para isolamento de tensão até um kv, classe 0, certificada NR 10
+28	Arquitetura	2	Pisos	9919	Piso Elevado Com Placa De Aço 60x60cm, Com A=30cm
+28	Arquitetura	2	Pisos	9845	piso elevado com placa de aço 60x60cm, com A=10cm
+28	Arquitetura	2	Pisos	8519	PLACA/PISO DE CONCRETO POROSO/ PAVIMENTO PERMEAVEL/BLOCO DRENANTE DE CONCRETO, 40 CM X 40 CM, E = 6 CM, COR NATURAL
+28	Arquitetura	2	Pisos	7087	Revestimento Marmorizado (piso e parede) Para Banho Hóspedes
+28	Arquitetura	2	Pisos	6506	BLOQUETE/PISO DE CONCRETO - MODELO PISOGRAMA/CONCREGRAMA/PAVI-GRADE/GRAMEIRO, *60 CM X 45* CM, E = *9* CM, COR NATURAL
+28	Arquitetura	2	Pisos	6505	BLOQUETE/PISO DE CONCRETO - MODELO BLOCO PISOGRAMA/CONCREGRAMA 2 FUROS, *35 CM X 15* CM, E = *8* CM, COR NATURAL
+28	Arquitetura	2	Pisos	6111	PISO/ REVESTIMENTO EM GRANITO, POLIDO, TIPO ANDORINHA/ QUARTZ/ CASTELO/ CORUMBA OU OUTROS EQUIVALENTES DA REGIAO, FORMATO MAIOR OU IGUAL A 3025 CM2, E = *2*CM
+28	Arquitetura	2	Pisos	6110	PISO EM GRANITO, POLIDO, TIPO MARFIM, DALLAS, CARAVELAS OU OUTROS EQUIVALENTES DA REGIAO, FORMATO MENOR OU IGUAL A 3025 CM2, E= *2*CM
+28	Arquitetura	2	Pisos	4548	TACO DE MADEIRA PARA PISO, IPE (CERNE) OU EQUIVALENTE DA REGIAO, 7 X 42 CM, E = 2 CM
+28	Arquitetura	2	Pisos	4545	TABUA DE MADEIRA PARA PISO, IPE (CERNE) OU EQUIVALENTE DA REGIAO, ENCAIXE MACHO/FEMEA, *20 X 2* CM
+28	Arquitetura	2	Pisos	4544	TABUA DE MADEIRA PARA PISO, CUMARU/IPE CHAMPANHE OU EQUIVALENTE DA REGIAO, ENCAIXE MACHO/FEMEA, *15 X 2* CM
+28	Arquitetura	2	Pisos	4069	PLACA/PISO DE CONCRETO POROSO/ PAVIMENTO PERMEAVEL/BLOCO DRENANTE DE CONCRETO, 40 CM X 40 CM, E = 6 CM, COR NATURAL
+28	Arquitetura	2	Pisos	4068	PLACA VINILICA SEMIFLEXIVEL PARA REVESTIMENTO DE PISOS E PAREDES, E = 2 MM (SEM COLOCACAO)
+28	Arquitetura	2	Pisos	4067	PLACA VINILICA SEMIFLEXIVEL PARA PISOS, E = 3,2 MM, 30 X 30 CM (SEM COLOCACAO)
+28	Arquitetura	2	Pisos	4035	PISO/ REVESTIMENTO EM MARMORE, POLIDO, BRANCO COMUM, FORMATO MENOR OU IGUAL A 3025 CM2, E = *2* CM
+28	Arquitetura	2	Pisos	4032	PISO URETANO, VERSAO REVESTIMENTO AUTONIVELANTE, ESPESSURA VARIÁVEL DE 3 A 4 MM (INCLUSO EXECUCAO)
+28	Arquitetura	2	Pisos	4031	PISO TATIL DE ALERTA OU DIRECIONAL, DE BORRACHA, PRETO, 25 X 25 CM, E = 12 MM, PARA ARGAMASSA
+28	Arquitetura	2	Pisos	4027	PISO PORCELANATO, BORDA RETA, EXTRA, FORMATO MAIOR QUE 2025 CM2
+28	Arquitetura	2	Pisos	4026	PISO PODOTATIL DE CONCRETO - DIRECIONAL E ALERTA, *40 X 40 X 2,5* CM
+28	Arquitetura	2	Pisos	4025	PISO KORODUR (INCLUSO EXECUCAO)
+28	Arquitetura	2	Pisos	4024	PISO INDUSTRIAL EM CONCRETO ARMADO DE ACABAMENTO POLIDO, ESPESSURA 12 CM (CIMENTO QUEIMADO) (INCLUSO EXECUCAO)
+28	Arquitetura	2	Pisos	4023	PISO FULGET (GRANITO LAVADO) MOLDADO IN LOCO (INCLUSO EXECUCAO)
+28	Arquitetura	2	Pisos	4022	PISO FULGET (GRANITO LAVADO) EM PLACAS DE *75 X 75* CM, E = 2,0 CM (SEM COLOCACAO)
 83	Materiais Hidráulicos	20	Água Fria	7571	Adaptador Caixa d'Água com Registro, DN25mm, PVC Marrom Soldável, conforme NBR 5648
 83	Materiais Hidráulicos	20	Água Fria	7572	Adaptador Caixa d'Água com Registro, DN32mm, PVC Marrom Soldável, conforme NBR 5648
 83	Materiais Hidráulicos	20	Água Fria	5880	Adaptador Soldável Anel Caixa Água Registro 25mm PVC Branco Água Fria
@@ -3119,6 +3194,21 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 83	Materiais Hidráulicos	205	Aquecedores de Água	712	AQUECEDOR DE AGUA ELETRICO  RESERVATORIO DE 100 L CILINDRICO EM COBRE, REFORCADO COM ACO CARBONO, MONOFASICO, TENSAO NOMINAL 220 V
 83	Materiais Hidráulicos	205	Aquecedores de Água	713	AQUECEDOR DE AGUA ELETRICO  RESERVATORIO DE 500 L CILINDRICO EM COBRE, REFORCADO COM ACO CARBONO, MONOFASICO, TENSAO NOMINAL 220 V
 83	Materiais Hidráulicos	205	Aquecedores de Água	715	AQUECEDOR DE AGUA ELETRICO  RESERVATORIO DE 700 L CILINDRICO EM COBRE, REFORCADO COM ACO CARBONO, MONOFASICO, TENSAO NOMINAL 220 V
+83	Materiais Hidráulicos	205	Aquecedores de Água	6659	Aquecedor a gás GLP digital 15 a 17L
+83	Materiais Hidráulicos	205	Aquecedores de Água	5934	kit aquecedor solar 400l
+83	Materiais Hidráulicos	205	Aquecedores de Água	6672	Aquecedor a gás GLP digital 18 a 21L
+83	Materiais Hidráulicos	205	Aquecedores de Água	6660	Aquecedor a gás GLP manual 15 a 17L
+83	Materiais Hidráulicos	205	Aquecedores de Água	5976	Placa Coletora Aquecedor Solar para Piscina
+83	Materiais Hidráulicos	205	Aquecedores de Água	722	AQUECEDOR SOLAR CAPACIDADE DO RESERVATORIO 600 L, INCLUI 6 PLACAS COLETORAS DE 1,42 M2
+83	Materiais Hidráulicos	205	Aquecedores de Água	721	AQUECEDOR SOLAR CAPACIDADE DO RESERVATORIO 400L, INCLUI 4 PLACAS COLETORAS DE 1,42 M2
+83	Materiais Hidráulicos	205	Aquecedores de Água	716	AQUECEDOR DE AGUA ELETRICO HORIZONTAL, RESERVATORIO DE 200 L CILINDRICO EM COBRE, REFORCADO COM ACO CARBONO, MONOFASICO, TENSAO NOMINAL 220 V
+83	Materiais Hidráulicos	205	Aquecedores de Água	34761	AQUECEDOR DE AGUA ELETRICO RESERVATORIO DE 500 L CILINDRICO EM COBRE, REFORCADO COM ACO CARBONO, MONOFASICO, TENSAO NOMINAL 220 V
+83	Materiais Hidráulicos	205	Aquecedores de Água	34759	AQUECEDOR DE AGUA ELETRICO HORIZONTAL, RESERVATORIO DE 200 L CILINDRICO EM COBRE, REFORCADO COM ACO CARBONO, MONOFASICO, TENSAO NOMINAL 220 V
+83	Materiais Hidráulicos	205	Aquecedores de Água	34758	AQUECEDOR DE AGUA A GAS GLP/GN COM CAPACIDADE DE ARMAZENAMENTO DE 50 A 80 L
+83	Materiais Hidráulicos	205	Aquecedores de Água	27446	Aquecedor elétrico de passagem com ducha Higiênica,
+83	Materiais Hidráulicos	205	Aquecedores de Água	23221	Aquecedor de água 20KW 440V
+83	Materiais Hidráulicos	205	Aquecedores de Água	19653	Aquecedor de água individual
+83	Materiais Hidráulicos	205	Aquecedores de Água	11139	AQUECEDOR DE PASSAGEM DE 37 L/MIN LORENZETTI LZ3700
 83	Materiais Hidráulicos	206	Caixas de Esgoto	10846	fossa de concreto 1200 a 1500 L
 83	Materiais Hidráulicos	206	Caixas de Esgoto	10328	CAIXA CLORADORA 400L FIBRA
 83	Materiais Hidráulicos	206	Caixas de Esgoto	11297	CAIXA DE GORDURA 0,4X0,4 - COZINHA
@@ -4214,6 +4304,42 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	12080	LONGARINA EM ACO 18x30x1180MM ESP1,2MM PISO ELEVADO
 87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	10816	Material Impermeabilização Denvertec 100 e tela
 87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	12545	Perfil Alusupra Redutor
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	6856	Kit 600 Nivelador de Piso e Porcelanato + 100 Cunhas
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	6464	FUNDO SINTETICO NIVELADOR BRANCO FOSCO PARA MADEIRA
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	37726	SISTEMA NIVELADOR DE REVESTIMENTO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	22924	Espaçador 1,5 – (nivelador-espaçador), pacote com 100 unidades.
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	7925	ESPACADOR NIVELADOR PARA PISO 1MM C/ 50PC ECO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	7907	ESPACADOR NIVELADOR PARA PISO 1.5MM C/ 50PC ECO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	36392	Espaçador Nivelapiso estreito 3mm (100 peças)
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	36739	Espaçador Nivelapiso estreito 1mm (100 peças)
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	32057	32694 - ESPAÇADOR DE PISO DE 3MM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	7907	32694 - ESPAÇADOR DE PISO DE 3MM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4403	RODAPE PRE-MOLDADO DE GRANILITE, MARMORITE OU GRANITINA L = 10 CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4402	RODAPE PLANO PARA PISO VINILICO, H = 5 CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4401	RODAPE OU RODABANCADA EM GRANITO, POLIDO, TIPO ANDORINHA/ QUARTZ/ CASTELO/ CORUMBA OU OUTROS EQUIVALENTES DA REGIAO, H= 10 CM, E= *2,0* CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4400	RODAPE EM POLIESTIRENO, BRANCO, H = *5* CM, E = *1,5* CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4399	RODAPE EM MARMORE, POLIDO, BRANCO COMUM, L= *7* CM, E= *2* CM, CORTE RETO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4398	RODAPE DE MADEIRA MACICA CUMARU/IPE CHAMPANHE OU EQUIVALENTE DA REGIAO, *1,5 X 7 CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4397	RODAPE DE BORRACHA LISO, H = 70 MM, E = *2* MM, PARA ARGAMASSA, PRETO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4396	RODAPE ARDOSIA, CINZA, 10 CM, E= *1CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	3963	PERFIL RODAPE DE IMPERMEABILIZACAO, FORMATO L, EM ACO ZINCADO, PARA ESTRUTURA DRYWALL, E = 0,5 MM, 220 X 3000 MM (H X C)
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	35485	RODAPE PRE-MOLDADO DE GRANILITE, MARMORITE OU GRANITINA L = 10 CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	33256	RODAPÉ CERÂMICO DE 7CM DE ALTURA COM PLACAS TIPO ESMALTADA DE DIMENSÕES 60X60CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	30389	Rodapé Cedrinho 10cm – 2,30m
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	66	Rodapé de poliestireno 0,16 x 10 cm
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	10813	Rodapé Material
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4505	SOLEIRA/ TABEIRA EM MARMORE, POLIDO, BRANCO COMUM, L= 5 CM, E= *2,0* CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4504	SOLEIRA/ PEITORIL EM MARMORE, POLIDO, BRANCO COMUM, L= *15* CM, E= *2* CM, CORTE RETO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4503	SOLEIRA PRE-MOLDADA EM GRANILITE, MARMORITE OU GRANITINA, L = *15 CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	4502	SOLEIRA EM GRANITO, POLIDO, TIPO ANDORINHA/ QUARTZ/ CASTELO/ CORUMBA OU OUTROS EQUIVALENTES DA REGIAO, L= *15* CM, E= *2,0* CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	3931	PEITORIL/ SOLEIRA EM MARMORE, POLIDO, BRANCO COMUM, L= *25* CM, E= *3* CM, CORTE RETO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	35529	SOLEIRA/ TABEIRA EM MARMORE, POLIDO, BRANCO COMUM, L= 5 CM, E= *2,0* CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	35528	SOLEIRA/ PEITORIL EM MARMORE, POLIDO, BRANCO COMUM, L= *15* CM, E= *2* CM, CORTE RETO
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	35527	SOLEIRA PRE-MOLDADA EM GRANILITE, MARMORITE OU GRANITINA, L = *15 CM
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	9861	SOLEIRA EM GRANITO CINZA ANDORINHA 20X2cm. (L X A), COM POLIMENTO NA FACE SUPERIOR. PEÇAS CORTADAS DE ACORDO COM OS COMPRIMENTOS DESCRITOS NO ITEM 8 DA ESPECIFICAÇÃO TÉCNICA DO ANEXO 2.
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	6555	FAIXA / FILETE / LISTELO EM CERAMICA, LISO OU CORDAO, BRANCO, *2 X 30* CM (L X C)
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	6554	FAIXA / FILETE / LISTELO EM CERAMICA, DECORADA, *8 X 30* CM (L X C)
+87	Pisos e Revestimentos	222	Acessórios para Pisos e Revestimentos	10330	Piso Rampa Filete Cinza 30,7x30,7cm
 87	Pisos e Revestimentos	226	Pisos Cerâmicos	3131	LADRILHO HIDRAULICO, *20 X 20* CM, E= 2 CM, DADOS, COR NATURAL
 87	Pisos e Revestimentos	226	Pisos Cerâmicos	3133	LADRILHO HIDRAULICO, *20 X 20* CM, E= 2 CM, TATIL ALERTA OU DIRECIONAL, AMARELO
 87	Pisos e Revestimentos	226	Pisos Cerâmicos	3134	LADRILHO HIDRAULICO, *30 X 30* CM, E= 2 CM, MILANO, NATURAL
@@ -4240,11 +4366,7 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 87	Pisos e Revestimentos	227	Pisos Laminados	16454	LAMINADO FREIJO CATEDRAL BA (280X65CM)
 87	Pisos e Revestimentos	227	Pisos Laminados	10000	PISO DE TÁBUA CORRIDA ENCAIXES DO TIPO MACHO E FÊMEA
 87	Pisos e Revestimentos	227	Pisos Laminados	6851	PISO LAMINADO COM RODAPÉ EM MADEIRA
-87	Pisos e Revestimentos	228	Pisos Vinílicos	17377	Adesivo de contato para piso vinílico Cascola Extra Forte
-87	Pisos e Revestimentos	228	Pisos Vinílicos	8071	FORRO MODULAR EM PLACAS DE GESSO (9,5MM) ACARTONADO COM REVESTIMENTO VINILICO BRANCO E PERFIS TIPO T INVERTIDO EM ALUMINIO PINTADOS NA COR BRANCA, MODULAÇÃO 625MMX1250MM
-87	Pisos e Revestimentos	228	Pisos Vinílicos	12544	LVT Belgotex Jazz 001 - Soul
 87	Pisos e Revestimentos	228	Pisos Vinílicos	7081	Revestimento vinílico
-87	Pisos e Revestimentos	228	Pisos Vinílicos	4963	TESTEIRA ANTIDERRAPANTE PARA PISO VINILICO *5 X 2,5* CM, E = 2 MM
 87	Pisos e Revestimentos	229	Porcelanatos	10817	Cerâmica paredes material
 87	Pisos e Revestimentos	229	Porcelanatos	7084	Detalhe Revestimento Marmorizado Para banheiro suíte
 87	Pisos e Revestimentos	229	Porcelanatos	4017	PISO EM PORCELANATO RETIFICADO EXTRA, FORMATO MENOR OU IGUAL A 2025 CM2
@@ -4359,6 +4481,31 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 88	Portas, Janelas e Portões	236	Acessórios de Portas e Janelas	11732	TRILHO PANTOGRAFICO RETO, TIPO U, EM ALUMINIO, 35 X 35 MM, PARA ROLDANA DE PORTA DE CORRER
 88	Portas, Janelas e Portões	236	Acessórios de Portas e Janelas	5526	VARA FINA PARA CREMONA, EM FERRO ZINCADO BRANCO, COM DIAMETRO DE APROX 10 MM E COMPRIMENTO DE 1,20 M
 88	Portas, Janelas e Portões	236	Acessórios de Portas e Janelas	5527	VARA FINA PARA CREMONA, EM FERRO ZINCADO BRANCO, COM DIAMETRO DE APROX 10 MM E COMPRIMENTO DE 1,50 M
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	103	Janela Alumínio de correr 1,00x1,50m
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	9780	JANELA COM 2 FOLHAS DE CORRER EM PVC BRANCA E TELA MILIMÉTRICA RETRÁTIL (RECOLHÍVEL). MÓDULO SUPERIOR COM 2 FOLHAS MAXIM-AR COM HASTE LIMITADORA DE ABERTURA. VIDROS COMUNS, TRANSLÚCIDOS, INCOLOR, 4mm. DIMENSÕES (osso): 120x170/110cm
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	13071	JANELA DE ALUMÍNIO DE CORRER 4 FOLHAS, DUAS FIXAS E DUAS MÓVEIS, PINTURA ELETROSTÁTICA BRANCA, VIDRO LISO INCOLOR 4 MM a 6 MM, DIMENSÕES 220 CM X120 CM (LXA) LINHA 25 (SUPREMA).A ESQUADRIA DEVE ACOMPANHAR DE GRAPAS PARA CHUMBAMENTO, O MATERIAL SERÁ ENTREGUE EMBALADO EM HDF, MADEIRAS E FITAS DE AMARRAÇÃO, QUE GARANTE MAIS PROTEÇÃO E QUALIDADE DURANTE O TRANSPORTE, ARMAZENAMENTO E INSTALAÇÃO.
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	9779	JANELA EM VENEZIANA DE VENTILAÇÃO PERMANENTE EM ALUMÍNIO COM PINTURA ELETROSTÁTICA NA COR BRANCA. DIMENSÕES (osso): 140x120/100cm
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	10849	VENEZIANA 3 FOLHAS
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	39	Janela de Correr Alumínio 1,00x1,50m
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	37	Janela de alumínio 60x60cm
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	36729	Janela aluminio Vitralfer 100x100 s/ grade
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	7094	Janela com duas folhas de correr, vidro liso incolor e tela mosquito, medida: 2,20 x 1,20m
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	7092	Janela com duas folhas de correr, vidro liso incolor, persiana integrada e tela mosquito, medida: 1,50 x 1,20m
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	7090	Janela com duas folhas de correr, vidro liso incolor e grade integrada, medidas: 1,00 x 1,10m
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	7089	Janela maximar com grade integrada e tela mosquito: 0,80 x 0,80m
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	6574	JANELA DE CORRER EM ALUMINIO, VENEZIANA, 120 X 200 CM (A X L), 6 FLS (4 VENEZIANAS E 2 VIDROS), SEM BANDEIRA, ACABAMENTO ACET OU BRILHANTE, BATENTE/REQUADRO DE 6 A 14 CM, COM VIDRO, SEM GUARNICAO/ALIZAR
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	6466	JANELA DE CORRER, ACO, BATENTE/REQUADRO DE 6 A 14 CM, VENEZIANA, PINT ANTICORROSIVA, PINT ACABAMENTO, COM VIDRO, 6 FLS, 120 X 150 CM (A X L)
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	6070	JANELA VENEZIANA DE CORRER, EM ALUMINIO PERFIL 25, 100 X 150 CM (A X L), 6 FLS (4 VENEZIANAS E 2 VIDROS), SEM BANDEIRA, ACABAMENTO BRANCO OU BRILHANTE, BATENTE DE 8 A 9 CM, COM VIDRO, SEM GUARNICAO / ALIZAR
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	6069	JANELA VENEZIANA DE CORRER, EM ALUMINIO PERFIL 25, 100 X 120 CM (A X L), 3 FLS (2 VENEZIANAS E 1 VIDRO), SEM BANDEIRA, ACABAMENTO BRANCO OU BRILHANTE, BATENTE DE 8 A 9 CM, COM VIDRO, SEM GUARNICAO/ALIZAR
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	6068	JANELA INTEGRADA VENEZIANA EM ALUMINIO PERFIL 25, 120 X 120 CM (A X L), 2 FLS ( 2 VIDROS) E VENEZIANA COM ACIONAMENTO MANUAL, SEM BANDEIRA, ACABAMENTO BRILHANTE, BATENTE DE 11,50 A 12,50 CM, COM VIDRO, INCLUSO GUARNICAO
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	2897	JANELA EM MADEIRA CEDRINHO/ ANGELIM COMERCIAL/ CURUPIXA/ CUMARU OU EQUIVALENTE DA REGIAO, CAIXA DO BATENTE/MARCO *10* CM, 2 FOLHAS DE ABRIR TIPO VENEZIANA E 2 FOLHAS GUILHOTINA PARA VIDRO, COM GUARNICAO/ALIZAR, COM FERRAGENS (SEM VIDRO E SEM ACABAMENTO)
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	2896	JANELA DE 6 FOLHAS DE CORRER EM MADEIRA PINUS/ EUCALIPTO/ TAUARI/ VIROLA OU EQUIVALENTE DA REGIAO, CAIXA DO BATENTE/MARCO *10* CM, 2 FOLHAS DE CORRER VENEZIANA, 2 FOLHAS FIXAS VENEZIANA E 2 FOLHAS DE CORRER PARA VIDRO, COM FERRAGENS (SEM VIDRO, SEM ACABAMENTO E SEM GUARNICAO/ALIZAR)
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	2895	JANELA DE 6 FOLHAS DE CORRER EM MADEIRA IMBUIA/CEDRO ARANA/CEDRO ROSA OU EQUIVALENTE DA REGIAO, CAIXA DO BATENTE/MARCO *10* CM, 2 FOLHAS DE CORRER VENEZIANA, 2 FOLHAS FIXAS VENEZIANA E 2 FOLHAS DE CORRER PARA VIDRO, COM FERRAGENS (SEM VIDRO, SEM ACABAMENTO E SEM GUARNICAO/ALIZAR)
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	2886	JANELA DE ABRIR EM MADEIRA PINUS/EUCALIPTO/ TAUARI/ VIROLA OU EQUIVALENTE DA REGIAO, CAIXA DO BATENTE/MARCO *10* CM, 2 FOLHAS DE ABRIR TIPO VENEZIANA E 2 FOLHAS GUILHOTINA PARA VIDRO, COM FERRAGENS (SEM VIDRO,SEM GUARNICAO/ALIZAR E SEM ACABAMENTO)
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	2340	ELEMENTO VAZADO DE CONCRETO, VENEZIANA *40 X 10 X 10* CM
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	2339	ELEMENTO VAZADO DE CONCRETO, VENEZIANA *39 X 29 X 10* CM
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	1549	CARRANCA PARA JANELA VENEZIANA DE ABRIR, EM LATAO CROMADO, SIMPLES, PARA APARAFUSAR NA PAREDE
+88	Portas, Janelas e Portões	239	Janelas e Venezianas	978	BLOCO DE VIDRO/ELEMENTO VAZADO, INCOLOR, VENEZIANA, *20 X 10 X 8* CM
 42	Gases Medicinais	24	Equipamentos para Gases Medicinais	6709	CENTRAL DE AR COMPRIMIDO MEDICINAL 30 m³h vazão
 42	Gases Medicinais	24	Equipamentos para Gases Medicinais	5612	CENTRAL DE ÓXIDO NITROSO MEDICINAL tipo 1 + 1
 42	Gases Medicinais	24	Equipamentos para Gases Medicinais	6708	CENTRAL DE OXIGÊNIO MEDICINAL tipo 1 + 1
@@ -4439,6 +4586,37 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 88	Portas, Janelas e Portões	246	Vidros para Sacadas	9282	VIDRO COMUM LISO, INCOLOR – 2,20x1,60m/6mm
 88	Portas, Janelas e Portões	246	Vidros para Sacadas	9283	VIDRO FANTASIA TIPO CANELADO, INCOLOR – 2,20x1,70m/4mm
 88	Portas, Janelas e Portões	246	Vidros para Sacadas	9284	VIDRO FANTASIA, TIPO MARTELADO, INCOLOR – 2,20x1,70m/4mm
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	6538	DIVISORIA (N3) PAINEL/VIDRO/PAINEL VERMICULITA E=35MM - MONTANTE/RODAPE PERFIL DUPLO ACO GALV PINTADO - COLOCADA
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	6537	DIVISORIA (N3) PAINEL/VIDRO/PAINEL VERMICULITA E=35MM - MONTANTE/RODAPE DUPLO ALUMINIO ANOD NATURAL - COLOCADA
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	6536	DIVISORIA (N3) PAINEL/VIDRO/PAINEL MSO/COMEIA E=35MM - PERFIS SIMPLES ALUMINIO ANOD NAT - COLOCADA
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	6535	DIVISORIA (N3) PAINEL/VIDRO/PAINEL MSO/COMEIA E=35MM - PERFIS SIMPLES ACO GALV PINTADO - COLOCADA
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	6530	DIVISORIA (N2) PAINEL/VIDRO - PAINEL MSO/COMEIA E=35MM - MONTANTE/RODAPE DUPLO ALUMINIO ANOD NAT - COLOCADA
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5585	VIDRO TEMPERADO VERDE E = 8 MM, SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5584	VIDRO TEMPERADO VERDE E = 6 MM, SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5583	VIDRO TEMPERADO VERDE E = 10 MM, SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5582	VIDRO TEMPERADO INCOLOR PARA PORTA DE ABRIR, E = 10 MM (SEM FERRAGENS E SEM COLOCACAO)
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5581	VIDRO TEMPERADO INCOLOR E = 8 MM, SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5580	VIDRO TEMPERADO INCOLOR E = 6 MM, SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5579	VIDRO TEMPERADO INCOLOR E = 10 MM, SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5578	VIDRO PLANO ARMADO E = 7MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5577	VIDRO PLANO ARAMADO E = 6 MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5576	VIDRO MARTELADO OU CANELADO, 4 MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5575	VIDRO LISO INCOLOR 8MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5574	VIDRO LISO INCOLOR 6 MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5573	VIDRO LISO INCOLOR 5MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5572	VIDRO LISO INCOLOR 4MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5569	VIDRO LISO FUME, E = 5 MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5568	VIDRO LISO FUME E = 6MM - SEM COLOCACAO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5566	VIDRO CRISTAL COLORIDO, 8 MM, PINTADO NA COR BRANCA
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5562	VIDRO COMUM LAMINADO, LISO, INCOLOR, TRIPLO, ESPESSURA TOTAL 15 MM (CADA CAMADA E = 5 MM) - COLOCADO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5561	VIDRO COMUM LAMINADO, LISO, INCOLOR, TRIPLO, ESPESSURA TOTAL 12 MM (CADA CAMADA E= 4 MM) - COLOCADO
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	5544	VEU DE VIDRO/VEU DE SUPERFICIE 30 A 35 G/M2
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	4164	PORTA VIDRO TEMPERADO INCOLOR, 2 FOLHAS DE CORRER, E = 10 MM (SEM FERRAGENS E SEM COLOCACAO)
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	37967	Placa de vidro laminado transparente/Incolor
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	37456	VIDRO INCOLOR LAMINADO 3+3 (6MM) MEDINDO 2290 X 1025 MM
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	36069	Chapa de fibra de vidro com dimensões 40x6,3mm (espessura) com 4m comprimento
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	35947	Vidro temperado
+88	Portas, Janelas e Portões	246	Vidros para Sacadas	35705	VIDRO LISO INCOLOR 8MM - SEM COLOCACAO
 89	Segurança e Comunicação	247	Alarmes e Sensores de Presença	6682	Sensor de barreira infravermelho
 89	Segurança e Comunicação	247	Alarmes e Sensores de Presença	6685	Sirene (buzzer) 12V
 42	Gases Medicinais	25	Tubos e conexões para Gases Medicinais	5632	POSTO DE CONSUMO DE AR MEDICINAL  EMBUTIDO
@@ -4801,6 +4979,19 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 90	Tintas e Acessórios	270	Massa Acrílica	7496	MASSA ACRILICA BRANCO BALDE 25KG
 90	Tintas e Acessórios	270	Massa Acrílica	12852	Massa acrílica . Composição: Resina à base de dispersão aquosa de copolímero estireno acrílico, cargas minerais inertes, glicóis e tensoativos etoxilados. Cor : Branco. Indicação : Indicada para nivelar e corrigir imperfeições rasas em pintura e repintura de superfícies em ambientes internos e externos de reboco, gesso, fibrocimento, concreto aparente, blocos de concreto e paredes pintadas com  PVA ou Acrílico. Rendimento teórico mínimo 60 a 80 m2/ demão.Produto conforme normas NBR 11702:2021 e NBR 15348. Lata de 18 l. Ref. Suvinil Massa Acrílica ou produto de qualidade equivalente ou superior.
 90	Tintas e Acessórios	270	Massa Acrílica	6087	MASSA ACRILICA PARA SUPERFICIES INTERNAS E EXTERNAS
+90	Tintas e Acessórios	270	Massa Acrílica	23924	Massa acrilica 3,6l
+90	Tintas e Acessórios	270	Massa Acrílica	3586	MASSA PARA TEXTURA RUSTICA DE BASE ACRILICA, COR BRANCA, USO INTERNO E EXTERNO
+90	Tintas e Acessórios	270	Massa Acrílica	12846	Emulsão Acrílica elastomérica à base de resina acrílica (manta líquida), balde de 18kg. Produto conforme norma NBR 13321. Validade de 12 meses. Emulsão acrílica à base de resina acrílica, pigmentos, cargas inertes, aditivos. Cor branca. Densidade a 25°C 1,2 a 1,3; Ph 8,5 a 10; Massa especifica 1,10g/cm3; teor de sólidos 47%; aspecto branco; flexibilidade a 0°C sem trincas; envelhecimento acelerado sem alterações. Consumo de 2,50 a 3,00 kg/m2. Solúvel a água e a solventes orgânicos após a cura. Referências. Drycryl, Viaflex, Anchorflex ou equivalente ou tecnicamente superior.
+90	Tintas e Acessórios	270	Massa Acrílica	37609	Massa Acrílica - 3,6l
+90	Tintas e Acessórios	270	Massa Acrílica	6087	MASSA ACRILICA PARA SUPERFICIES INTERNAS E EXTERNAS
+90	Tintas e Acessórios	270	Massa Acrílica	3585	MASSA PARA TEXTURA LISA DE BASE ACRILICA, USO INTERNO E EXTERNO
+90	Tintas e Acessórios	270	Massa Acrílica	18388	Massa acrílica branca 25Kg
+90	Tintas e Acessórios	270	Massa Acrílica	16511	MASSA TAPA TUDO (EM RESINA ACRÍLICA), PARA PREENCHIMENTO E NIVELAMENTO DE IMPERFEIÇÕES, FISSURAS, ESPAÇOS DEIXADOS POR PREGOS E PARAFUSOS E FENDAS DE NÓ DE MADEIRA. EM POTE DE 90G.
+90	Tintas e Acessórios	270	Massa Acrílica	16510	MASSA NIVELADORA ACRÍLICA PREMIUM. TEXTURA LISA APÓS LIXADA E ACABAMENTO FOSCO. INDICADO PARA UNIFORMIZAR, CORRIGIR E NIVELAR IMPERFEIÇÕES EM SUPERFÍCIES DE REBOCO, CONCRETO E SUPERFÍCIES SEMELHANTES. SECAGEM RÁPIDA E FÁCIL DE LIXAR. USO EM INTERIORES QUANTO EM EXTERIORES. COR BRANCO. BALDE/LATA 1,5 KG. CONFORME NORMAS ABNT/NBR VIGENTES.
+90	Tintas e Acessórios	270	Massa Acrílica	16509	MASSA NIVELADORA ACRÍLICA PREMIUM. TEXTURA LISA APÓS LIXADA E ACABAMENTO FOSCO. INDICADO PARA UNIFORMIZAR, CORRIGIR E NIVELAR IMPERFEIÇÕES EM SUPERFÍCIES DE REBOCO, CONCRETO E SUPERFÍCIES SEMELHANTES. SECAGEM RÁPIDA E FÁCIL DE LIXAR. USO EM INTERIORES QUANTO EM EXTERIORES. COR BRANCO. BALDE/GALÃO 6 KG. CONFORME NORMAS ABNT/NBR VIGENTES.
+90	Tintas e Acessórios	270	Massa Acrílica	13624	MASSA ACRÍLICA, Á BASE DE ÁGUA, RENDIMENTO MÍNIMO de 50 M² POR DEMÃO. DEVE ATENDER AOS DE DESEMPENHO DA NBR 11702/2010. LATA DE 25KG. REF.: SUVINIL, CORAL, SHERWIN WILLIAMS OU EQUI- VALENTE TÉCNICO.
+90	Tintas e Acessórios	270	Massa Acrílica	12852	Massa acrílica . Composição: Resina à base de dispersão aquosa de copolímero estireno acrílico, cargas minerais inertes, glicóis e tensoativos etoxilados. Cor : Branco. Indicação : Indicada para nivelar e corrigir imperfeições rasas em pintura e repintura de superfícies em ambientes internos e externos de reboco, gesso, fibrocimento, concreto aparente, blocos de concreto e paredes pintadas com PVA ou Acrílico. Rendimento teórico mínimo 60 a 80 m2/ demão.Produto conforme normas NBR 11702:2021 e NBR 15348. Lata de 18 l. Ref. Suvinil Massa Acrílica ou produto de qualidade equivalente ou superior.
+90	Tintas e Acessórios	270	Massa Acrílica	7872	MASSA ACRILICA BRANCO BALDE 25KG
 90	Tintas e Acessórios	271	Massa Corrida e Niveladora	579	ADESIVO PARA TUBOS CPVC, *75* G
 90	Tintas e Acessórios	271	Massa Corrida e Niveladora	580	ADESIVO PLASTICO PARA PVC, BISNAGA COM 75 GR
 90	Tintas e Acessórios	271	Massa Corrida e Niveladora	581	ADESIVO PLASTICO PARA PVC, FRASCO COM 175 GR
@@ -4821,9 +5012,32 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 90	Tintas e Acessórios	277	Seladores e Fundos	11956	Preg Fácil Base D'água
 90	Tintas e Acessórios	277	Seladores e Fundos	11955	PU40 HT Profissional
 90	Tintas e Acessórios	277	Seladores e Fundos	16027	SELADOR
-90	Tintas e Acessórios	278	Solventes e Removedores	8129	Papelão Ondulado
-90	Tintas e Acessórios	278	Solventes e Removedores	7478	PAPELAO ONDULADO 1.20CM
-90	Tintas e Acessórios	278	Solventes e Removedores	7509	PLASTICO BOLHA (LARGURA - 1.20MT) O METRO
+90	Tintas e Acessórios	278	Solventes e Removedores	4508	SOLVENTE DILUENTE A BASE DE AGUARRAS
+90	Tintas e Acessórios	278	Solventes e Removedores	32066	Solvente aguarrás
+90	Tintas e Acessórios	278	Solventes e Removedores	32066	Solvente (aguarrás) 5L – Para diluição e limpeza de ferramentas.
+90	Tintas e Acessórios	278	Solventes e Removedores	13466	SOLUÇÃO, PREPARADORA, FLUÍDO A BASE DE MISTURA DE SOLVENTES CETONAS, TEOR DE VOLÁTEIS 1 00% - FRASCO 1 LITRO E PBPQ-H
+90	Tintas e Acessórios	278	Solventes e Removedores	4509	SOLVENTE PARA COLA (PARA LAMINADO MELAMINICO) A BASE DE RESINA SINTETICA
+90	Tintas e Acessórios	278	Solventes e Removedores	37789	DILUENTE / SOLVENTE PARA TINTA DE DEMARCAÇÃO E SINALIZAÇÃO VIÁRIA.
+90	Tintas e Acessórios	278	Solventes e Removedores	36861	SOLVENTE 900ML
+90	Tintas e Acessórios	278	Solventes e Removedores	35530	SOLVENTE PARA COLA A BASE DE RESINA SINTETICA (PARA COLA DE LAMINADO MELAMINICO E OUTRAS SUPERFICIES)
+90	Tintas e Acessórios	278	Solventes e Removedores	34447	Solvente Audi 12800 para limpeza. REF. AUDI ou similar
+90	Tintas e Acessórios	278	Solventes e Removedores	34446	Solvente Redutor 440.0000. REF. RENNER ou similar
+90	Tintas e Acessórios	278	Solventes e Removedores	32732	SOLVENTE TIPO PARA TINTA DEMARCATÓRIA, LATA 18 LITROS
+90	Tintas e Acessórios	278	Solventes e Removedores	33521	Solvente
+90	Tintas e Acessórios	278	Solventes e Removedores	32319	Solvente aguarrás para a diluição de esmaltes sintéticos
+90	Tintas e Acessórios	278	Solventes e Removedores	32235	SOLVENTE - LATA DE 900ML.
+90	Tintas e Acessórios	278	Solventes e Removedores	27213	SOLVENTE PARA LIMPEZA E DILUIÇÃO DE TINTA DE DEMARCAÇÃO VIÁRIA, EMBALAGEM DE 18 LITROS
+90	Tintas e Acessórios	278	Solventes e Removedores	15428	Solvente ;a b/hidrocarb. aromáti./álcool ;p/ tinta primer/óxido de ferro ;tambor com 200L ;
+90	Tintas e Acessórios	278	Solventes e Removedores	12860	Diluente aguarrás para esmalte e vernizes. Embalagem de 900 ml.Composição: À base de solventes alifáticos e aromáticos, querosene (petróleo) e destilados (petróleo) leves tratados com hidrogênio.
+90	Tintas e Acessórios	278	Solventes e Removedores	12435	Solvente ; a base de hidrocarbonetos alifáticos ; limpeza industrial ; balde com 25L ; com FDS conforme NBR 14725
+90	Tintas e Acessórios	278	Solventes e Removedores	11911	SOLVENTE A BASE DE HIDROCARBONETOS ALIFÁTICOS LIMPEZA INDUSTRIAL BALDE COM 25L COM FDS CONFORME NBR 14725 08
+90	Tintas e Acessórios	278	Solventes e Removedores	6623	REMOVEDOR DE TINTA OLEO/ESMALTE VERNIZ
+90	Tintas e Acessórios	278	Solventes e Removedores	37717	REMOVEDOR DE TINTA
+90	Tintas e Acessórios	278	Solventes e Removedores	30422	REMOVEDOR TINTA AUTOMOTIVO - PASTOSO LATA COM NO MINIMO 900ML
+90	Tintas e Acessórios	278	Solventes e Removedores	30213	REMOVEDOR FERRUGEM 500ML
+90	Tintas e Acessórios	278	Solventes e Removedores	29015	REMOVEDOR FERRUGEM 500ML
+90	Tintas e Acessórios	278	Solventes e Removedores	18426	Thinner 900Ml, Diluente, Removedor de Tinta
+90	Tintas e Acessórios	278	Solventes e Removedores	16083	Removedor líquido incolor a levemente amarelado; de odor cítrico; densidade a 25ºc (g/ml): 0,80 – 0,85; insolúvel em água; 240 ml; utilizado para remover gorduras pesadas, óleos, graxas, colas, chicletes, tintas, piche, asfalto, batom, maquiagem, ceras, sangue, entre outras sujeiras;
 90	Tintas e Acessórios	279	Textura de Parede	7559	TEXTURA RISCADA GROSSA DECORE INT/EXT BALDE 25KG
 90	Tintas e Acessórios	279	Textura de Parede	7521	TEXTURA RISCADA MEDIA DECORE INT/EXT BALDE 25KG
 90	Tintas e Acessórios	279	Textura de Parede	7558	TEXTURA ROLADA LISA DECORE INT/EXT BALDE 25KG
@@ -4972,7 +5186,10 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 90	Tintas e Acessórios	280	Verniz e Solvente	5541	VERNIZ POLIURETANO BRILHANTE PARA MADEIRA, COM FILTRO SOLAR, USO INTERNO E EXTERNO
 90	Tintas e Acessórios	280	Verniz e Solvente	6483	VERNIZ POLIURETANO BRILHANTE PARA MADEIRA, SEM FILTRO SOLAR, USO INTERNO E EXTERNO
 90	Tintas e Acessórios	280	Verniz e Solvente	5543	VERNIZ SINTETICO BRILHANTE PARA MADEIRA, COM FILTRO SOLAR, USO INTERNO E EXTERNO (BASE SOLVENTE)
-
+90	Tintas e Acessórios	268	Corantes	36550	Corante universal Colorsil
+90	Tintas e Acessórios	268	Corantes	36621	Corante universal Colorsil
+90	Tintas e Acessórios	268	Corantes	13554	CORANTE LÍQUIDO, PIGMENTO DE ALTO PODER DE TINGIMENTO E RESISTÊNCIA. BISNAGA 50 ML COR:VERMELHA
+90	Tintas e Acessórios	268	Corantes	6525	CORANTE LIQUIDO PARA TINTA PVA, BISNAGA 50 ML
 81	Construção Civil	169	Cimentos	4979	TINTA ASFALTICA IMPERMEABILIZANTE DILUIDA EM SOLVENTE, PARA MATERIAIS CIMENTICIOS, METAL E MADEIRA
 81	Construção Civil	169	Cimentos	4980	TINTA ASFALTICA IMPERMEABILIZANTE DISPERSA EM AGUA, PARA MATERIAIS CIMENTICIOS
 90	Tintas e Acessórios	297	Outros - Tintas e Acessórios	4997	TINTA MINERAL IMPERMEAVEL EM PO, BRANCA
@@ -5023,6 +5240,15 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 91	Automação	299	Automação Residencial	7793	Fire TV Stick 4K com Controle Remoto por Voz com Alexa (inclui comandos de TV) | Dolby Vision
 91	Automação	299	Automação Residencial	7794	intelbras Fechadura Smart Compativel com Alexa de Embutir com Maçaneta IFR 3000 Preto
 91	Automação	299	Automação Residencial	6716	Tomada inteligente 16A
+91	Automação	299	Automação Residencial	6280	Interruptor Inteligente
+91	Automação	299	Automação Residencial	6279	Câmera Residencial Inteligente
+91	Automação	299	Automação Residencial	5936	kit 2 lâmpadas inteligentes 2 tomadas inteligentes
+91	Automação	299	Automação Residencial	7792	Lâmpada Inteligente Smarteck 12W, Bivolt, compatível com Alexa
+91	Automação	299	Automação Residencial	34589	FECHADURA INTELIGENTE DE EMBUTIR COM MAÇANETA, COM BIOMETRIA. CADASTRO DE ATÉ 15 SENHAS CADASTRO DE ATÉ 100 BIOMETRIAS CADASTRO DE ATÉ 100 TAGS ACOMPANHA 2 CHAVES FÍSICAS FECHADURA DE EMBUTIR PARA PORTAS DE 30MM A 60MM MORTISE DE FÁCIL TROCA: PADRÃO ABNT
+91	Automação	299	Automação Residencial	26825	CARREGADOR INTELIGENTE DE PILHAS NI-MH / NI-CD
+91	Automação	299	Automação Residencial	6743	TV smart 50"
+91	Automação	299	Automação Residencial	6741	Lâmpada Smart compatível com Alexa
+91	Automação	299	Automação Residencial	11000	Geladeira Smart Samsung Frost Free Duplex RT53 com SpaceMax e All Around Cooling 518L Bivolt – Inox
 91	Automação	300	Automação Industrial	16597	BLOCO ADITIVO FRONTAL COM 2 CONTATOS NA E COM 2 CONTATOS NF CONTADOR TRIPOLAR LC1-D09 DA TELEMECANIQUE (MODELO NOVO
 91	Automação	300	Automação Industrial	21595	CABO INDUSTRIAL PROFIBUS
 91	Automação	300	Automação Industrial	21649	CABO PARA REDE INDUSTRIAL PAKSCAN
@@ -5107,6 +5333,12 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 36	Equipamentos	301	Equipamentos para Piscina	5963	Ionizador solar para piscina para 100.000 litros
 36	Equipamentos	301	Equipamentos para Piscina	5968	Manta Térmica Para Piscina 6X3,5 300 Micras
 36	Equipamentos	301	Equipamentos para Piscina	5976	Placa Coletora Aquecedor Solar para Piscina
+36	Equipamentos	301	Equipamentos para Piscina	5977	Controlador De Temperatura Para Piscina com 2 Sensores
+36	Equipamentos	301	Equipamentos para Piscina	6607	PASTILHA DE VIDRO PIGMENTADA, NACIONAL, REVEST INT/EXT E PISCINA, CORES QUENTES, ESPESSURA MAIOR OU IGUAL A 5 MM *2,0 X 2,0* CM
+36	Equipamentos	301	Equipamentos para Piscina	6606	PASTILHA DE VIDRO PIGMENTADA *2,0 X 2,0* CM, NACIONAL, PARA REVESTIMENTO INTERNO/EXTERNO E PISCINA, BRANCA OU CORES FRIAS, ESPESSURA MAIOR OU IGUAL A 5 MM
+36	Equipamentos	301	Equipamentos para Piscina	6605	PASTILHA DE VIDRO CRISTAL, NACIONAL, REVEST INT/EXT E PISCINA, TODAS AS CORES, E MAIOR OU IGUAL A 5 MM *2,0 X 2,0* CM
+36	Equipamentos	301	Equipamentos para Piscina	3896	PASTILHA CERAMICA/PORCELANA, REVEST INT/EXT E PISCINA, CORES LISAS/SOLIDAS, QUENTES, SEM MESCLAGEM/MISTURA, *5 X 5* CM
+36	Equipamentos	301	Equipamentos para Piscina	3895	PASTILHA CERAMICA/PORCELANA, REVEST INT/EXT E PISCINA, CORES LISAS/SOLIDAS, QUENTES, SEM MESCLAGEM/MISTURA, *2,5 X 2,5* CM
 82	Materiais Elétricos	302	Baterias	21892	Bateria 12V, a partir de 18ah, com dimensões máximas de 181mmx76mmx166m (c)x (l) x (h).
 82	Materiais Elétricos	302	Baterias	15638	Bateria alcalina 9 volts
 82	Materiais Elétricos	302	Baterias	6833	Bateria estacionária 12V 150AH
@@ -5225,11 +5457,24 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 94	Fotovoltaico	311	String Box	6796	STRING BOX PARA INVERSOR SOLIS 8KW(4G)
 94	Fotovoltaico	311	String Box	6799	STRING BOX PARA INVERSORES SOLIS 12(4G),15(4G) E 110(5G)
 94	Fotovoltaico	311	String Box	6798	STRING BOX PARA INVERSORES SOLIS 25(S5), 30(5G), 30(S5), 75(5G), 15(LV), 20(LV) E 50(LV)
+94	Fotovoltaico	311	String Box	10895	INVERSOR TENSAO STRING TRIFASICO 250-1000V 380V 50/60HZ 79.7
 94	Fotovoltaico	312	Inversores	11203	Inversor solar HUAWEI 200KW H3 TRIFÁSICO 800V 3MPPT com 14 entradas no total Potência ativa nominal de 185 kW
 94	Fotovoltaico	312	Inversores	11202	Inversor solar PVS-175-TL-SX2-FULL 185000W 12 MPPT Faixa MPPT (VCC) 750 a 1110 Tensão 800VAC 60Hz
 94	Fotovoltaico	312	Inversores	6778	INVERSOR SOLIS TRIFASICO 12KW 380V WIFI 2/4MPPT - S5
 94	Fotovoltaico	312	Inversores	6774	INVERSOR TRIFASICO 75W 380V 9MPPT WIFI
 94	Fotovoltaico	312	Inversores	10042	SOLIS INVERSOR 7700W 220V 2MPP6E 1P7.7K
+94	Fotovoltaico	312	Inversores	5986	Inversor Solar Fotovoltaico Off Grid 12V/220V (1200 - 1500W)
+94	Fotovoltaico	312	Inversores	5987	Inversor Solar 24V 220V 1500W
+94	Fotovoltaico	312	Inversores	5988	Inversor de tensão 24V-220V, pico 1200W
+94	Fotovoltaico	312	Inversores	5989	Inversor Solar 24V 220V 1200W a 1400W
+94	Fotovoltaico	312	Inversores	5691	INVERSOR SOLAR ON GRID MONOFASICO 220V 2MPPT MONITORAMENTO
+94	Fotovoltaico	312	Inversores	407	Inversor Solar Fotovoltaico On Grid Inversor 1,5kw Monofasico 220v mppt
+94	Fotovoltaico	312	Inversores	403	Inversor 1500W 24/110V senoidal Epsolar - IP - 1500-21(MUC)
+94	Fotovoltaico	312	Inversores	10640	PAINEL CCM INVERSOR 500CV - 720A - 380V
+94	Fotovoltaico	312	Inversores	24834	Inversor de Frequência Entrada 220V – Saída Trifásica Potência 0,5 CV ~ 2,6 A
+94	Fotovoltaico	312	Inversores	24833	Inversor de Frequência Trifásico (380 V) Potência instalada - 5 CV
+94	Fotovoltaico	312	Inversores	19718	Inversor de frequência multifunção com comunicação RS485
+94	Fotovoltaico	312	Inversores	12534	PAINEL BT QCM POCO COM INVERSOR 16A-220V 3F
 94	Fotovoltaico	313	Conectores	408	Conector Fotovoltaico MC4 Par
 94	Fotovoltaico	313	Conectores	6792	CONECTOR FOTOVOLTAICO MC4 PAR MACHO E FEMEA
 94	Fotovoltaico	313	Conectores	10046	CONECTOR SOLAR TIPO MC4 4-6MM2 FEMEA KRMC4F
@@ -5679,6 +5924,11 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 81	Construção Civil	341	Espuma Expansiva	20095	Espuma expansiva UV e antichamas
 81	Construção Civil	341	Espuma Expansiva	11189	Limpador PU Aerossol
 81	Construção Civil	341	Espuma Expansiva	5687	Espuma expansiva spray
+81	Construção Civil	341	Espuma Expansiva	36677	Mundial espuma expansiva 500ml
+81	Construção Civil	341	Espuma Expansiva	36515	Mundial espuma expansiva 500ml
+81	Construção Civil	341	Espuma Expansiva	36491	Mundial espuma expansiva 500ml
+81	Construção Civil	341	Espuma Expansiva	2510	ESPUMA EXPANSIVA DE POLIURETANO, APLICACAO MANUAL - 500 ML
+81	Construção Civil	341	Espuma Expansiva	36598	Mundial espuma expansiva 500ml
 98	Pavimentação	346	Usina de Asfalto	11576	Asfalto Quente
 98	Pavimentação	346	Usina de Asfalto	16595	ASFALTO TIPO CBUQ FX III
 98	Pavimentação	346	Usina de Asfalto	8171	CBUQ para pavimentação asfáltica, padrão Dnit, para Binder, com cap 50/70
@@ -5701,6 +5951,11 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 98	Pavimentação	347	Vibroacabadoras	18463	ROLO PATA ESTATICO 22T
 98	Pavimentação	347	Vibroacabadoras	18462	ROLO PATA VIBRATORIO 12T
 98	Pavimentação	347	Vibroacabadoras	18464	ROLO TANDEN VIBRATORIO 12T
+98	Pavimentação	347	Vibroacabadoras	6199	VIBROACABADORA DE ASFALTO SOBRE ESTEIRAS, LARG. PAVIM. 2,13 M A 4,55 M, POT. 74 KW/ 100 HP, CAP. 400 T/ H
+98	Pavimentação	347	Vibroacabadoras	6198	VIBROACABADORA DE ASFALTO SOBRE ESTEIRAS, LARG. PAVIM. MAX. 8,00 M, POT. 100 KW/ 134 HP, CAP. 600 T/ H
+98	Pavimentação	347	Vibroacabadoras	5556	VIBROACABADORA DE ASFALTO SOBRE RODAS, LARGURA DE PAVIMENTACAO DE 1,70 A 4,20 M, POTENCIA 78 KW/105 HP, CAPACIDADE 300 T/H
+98	Pavimentação	347	Vibroacabadoras	5553	VIBROACABADORA DE ASFALTO SOBRE ESTEIRAS, LARG. PAVIM. 2,13 M A 4,55 M, POT. 74 KW/ 100 HP, CAP. 400 T/ H
+98	Pavimentação	347	Vibroacabadoras	6198	VIBROACABADORA DE ASFALTO SOBRE ESTEIRAS, LARG. PAVIM. MAX. 8,00 M, POT. 100 KW/ 134 HP, CAP. 600 T/ H
 98	Pavimentação	354	Terraplenagem	21663	BOTA FORA
 98	Pavimentação	354	Terraplenagem	21661	ESCAVAÇÃO
 98	Pavimentação	354	Terraplenagem	9274	GEOMANTA
@@ -6244,12 +6499,23 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	8456	Sinalização de segurança - 120 x 80mm
 101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	16571	Sinalização de segurança: ATENÇÃO DISP.CONTR.BLOQ  Dimensões: 120 x 80mm  Material: Papel  Fundo: Verde  Identificação: Branca  2300 PLACA DCBI
 101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	16570	Sinalização de segurança: PRATIQUE SEGURANÇA  Dimensões: 120 x 80mm  Material: Aço inox  Fundo: Vermelho  Identificação: Branca  2300 PLACA SINALIZADORA DE VÁLVULA LC
+101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	5984	Placa de sinalização - Aperte e Empurre (24 x 12cm)
+101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	5972	Placa de sinalização - Hidrante / Mangueira (15 x 15cm)
+101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	5971	Placa de sinalização - Extintor de Incêndio (15 x 15cm)
+101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	5808	PLACA DE SINALIZAÇÃO CUIDADO RISCO DE CHOQUE ELÉTRICO GERAÇÃO PRÓPRIA
+101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	5975	Placa de sinalização - Escada desce à Direita (24 x 12cm)
+101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	5973	Placa de sinalização - Saída à Direita (24 x 12cm)
+101	Proteção Contra Incêndio	386	Placas de sinalização de segurança	5974	Placa de sinalização - Saída (24 x 12cm)
 101	Proteção Contra Incêndio	387	Portas corta fogo	881	BARRA ANTIPANICO DUPLA, CEGA EM LADO OPOSTO, COR CINZA
 101	Proteção Contra Incêndio	387	Portas corta fogo	883	BARRA ANTIPANICO SIMPLES, CEGA EM LADO OPOSTO, COR CINZA
 101	Proteção Contra Incêndio	387	Portas corta fogo	8730	Porta Corta Fogo P60 1,10 x 2,10m
 101	Proteção Contra Incêndio	387	Portas corta fogo	9933	PORTA CORTA FOGO P90 0,90 X 2,10M (1 FOLHA) COM BARRA ANTIPA
 101	Proteção Contra Incêndio	387	Portas corta fogo	9916	porta corta fogo porta, pintada em branco
 101	Proteção Contra Incêndio	387	Portas corta fogo	20986	Porta Corta Fogo Simples 0,70 x 2,10
+101	Proteção Contra Incêndio	387	Portas corta fogo	31	Porta Corta Fogo P90 Simples 89x210x5 cm
+101	Proteção Contra Incêndio	387	Portas corta fogo	9916	porta corta fogo porta, pintada em branco
+101	Proteção Contra Incêndio	387	Portas corta fogo	8730	Porta Corta Fogo P60 1,10 x 2,10m
+101	Proteção Contra Incêndio	387	Portas corta fogo	4121	PORTA CORTA-FOGO PARA SAIDA DE EMERGENCIA, COM FECHADURA, VAO LUZ DE 90 X 210 CM, CLASSE P-90 (NBR 11742)
 101	Proteção Contra Incêndio	390	Rede de hidrantes	21453	HIDRANTE DE COLUNA 4POL
 101	Proteção Contra Incêndio	390	Rede de hidrantes	8536	hidrante de coluna completo, em ferro fundido, DN = 100 MM, com registro, cunha de borracha, curva dessimétrica, extremidade e tampas (inclui kit fixação)
 101	Proteção Contra Incêndio	390	Rede de hidrantes	2824	HIDRANTE DE COLUNA COMPLETO, EM FERRO FUNDIDO, DN = 75 MM, COM REGISTRO, CUNHA DE BORRACHA, CURVA DESSIMETRICA, EXTREMIDADE E TAMPAS (INCLUI KIT FIXACAO)
@@ -6272,6 +6538,19 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 28	Arquitetura	396	Cadeiras	16456	Cadeira de escritório
 28	Arquitetura	396	Cadeiras	8250	Cadeira eiffel
 28	Arquitetura	396	Cadeiras	8302	Locação - Cadeira Tipo Gruvyer Acrílica Transparente
+28	Arquitetura	396	Cadeiras	7782	Cadeira gamer Mymax MX5
+28	Arquitetura	396	Cadeiras	16716	Cadeira de Escritório de 4 pés
+28	Arquitetura	396	Cadeiras	1324	CADEIRA SUSPENSA MANUAL / BALANCIM INDIVIDUAL (NBR 14751)
+28	Arquitetura	396	Cadeiras	32718	Cadeira fixa sem braços – assento e encosto estofados
+28	Arquitetura	396	Cadeiras	32708	CADEIRA PARA MESA DE REUNIÃO
+28	Arquitetura	396	Cadeiras	32703	Cadeira Alta em Alumínio, na cor azul.
+28	Arquitetura	396	Cadeiras	32688	Cadeira fixa
+28	Arquitetura	396	Cadeiras	32687	Cadeira giratória presidencial, com rodas, suporte mínimo de 130 kg;
+28	Arquitetura	396	Cadeiras	32686	Cadeira giratória com encosto alto e braços reguláveis
+28	Arquitetura	396	Cadeiras	32685	CADEIRA GIRATORIA
+28	Arquitetura	396	Cadeiras	32684	Cadeira giratória para escritório:
+28	Arquitetura	396	Cadeiras	32654	Cadeira monobloco em polipropileno, empilhável, resistente e fácil limpeza e manutenção.
+28	Arquitetura	396	Cadeiras	32642	Cadeira em tela mesh presidente, com encosto de cabeça e apoio de braços.
 91	Automação	397	Medidores de Energia	10021	Analisador da Qualidade da Energia Elétrica
 91	Automação	397	Medidores de Energia	8249	Analisador de medidas elétricas trifásicas de 1,5A a 3000A
 91	Automação	397	Medidores de Energia	8247	Multimedidor e registrador de grandezas elétricas trifásicas
@@ -6676,6 +6955,10 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 45	Infraestrutura	403	Pré-Moldados	10224	ESTACA PRÉ-MOLDADA VAZADA DE CONCRETO ARMADO Ø33CM A Ø34CM - CARGA DE TRABALHO A COMPRESSÃO ATÉ 15 TF E CARGA DE TRABALHO À TRAÇÃO ATÉ 8 TF, ARMADURA LONGITUDINAL MÍNIMA 8Ø10.0MM -
 45	Infraestrutura	403	Pré-Moldados	10337	Gradil pre moldado em concreto 2,00 x 1,00
 45	Infraestrutura	403	Pré-Moldados	8419	PLACA EM CONCRETO ARMADO PARA MURO PRÉ MOLDADO – 1,60 METROS X 0,50CM X 3 CM
+45	Infraestrutura	403	Pré-Moldados	14490	Bancos pré-moldados com dois lugares cada
+45	Infraestrutura	403	Pré-Moldados	26307	Fossa séptica câmara única com anéis pré-moldados em concreto, diâmetro externo de 2,50 m, altura útil de 2,50 m, com tampa pré-moldada
+45	Infraestrutura	403	Pré-Moldados	26301	Sumidouro em anéis pré-moldados de concreto armado, diâmetro externo de 2,00 m e profundidade de 2,50 m
+45	Infraestrutura	403	Pré-Moldados	26300	Fossa séptica câmara única com anéis pré-moldados em concreto, diâmetro externo de 2,50 m e altura útil de 2,50 m, com tampa prémoldada
 71	Climatização e Ventilação	404	Compressores	15107	COMPRESSOR AR-CONDICIONADO 36.000 BTU/H 220V MONOFASICO R410 LRA76A/OPERACAO MAX 14A
 71	Climatização e Ventilação	404	Compressores	10313	Compressor Copeland Scroll
 71	Climatização e Ventilação	404	Compressores	10364	COMPRESSOR DE REFRIGERAÇÃO
@@ -6686,9 +6969,15 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 75	Ferragens	405	Polias e rolamentos	8352	rolamento 6204 ZZ
 75	Ferragens	405	Polias e rolamentos	8351	rolamento 6205 ZZ
 75	Ferragens	405	Polias e rolamentos	8345	Talha Manual E Trole Max 1.000kg Completo
+75	Ferragens	405	Polias e rolamentos	8349	Polia de 150mm B 03 vias com furo de 1 1/2" chaveta 3/8
+75	Ferragens	405	Polias e rolamentos	8348	Polia motora 6¨ 1 1/2"
+75	Ferragens	405	Polias e rolamentos	11608	Polia em alumínio tipo A70, 1 canal em V, furo central do eixo compatível ao diâmetro do eixo do motor diesel 5cv
+75	Ferragens	405	Polias e rolamentos	8352	rolamento 6204 ZZ
+75	Ferragens	405	Polias e rolamentos	8351	rolamento 6205 ZZ
+75	Ferragens	405	Polias e rolamentos	4407	ROLDANA CONCAVA DUPLA, 4 RODAS, PARA PORTA DE CORRER, EM ZAMAC COM CHAPA DE ACO, ROLAMENTO INTERNO BLINDADO DE ACO REVESTIDO EM NYLON
+75	Ferragens	405	Polias e rolamentos	4406	ROLDANA CONCAVA DUPLA, 4 RODAS, EM ZAMAC COM CHAPA DE LATAO, ROLAMENTOS EM ACO, PARA PORTAS E JANELAS DE CORRER
 36	Equipamentos	408	Veículos de transporte	18456	DISTRIBUIDOR AGREGADOS FERLEX EA12
 36	Equipamentos	408	Veículos de transporte	8300	Locação - Empilhadeira Modelo GP 18-050
-
 75	Ferragens	409	Conteineres	15031	Container 12m com ar condicionado
 75	Ferragens	409	Conteineres	10231	CONTAINER 2,30 X 6,00 M, ALT. 2,50 M, PARA ESCRITORIO, SEM DIVISORIAS INTERNAS E SEM SANITARIO
 75	Ferragens	409	Conteineres	15030	Container 6m com ar condicionado
@@ -6730,6 +7019,16 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 83	Materiais Hidráulicos	423	Medição e instrumentação	17897	Medidor de Nível de Água tipo carretel Faixa de medição: mínimo 100 metros  Tipo de poço: Tubular profundo  Finalidade: Medição periódica do nível do lençol freático  Fácil transporte
 83	Materiais Hidráulicos	423	Medição e instrumentação	8530	medidor de nível estático e dinâmico para poços 200m
 83	Materiais Hidráulicos	423	Medição e instrumentação	8540	Medidores de fluxo de água 3/4 com telemetria
+83	Materiais Hidráulicos	212	Pressurizadores de Água	6228	Pressurizador para Aquecedor de Água a Gás com fluxostato
+83	Materiais Hidráulicos	212	Pressurizadores de Água	6658	Pressurizador para Aquecedor de Água a Gás com pressostato
+83	Materiais Hidráulicos	212	Pressurizadores de Água	8959	BOMBA CENTRÍFUGA COM MOTOR ELÉTRICO TRIFÁSICO, POTÊNCIA 15 HP, PARA RECALQUE D'ÁGUA
+83	Materiais Hidráulicos	212	Pressurizadores de Água	1004	BOMBA CENTRIFUGA MONOESTAGIO COM MOTOR ELETRICO MONOFASICO, POTENCIA 15 HP,  DIAMETRO DO ROTOR *173* MM, HM/Q = *30* MCA / *90* M3/H A *45* MCA / *55* M3/H
+83	Materiais Hidráulicos	212	Pressurizadores de Água	17676	BOMBA CENTRÍFUGA, TRIFÁSICA, 10 CV OU 9,86 HP, HM 85 A 140 M, Q 4,2 A 14,9 M3/H
+83	Materiais Hidráulicos	212	Pressurizadores de Água	1027	BOMBA SUBMERSIVEL, ELETRICA, TRIFASICA, POTENCIA 2,96 HP, DIAMETRO DO ROTOR 144 MM SEMIABERTO, BOCAL DE SAIDA DIAMETRO DE DUAS POLEGADAS, HM/Q = 2 M / 38,8 M3/H A 28 M / 5 M3/H
+83	Materiais Hidráulicos	212	Pressurizadores de Água	1022	BOMBA SUBMERSIVEL,  ELETRICA, TRIFASICA, POTENCIA 6 HP, DIAMETRO DO ROTOR 127 MM, BOCAL DE SAIDA DIAMETRO DE 3 POLEGADAS, HM/Q = 7 M / 66,90 M3/H A 26 M / 2,88 M3/H
+83	Materiais Hidráulicos	212	Pressurizadores de Água	11630	BOMBA TIPO CENTRIFUGA MONOESTAGIO, POLOS TRIFASICO, POTENCIA 3CV, ALTURA MANOMETRICA: 14-42 MCA, VAZAO: 14,5-2,8 M3/HASTE
+83	Materiais Hidráulicos	212	Pressurizadores de Água	37816	PRESSURIZADOR DE REDE HIDRAULICA
+83	Materiais Hidráulicos	212	Pressurizadores de Água	27423	Pressurizador Sistemas Hidráulico
 103	Equipamentos hospitalares	424	Equipamentos de laboratório	8581	Bastão de Vidro Diâmetro 6 x 300 MM
 103	Equipamentos hospitalares	424	Equipamentos de laboratório	8582	Pipetador de Borracha
 103	Equipamentos hospitalares	424	Equipamentos de laboratório	8583	Proveta de Plástico 1000 mL
@@ -6770,6 +7069,13 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 36	Equipamentos	426	Compressor de Ar	21367	COMPRESSOR DE AR - PORTÁTIL 220 VOLTS POTÊNCIA MÍNIMA 1,5 KW/2 HP - 24 LITROS
 36	Equipamentos	426	Compressor de Ar	9553	COMPRESSOR DE AR REBOCÁVEL, Compatível para CARRETA DE PERFURAÇÃO DE ROCHA SOBRE ESTEIRAS
 36	Equipamentos	426	Compressor de Ar	14577	Compressor rebocável a diesel de 60 PCM
+36	Equipamentos	426	Compressor de Ar	6523	COMPRESSOR DE AR, VAZAO DE 10 PCM, RESERVATORIO 100 L, PRESSAO DE TRABALHO ENTRE 6,9 E 9,7 BAR, POTENCIA 2 HP, TENSAO 110/220 V (COLETADO CAIXA)
+36	Equipamentos	426	Compressor de Ar	1705	COMPRESSOR DE AR REBOCAVEL, VAZAO 250 PCM, PRESSAO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTENCIA 81 CV
+36	Equipamentos	426	Compressor de Ar	1704	COMPRESSOR DE AR REBOCAVEL, VAZAO 189 PCM, PRESSAO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTENCIA 63 CV
+36	Equipamentos	426	Compressor de Ar	1703	COMPRESSOR DE AR REBOCAVEL, VAZAO 152 PCM, PRESSAO EFETIVA DE TRABALHO 102 PSI, MOTOR DIESEL, POTENCIA 31,5 KW
+36	Equipamentos	426	Compressor de Ar	1698	COMPRESSOR DE AR ESTACIONARIO, VAZAO 620 PCM, PRESSAO EFETIVA DE TRABALHO 109 PSI, MOTOR ELETRICO, POTENCIA 127 CV
+36	Equipamentos	426	Compressor de Ar	34882	COMPRESSOR DE AR PROFISSIONAL 10 PCM, *110* L, 140 PSI, 110/220 VOLTS, MONOFASICO
+36	Equipamentos	426	Compressor de Ar	34881	COMPRESSOR DE AR ESTACIONARIO, VAZAO 620 PCM, PRESSAO EFETIVA DE TRABALHO 109 PSI, MOTOR ELETRICO, POTENCIA 127 CV
 75	Ferragens	427	Tela, cerca e gabião em aço	9656	Arame farpado 16 BWG 500m4
 75	Ferragens	427	Tela, cerca e gabião em aço	769	ARAME PROTEGIDO COM POLIMERO PARA GABIAO, DIAMETRO 2,2 MM
 75	Ferragens	427	Tela, cerca e gabião em aço	19067	Gabião 50x15
@@ -6964,6 +7270,16 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 98	Pavimentação	438	Usina de Solo	10191	USINA DE SOLOS, capacidade 400 t / hora
 98	Pavimentação	438	Usina de Solo	16245	USINA DE SOLOS DE 600M³/HORA
 98	Pavimentação	438	Usina de Solo	18455	USINA SOLOS 350/600T/H
+98	Pavimentação	355	Outros - Pavimentação	18459	AQUEC. FLUIDO TERMICO P/USINA
+98	Pavimentação	355	Outros - Pavimentação	788	ARGAMASSA USINADA AUTOADENSAVEL E AUTONIVELANTE PARA CONTRAPISO, INCLUI BOMBEAMENTO
+98	Pavimentação	355	Outros - Pavimentação	9366	Asfalto diluido - Adeflex
+98	Pavimentação	355	Outros - Pavimentação	15761	Distribuidor de Agregados Rebocável
+98	Pavimentação	355	Outros - Pavimentação	3560	MAQUINA DEMARCADORA DE FAIXA DE TRAFEGO A FRIO, AUTOPROPELIDA, MOTOR DIESEL 38 HP
+98	Pavimentação	355	Outros - Pavimentação	16433	Máquina Extrusora para execução meio fio e sarjeta.
+98	Pavimentação	355	Outros - Pavimentação	12278	Pavimento Intertravado Espessura de 10cm FCK=35MPA
+98	Pavimentação	355	Outros - Pavimentação	12279	Pavimento Intertravado Espessura de 6cm FCK=35MPA
+98	Pavimentação	355	Outros - Pavimentação	6551	EMULSAO ASFALTICA CATIONICA RR-1C PARA USO EM PAVIMENTACAO ASFALTICA (COLETADO CAIXA NA ANP ACRESCIDO DE ICMS)
+98	Pavimentação	355	Outros - Pavimentação	5556	VIBROACABADORA DE ASFALTO SOBRE RODAS, LARGURA DE PAVIMENTACAO DE 1,70 A 4,20 M, POTENCIA 78 KW/105 HP, CAPACIDADE 300 T/H
 75	Ferragens	439	Perfis e chapas em aço carbono	16064	Adaptador de mandril ½” – 13 mm, engate rápido, SDS plus para martelete, em aço carbono, comprimento 80mm
 75	Ferragens	439	Perfis e chapas em aço carbono	12902	Barra de aço ø 10,0 mm - barra de aço carbono nervurada, peça de 12 metros de comprimento, diâmetro 10,0 mm, tipo CA-50,conforme NBR 7480, compulsoriamente certificado por laboratório acreditado pelo Inmetro.
 75	Ferragens	439	Perfis e chapas em aço carbono	12903	Barra de aço ø 12,5 mm - barra de aço carbono nervurada, peça de 12 metros de comprimento, diâmetro 12,5 mm, tipo CA-50,conforme NBR 7480, compulsoriamente certificado por laboratório acreditado pelo Inmetro.
@@ -7157,6 +7473,8 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 81	Construção Civil	460	Perfis para Steel Frame	10850	Perfil Montante para Parede
 81	Construção Civil	460	Perfis para Steel Frame	10722	Perfil steel frame Guia
 81	Construção Civil	460	Perfis para Steel Frame	10726	Placa cimetrica 6mm
+81	Construção Civil	460	Perfis para Steel Frame	3951	PERFIL CARTOLA DE ACO GALVANIZADO, *20 X 30 X 10* MM, E = 0,8 MM
+81	Construção Civil	460	Perfis para Steel Frame	18906	Montantes / Diagonais U 100x50x3.42 ASTM A36
 75	Ferragens	464	Chapas INOX	12304	TAMPÃO AC AC ASTM A234 Gr WPB, SCH 20, DN 12”
 75	Ferragens	464	Chapas INOX	12301	TAMPÃO AC ASTM A105, DN 0,5”
 75	Ferragens	464	Chapas INOX	12302	TAMPÃO AC ASTM A105, DN 0,75”
@@ -8393,6 +8711,12 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 69	Banheiros	57	Kits para Banheiro	19892	Kit reparo p/ caixa acoplada (universal)
 69	Banheiros	57	Kits para Banheiro	11235	Kit vaso sanitário completo com caixa acoplada e assento branco duplo acionamento 3/6L saída vertical Celite
 69	Banheiros	57	Kits para Banheiro	7512	MECANISMO ENTRADA CAIXA ACOPLADA
+69	Banheiros	57	Kits para Banheiro	34717	Assento sanitário universal, na cor branca, tampa envolvente que proporciona a cobertura total do assento, com kit de fixação.
+69	Banheiros	57	Kits para Banheiro	13463	REPARO, VÁLVULA, DESCARGA, DOCOL, 1 1/2", KIT COMPLETO, COD.116300, POSSUI ALTA DURABILIDA DE COMPOSIÇÃO LIGA DE COBRE, PLÁSTICO ENGENHARIA, ZAMAC, ATENDER REQUISITOS DA NBR 158 57,5626,5648 E INMETRO, REPOSIÇÃO
+69	Banheiros	57	Kits para Banheiro	13452	PARAFUSO APLICAÇÃO VASO SANITÁRIO, KIT FIXAÇÃO COMPOSTO POR: HASTE 100 MM, PORCA CALOT A, ANILHA E BUCHA S 12, COM ANEL, FABRICADO EM LATÃO, RESISTÊNCIA CONTRA OXIDAÇÃO CORRO SÃO
+69	Banheiros	57	Kits para Banheiro	13451	PARAFUSO, APLICAÇÃO VASO SANITÁRIO, KIT FIXAÇÃO COMPOSTO POR: HASTE ENTRE 75 A 90 MM, PO RCA CALOTA, FABRICADO EM LATÃO, RESISTÊNCIA CONTRA OXIDAÇÃO CORROSÃO, ANILHA E BUCHA S 10, COM ANEL
+69	Banheiros	57	Kits para Banheiro	3107	KIT CHUVEIRO PARA INSTALACAO PEX, QUADRO METALICO COM 2 TRAVESSAS, SUPERIOR COM ESPERA PARA CHUVEIRO E INFERIOR COM 2 REGISTROS DE PRESSAO DE 1/2 ", LARGURA DE *390* MM X ALTURA DE *900* MM, PARA CONEXAO COM CRIMPAGEM (INCLUI REGISTROS PRESSAO E TUBOS PEX COM CONEXOES, SEM REGISTRO GAVETA, NAO INCLUI CARENAGEM)
+69	Banheiros	57	Kits para Banheiro	3106	KIT CHUVEIRO PARA INSTALACAO PEX, QUADRO METALICO COM 2 TRAVESSAS, SUPERIOR COM ESPERA PARA CHUVEIRO E INFERIOR COM 2 REGISTROS DE PRESSAO DE 1/2 ", LARGURA DE *390* MM X ALTURA DE *900* MM, PARA CONEXAO COM ANEL DESLIZANTE (INCLUI REGISTROS PRESSAO E TUBOS PEX COM CONEXOES, SEM REGISTRO GAVETA, NAO INCLUI CARENAGEM)
 69	Banheiros	60	Pias e Lavatórios	869	BANCADA/BANCA/PIA DE ACO INOXIDAVEL (AISI 430) COM 1 CUBA CENTRAL, COM VALVULA, ESCORREDOR DUPLO, DE *0,55 X 1,20* M
 69	Banheiros	60	Pias e Lavatórios	870	BANCADA/BANCA/PIA DE ACO INOXIDAVEL (AISI 430) COM 1 CUBA CENTRAL, COM VALVULA, ESCORREDOR DUPLO, DE *0,55 X 1,40* M
 69	Banheiros	60	Pias e Lavatórios	871	BANCADA/BANCA/PIA DE ACO INOXIDAVEL (AISI 430) COM 1 CUBA CENTRAL, COM VALVULA, ESCORREDOR DUPLO, DE *0,55 X 1,80* M
@@ -8416,6 +8740,19 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 69	Banheiros	63	Torneiras para Banheiro	3647	MISTURADOR CROMADO DE PAREDE PARA LAVATORIO (REF 1178)
 69	Banheiros	63	Torneiras para Banheiro	11109	TORNEIRA METALICA CROMADA DE MESA PARA LAVATORIO, BICA ALTA, COM AREJADOR MARCA DECA OU EQUIVALENTE.- FORNECIMENTO
 69	Banheiros	63	Torneiras para Banheiro	101	Torneira para Pia de Banheiro Bica Baixa Cromada
+69	Banheiros	283	Outros - Banheiros	893	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 60CM, DIAMETRO MINIMO 3 CM
+69	Banheiros	283	Outros - Banheiros	894	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 70CM, DIAMETRO MINIMO 3 CM
+69	Banheiros	283	Outros - Banheiros	895	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 80 CM, DIAMETRO MINIMO 3 CM
+69	Banheiros	283	Outros - Banheiros	896	BARRA DE APOIO RETA, EM ALUMINIO, COMPRIMENTO 90 CM, DIAMETRO MINIMO 3 CM
+69	Banheiros	283	Outros - Banheiros	14630	Divisoria de banheiro granito cinza corumba 1,20x2mx2,5cm polido nos quatro lados
+69	Banheiros	283	Outros - Banheiros	15736	MICTÓRIO EM INOX AISI 304 MED. 1,00M
+69	Banheiros	283	Outros - Banheiros	10178	torneiras cromadas para lavatório de banheiro bancada de 1/4"
+69	Banheiros	283	Outros - Banheiros	12845	O SILICONE ACÉTICO TRANSPARENTE é um adesivo selante tixotrópico monocomponente, baixo módulo, antifungo e de cura acética. Sua cura ocorre em temperatura ambiente e na exposição à umidade do ar. É indicado na vedação e selagem de pias e vasos sanitários, box em banheiros, portas e janelas. Possui excelente resistência aos raios UV e pode ser aplicado em áreas externas. Embalagem de 280 g
+69	Banheiros	283	Outros - Banheiros	101	Torneira para Pia de Banheiro Bica Baixa Cromada
+69	Banheiros	283	Outros - Banheiros	13489	VÁLVULA, APLICAÇÃO LAVATÓRIO, BANHEIRO, MATERIAL PVC, COR BRANCA, BITOLA 1" X 3" FLANGE PO RCA DE ENTRADA E ACOPLAMENTO JUNTA PVC, DEVERA ATENDER A NORMA ABNT NBR 15423
+69	Banheiros	283	Outros - Banheiros	13424	ENGATE, FLEXÍVEL, BANHEIRO, MATERIAL PVC, COR BRANCO, COMPRIMENTO 60CM, COM NIPLE DE 1/2, PRESSÃO NOMINAL 4KGF/CM², RESISTENTE À OXIDAÇÃO, TEMPERATURA DE TRABALHO 20°C COM PIC OS DE MÁX 30°C, PADRÃO DE QUALIDADE CONFORME NBR 14878
+69	Banheiros	283	Outros - Banheiros	7084	Detalhe Revestimento Marmorizado Para banheiro suíte
+69	Banheiros	283	Outros - Banheiros	4620	TARJETA LIVRE / OCUPADO PARA PORTA DE BANHEIRO, CORPO EM ZAMAC E ESPELHO EM LATAO
 71	Climatização e Ventilação	66	Ar Condicionado	23350	Ar-condicionado 12.000 BTU split inverter hi-wall, com controle remoto, ciclo quente e frio, cor branca e voltagem 220V.
 71	Climatização e Ventilação	66	Ar Condicionado	20583	Ar condicionado 12.000 BTUS
 71	Climatização e Ventilação	66	Ar Condicionado	23353	Ar-condicionado 18.000 BTU split inverter cassete, com controle remoto, ciclo quente e frio, cor branca e voltagem 220V.
@@ -8554,6 +8891,11 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 71	Climatização e Ventilação	67	Climatizadores de Ar	5737	Climatizador tipo dutado com válvula DX para sistema VRV, capacidade 36.000BTU/h com vazão de 1500 m³/h e filtros G4+F8
 71	Climatização e Ventilação	67	Climatizadores de Ar	5738	Climatizador tipo dutado com válvula DX para sistema VRV, capacidade 9.000BTU/h com vazão de 500 m³/h e filtros G4+F8
 71	Climatização e Ventilação	67	Climatizadores de Ar	16018	Equipamento de climatização de 30.000 BTU/h
+71	Climatização e Ventilação	67	Climatizadores de Ar	15855	AR CONDICIONADO/CLIMATIZADOR, TIPO SPLIT, MODELO INVERTER, CAPACIDADE MÍNIMA DE 24.000 BTUS, FUNÇÃO QUENTE E FRIO, VOLTAGEM 220V, COM INSTALAÇÃO E MATERIAIS DA INSTALAÇÃO INCLUSOS. OBS: NECESSÁRIO RAPEL
+71	Climatização e Ventilação	67	Climatizadores de Ar	15854	AR CONDICIONADO/CLIMATIZADOR, TIPO SPLIT, MODELO INVERTER, CAPACIDADE MÍNIMA DE 24.000 BTUS, FUNÇÃO QUENTE E FRIO, VOLTAGEM 220V, COM INSTALAÇÃO E MATERIAIS DA INSTALAÇÃO INCLUSOS
+71	Climatização e Ventilação	67	Climatizadores de Ar	15853	AR CONDICIONADO/CLIMATIZADOR, TIPO SPLIT, MODELO INVERTER, CAPACIDADE MÍNIMA DE 18.000 BTUS, FUNÇÃO QUENTE E FRIO, VOLTAGEM 220V, COM INSTALAÇÃO E MATERIAIS DA INSTALAÇÃO INCLUSOS
+71	Climatização e Ventilação	67	Climatizadores de Ar	15852	AR CONDICIONADO/CLIMATIZADOR, TIPO SPLIT, MODELO INVERTER, CAPACIDADE MÍNIMA DE 12.000 BTUS, FUNÇÃO QUENTE E FRIO, VOLTAGEM 220V, COM INSTALAÇÃO E MATERIAIS DA INSTALAÇÃO INCLUSOS. OBS: NECESSÁRIO RAPEL
+71	Climatização e Ventilação	67	Climatizadores de Ar	15851	AR CONDICIONADO/CLIMATIZADOR, TIPO SPLIT, MODELO INVERTER, CAPACIDADE MÍNIMA DE 12.000 BTUS, FUNÇÃO QUENTE E FRIO, VOLTAGEM 220V, COM INSTALAÇÃO E MATERIAIS DA INSTALAÇÃO INCLUSOS.
 71	Climatização e Ventilação	69	Exaustores	19378	Exaustor axial de parede
 71	Climatização e Ventilação	69	Exaustores	15505	Exaustor com capacidade mínima de 1.400m³/h, hélice de 300mm, aço com pintura epóxi, motor trifásico IP55, Certificação ATEX à prova de explosão
 71	Climatização e Ventilação	69	Exaustores	17323	Exaustor para banheiro
@@ -8603,6 +8945,7 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 72	Cozinhas e Áreas de Serviço	81	Filtros, Purificadores e Bebedouros	6687	Purificador de água até 1 I/min
 72	Cozinhas e Áreas de Serviço	81	Filtros, Purificadores e Bebedouros	10118	Vela para Filtro Eletrolux
 72	Cozinhas e Áreas de Serviço	81	Filtros, Purificadores e Bebedouros	23338	PURIFICADOR E REFRIGERADOR DE ÁGUA
+72	Cozinhas e Áreas de Serviço	81	Filtros, Purificadores e Bebedouros	37500	PURIFICADOR DE ÁGUA; COM COMPRESSOR; ÁGUA NATURAL E GELADA
 72	Cozinhas e Áreas de Serviço	82	Lixeiras	18509	Lixeira de 30L/50L - fixar na parede
 72	Cozinhas e Áreas de Serviço	82	Lixeiras	17713	Lixeira Inox Com Aro 50 litros
 72	Cozinhas e Áreas de Serviço	85	Pias e Cubas de Cozinha	40	Bacia inox em tampo de mármore sintético 120x55xm
@@ -8612,6 +8955,9 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 72	Cozinhas e Áreas de Serviço	85	Pias e Cubas de Cozinha	15511	Cuba de embutir oval branca 35x50
 72	Cozinhas e Áreas de Serviço	85	Pias e Cubas de Cozinha	10064	TANQUE DE CONCRETO COM PÉ, RESINADO DE DIMENSÃO (60,00 X 56,00 X 82,00)CM, PROFUNDIDADE DE 32CM
 72	Cozinhas e Áreas de Serviço	85	Pias e Cubas de Cozinha	4616	TANQUE SIMPLES EM MARMORE SINTETICO SUSPENSO, CAPACIDADE *38* L, *60 X 60* CM
+72	Cozinhas e Áreas de Serviço	85	Pias e Cubas de Cozinha	36668	Pia inox 120x53 c/ cuba central s/ valvula
+72	Cozinhas e Áreas de Serviço	85	Pias e Cubas de Cozinha	13417	CUBA, UNIVERSAL, EMBUTIR, OVAL, DECA, CÓDIGO L37.17, COR BRANCO, 485 X 375 X 16MM, MATERIA L FABRICADA EM LOUÇA CERÂMICA ACABAMENTO ESMALTADO, ATENDER A NORMA NBR-16728, E SER Q UALIFICADA PBQP- PROGRAMA BRASILEIRO DA QUALIDADE E PRODUTIVIDADE DO HABITAT, REPOSIÇÃO
+72	Cozinhas e Áreas de Serviço	85	Pias e Cubas de Cozinha	13416	CUBA, TIPO EMBUTIR, FORMATO RETANGULAR,LINHA L, DECA, CÓDIGO L. 375.17 (REPOSIÇÃO) MATERIAL: FABRICADA EM LOUÇA CERÂMICA ACABAMENTO ESMALTADO, ATENDE R A NORMA NBR-16728, E SER QUALIFICADA PBQP- PROGRAMA BRASILEIRO DA QUALIDADE E PRODUTI VIDADE DO HABITAT
 72	Cozinhas e Áreas de Serviço	86	Produtos para Área de Serviço	4611	TANQUE DE LOUCA BRANCA, COM COLUNA, *30* L
 72	Cozinhas e Áreas de Serviço	86	Produtos para Área de Serviço	10990	TANQUE DE LOUCA BRANCA, COM COLUNA, *40* L
 72	Cozinhas e Áreas de Serviço	86	Produtos para Área de Serviço	4612	TANQUE DE LOUCA BRANCA, SUSPENSO, *20* L
@@ -8622,6 +8968,9 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 72	Cozinhas e Áreas de Serviço	88	Torneiras para Cozinha	6720	Torneira Loren Easy
 72	Cozinhas e Áreas de Serviço	88	Torneiras para Cozinha	109	Torneira para Pia de Cozinha Bica Alta Cromada
 72	Cozinhas e Áreas de Serviço	88	Torneiras para Cozinha	6440	Torneira para pia de cozinha com filtro
+72	Cozinhas e Áreas de Serviço	88	Torneiras para Cozinha	34682	Torneira Gourmet Monocomando Escovada Extensível Inox
+72	Cozinhas e Áreas de Serviço	88	Torneiras para Cozinha	13467	TORNEIRA, BANCADA, COZINHA, METAL, 1/2", BICA MÓVEL, ALTA 360º, ACABAMENTO CROMADO, COMP LEMENTO: CANOPLA, BUCHA DE ADAPTAÇÃO PARA 3 /4" TODOS OS COMPONENTES - INCLUSIVE ACION ADOR METÁLICOS; CARTUCHO COM PASTILHA CERÂMICA COM 1/4 DE VOLTA, FUNCIONAMENTO PERFEI TO EM BAIXA E ALTA PRESSÃO DE 0,2 A 4 KGF/CM² OU 3 A 57 PSI, FABRICADO EM LIGA DE COBRE (BR ONZE E LATÃO), PLÁSTICOS DE ENGENHARIA, GARANTIA MÍNIMA DE 10 ANOS ,ATENDER REQUISITOS DA NBR 10281, TORNEIRAS - REQUISITOS E MÉTODOS DE ENSAIO E E SER QUALIFICADA PBQP-PROGR AMA BRASILEIRO DA QUALIDADE E PRODUTIVIDADE DO HABITAT - GRUPO SETORIAL DE METAIS
+72	Cozinhas e Áreas de Serviço	88	Torneiras para Cozinha	36672	Torneira cozinha parede 1164 F34 Br Lorenzetti
 72	Cozinhas e Áreas de Serviço	89	Utilidades Domésticas	14830	balde térmico
 72	Cozinhas e Áreas de Serviço	89	Utilidades Domésticas	20008	Capa De Edredom Solteiro Duvet Zíper 400 Fios Extra Macio
 72	Cozinhas e Áreas de Serviço	89	Utilidades Domésticas	18507	Pézinho Nivelador de Fogão
@@ -8729,5 +9078,40 @@ ID_CAT	Cat_Name	ID_Sub	Sub_Name	ID_Prod	Prod_Desc
 74	Eletros	96	Eletros para Cozinha	14930	Geladeira 127w - Refrigerador com Freezer - Cor Branca - 320l
 74	Eletros	96	Eletros para Cozinha	11000	Geladeira Smart Samsung Frost Free Duplex RT53 com SpaceMax e All Around Cooling 518L Bivolt – Inox
 74	Eletros	96	Eletros para Cozinha	19946	Grill E Sanduicheira Inox 750w
-74	Eletros	96	Eletros para Cozinha	20010	Liquidificador 600w 2L Preto
 74	Eletros	96	Eletros para Cozinha	7801	Microondas 30 a 34L, 127V
+74	Eletros	96	Eletros para Cozinha	11008	Freezer Vertical Electrolux Cycle Defrost 197L Uma Porta (FE23)
+74	Eletros	96	Eletros para Cozinha	14632	Geladeira 127w
+74	Eletros	96	Eletros para Cozinha	32695	Geladeira/Refrigerador branca, degelo Frost free, duplex, capacidade líquida total de 463 l. (220 V).
+74	Eletros	96	Eletros para Cozinha	32625	Geladeira/Refrigerador branca, degelo Frost free, duplex, capacidade líquida total de 463 l. (220 V).
+74	Eletros	96	Eletros para Cozinha	32533	Geladeira/Refrigerador branca, degelo Frost free, duplex, capacidade líquida total de 463 l.
+74	Eletros	96	Eletros para Cozinha	25013	GELADEIRA LINHA BRANCA FROST FREE 410L – UN
+74	Eletros	96	Eletros para Cozinha	23341	REFRIGERADOR (GELADEIRA), UMA PORTA
+74	Eletros	96	Eletros para Cozinha	23340	REFRIGERADOR (GELADEIRA), CARACTERÍSTICAS: TIPO DE DEGELO: FROST FREE
+74	Eletros	96	Eletros para Cozinha	19383	Geladeira com degelo automático
+74	Eletros	96	Eletros para Cozinha	25008	PURIFICADOR REFRIGERADOR DE ÁGUA MODELO COLUNA - UN
+74	Eletros	96	Eletros para Cozinha	23338	PURIFICADOR E REFRIGERADOR DE ÁGUA
+74	Eletros	96	Eletros para Cozinha	32696	Fogão de piso 4 bocas, branco, acendimento automático e mesa em aço inox. (220V).
+74	Eletros	96	Eletros para Cozinha	25010	FOGÃO COMERCIAL 6 QUEIMADORES COM 1 FORNO
+74	Eletros	96	Eletros para Cozinha	23289	FOGÃO A GÁS DE PISO, 4 BOCAS
+74	Eletros	96	Eletros para Cozinha	7071	Forno Elétrico Air Fryer 25L +
+74	Eletros	96	Eletros para Cozinha	25011	FORNO ELÉTRICO 44 LITROS
+74	Eletros	96	Eletros para Cozinha	23292	FORNO ELÉTRICO, COM LUZ INTERNA, GRILL E TIMER DE ATÉ 120 MINUTOS
+74	Eletros	96	Eletros para Cozinha	20010	Liquidificador 600w 2L Preto
+74	Eletros	96	Eletros para Cozinha	23303	LIQUIDIFICADOR PRETO - 4 VELOCIDADES
+74	Eletros	96	Eletros para Cozinha	19384	Liquidificador industrial inox
+74	Eletros	96	Eletros para Cozinha	23244	Cafeteira
+74	Eletros	96	Eletros para Cozinha	32697	Cafeteira elétrica, preto/aço térmica, programável de 12 xícaras, tecnologia VORTEX, garrafa térmica selada a vácuo de 5 camadas (220v).
+74	Eletros	96	Eletros para Cozinha	25009	CAFETEIRA ELETRICA CAPACIDADE 38 XICARAS 1000W 220V
+74	Eletros	96	Eletros para Cozinha	6892	Chaleira Elétrica 1,8L 127V
+74	Eletros	96	Eletros para Cozinha	19373	Chaleira elétrica inox
+74	Eletros	96	Eletros para Cozinha	32691	Chaleira elétrica de inox aprox. 1.8 litros:
+92	Informática	304	Notebooks	17896	Cabo patch cord U/UTP CM Cat 6 vermelho 150 cm
+92	Informática	304	Notebooks	14855	Fonte 500w PFC Ativo Automática
+92	Informática	304	Notebooks	14856	HD 2TB com raid 1
+92	Informática	304	Notebooks	14854	Memoria 16GB DR4 3200MHz ECC
+92	Informática	304	Notebooks	14857	Placa de Rede Gigabit 10/100/1000
+92	Informática	304	Notebooks	6670	Notebook 8GB 256GB SSD
+92	Informática	304	Notebooks	6398	Notebook Gamer Acer Nitro 5
+92	Informática	304	Notebooks	6397	Notebook Lenovo Ultrafino Ideapad 3i
+92	Informática	304	Notebooks	33136	PROCESSADOR DE VÍDEO- SWITCHER
+92	Informática	304	Notebooks	19658	Cabo DisplayPort macho para DisplayPort macho
