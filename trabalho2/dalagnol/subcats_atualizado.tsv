@@ -1,0 +1,462 @@
+"ID_Sub"	"Sub_Name"	"ID_CAT"	"Cat_Name"
+2	Pisos	28	Arquitetura
+3	Revestimentos	28	Arquitetura
+41	Outros Arquitetura	28	Arquitetura
+315	Móveis	28	Arquitetura
+324	Acessibilidade	28	Arquitetura
+396	Cadeiras	28	Arquitetura
+435	Placas e forros minerais	28	Arquitetura
+443	Pias e Bancadas em Mármore	28	Arquitetura
+301	Equipamentos para Piscina	36	Equipamentos 
+369	Transporte Vertical	36	Equipamentos 
+370	Plataformas de acessibilidade	36	Equipamentos 
+372	Elevador Cremalheira	36	Equipamentos 
+408	Veículos de transporte	36	Equipamentos 
+411	Bomba de Êmbolo	36	Equipamentos 
+426	Compressor de Ar	36	Equipamentos 
+441	Controle de Vibração	36	Equipamentos 
+455	Bomba Submersa	36	Equipamentos 
+465	Equipamentos para Academia	36	Equipamentos 
+479	Motores Elétricos	36	Equipamentos 
+23	Outros	42	Gases Medicinais
+24	Equipamentos para Gases Medicinais	42	Gases Medicinais
+25	Tubos e conexões para Gases Medicinais	42	Gases Medicinais
+7	Argamassa	45	Infraestrutura
+8	Blocos Cerâmicos	45	Infraestrutura
+9	Blocos de Concreto	45	Infraestrutura
+10	Concreto	45	Infraestrutura
+32	Madeiras	45	Infraestrutura
+33	Ferragens	45	Infraestrutura
+35	Instalações Provisórias	45	Infraestrutura
+36	Outros	45	Infraestrutura
+317	Artefatos de Concreto	45	Infraestrutura
+323	Maquinário	45	Infraestrutura
+361	Poste de Concreto	45	Infraestrutura
+362	Poste Metálico	45	Infraestrutura
+394	Cimento Asfáltico de Petróleo - CAP	45	Infraestrutura
+395	CBUQ	45	Infraestrutura
+400	Aduela de Concreto	45	Infraestrutura
+403	Pré-Moldados	45	Infraestrutura
+407	Vigas e perfis metálicos	45	Infraestrutura
+425	Formas	45	Infraestrutura
+432	maquinas pesadas	45	Infraestrutura
+473	Guindastes	45	Infraestrutura
+474	Canos de Concreto	45	Infraestrutura
+1	Sem Categoria	46	Outros
+26	Outros	46	Outros
+368	Esportes e Lazer	46	Outros
+42	Acessibilidade e Segurança	69	Banheiros
+43	Acessórios para Banheiro	69	Banheiros
+44	Aquecedores de Água	69	Banheiros
+45	Assentos Sanitários	69	Banheiros
+46	Banheiras, SPAs e Ofurôs	69	Banheiros
+47	Banheiro Comercial	69	Banheiros
+48	Box para Banheiro	69	Banheiros
+49	Chuveiros	69	Banheiros
+50	Cubas para Banheiro	69	Banheiros
+51	Dispensers	69	Banheiros
+52	Duchas	69	Banheiros
+53	Duchas Higiênicas	69	Banheiros
+54	Eletroportáteis de Beleza e Estética	69	Banheiros
+55	Espelhos para Banheiro	69	Banheiros
+56	Higiene Pessoal	69	Banheiros
+57	Kits para Banheiro	69	Banheiros
+58	Móveis para Banheiro	69	Banheiros
+59	Nichos para Banheiro	69	Banheiros
+60	Pias e Lavatórios	69	Banheiros
+61	Secador de Mãos	69	Banheiros
+62	Vasos Sanitários	69	Banheiros
+63	Torneiras para Banheiro	69	Banheiros
+283	Outros - Banheiros	69	Banheiros
+27	Equipamentos Elétricos	71	Climatização e Ventilação
+28	Tubos e conexões	71	Climatização e Ventilação
+64	Aquecedores de Água	71	Climatização e Ventilação
+65	Aquecedores de Ambientes	71	Climatização e Ventilação
+66	Ar Condicionado	71	Climatização e Ventilação
+67	Climatizadores de Ar	71	Climatização e Ventilação
+68	Desumidificadores de Ambientes	71	Climatização e Ventilação
+69	Exaustores	71	Climatização e Ventilação
+70	Dutos e Grades de Ventilação	71	Climatização e Ventilação
+71	Lareiras e Calefatores	71	Climatização e Ventilação
+72	Purificadores e Ionizadores de Ar	71	Climatização e Ventilação
+73	Umidificadores de Ar	71	Climatização e Ventilação
+74	Ventiladores e Circuladores de Ar	71	Climatização e Ventilação
+284	Outros - Climatização e Ventilação	71	Climatização e Ventilação
+364	Gases refrigerantes	71	Climatização e Ventilação
+404	Compressores	71	Climatização e Ventilação
+410	Peças de reposição	71	Climatização e Ventilação
+421	Canaletas e acessórios	71	Climatização e Ventilação
+422	Suportes	71	Climatização e Ventilação
+75	Aquecedores de Água	72	Cozinhas e Áreas de Serviço
+76	Cozinhas Completas	72	Cozinhas e Áreas de Serviço
+77	Cozinhas Planejadas	72	Cozinhas e Áreas de Serviço
+78	Decoração para Cozinha	72	Cozinhas e Áreas de Serviço
+79	Eletrodomésticos para Cozinha	72	Cozinhas e Áreas de Serviço
+80	Escadas e Banquetas Domésticas	72	Cozinhas e Áreas de Serviço
+81	Filtros, Purificadores e Bebedouros	72	Cozinhas e Áreas de Serviço
+82	Lixeiras	72	Cozinhas e Áreas de Serviço
+83	Móveis de Cozinha	72	Cozinhas e Áreas de Serviço
+84	Organizadores de Cozinha	72	Cozinhas e Áreas de Serviço
+85	Pias e Cubas de Cozinha	72	Cozinhas e Áreas de Serviço
+86	Produtos para Área de Serviço	72	Cozinhas e Áreas de Serviço
+87	Suporte para Pias de Cozinha	72	Cozinhas e Áreas de Serviço
+88	Torneiras para Cozinha	72	Cozinhas e Áreas de Serviço
+89	Utilidades Domésticas	72	Cozinhas e Áreas de Serviço
+285	Outros - Cozinhas e Áreas de Serviço	72	Cozinhas e Áreas de Serviço
+90	Eletrodomésticos	74	Eletros
+91	Eletroportáteis	74	Eletros
+92	Eletrodomésticos para Comércios	74	Eletros
+93	Eletroportáteis de Áudio e Vídeo	74	Eletros
+94	Eletroportáteis de Beleza e Estética	74	Eletros
+95	Eletros para Área de Serviço	74	Eletros
+96	Eletros para Cozinha	74	Eletros
+97	Televisão	74	Eletros
+286	Outros - Eletros	74	Eletros
+98	Acessórios para Móveis	75	Ferragens
+99	Caixas de Correio	75	Ferragens
+100	Carrinhos de Carga e Rodas	75	Ferragens
+101	Cavaletes	75	Ferragens
+102	Cintas, Cabos, Cordas, Correntes e Acessórios	75	Ferragens
+103	Dobradiças	75	Ferragens
+104	Escadas Móveis	75	Ferragens
+105	Estrados	75	Ferragens
+106	Fechaduras e Travas	75	Ferragens
+107	Ferragens para Fixar e Montar	75	Ferragens
+108	Ferragens para Janelas	75	Ferragens
+109	Ferragens para Móveis	75	Ferragens
+110	Ferragens para Porta	75	Ferragens
+111	Ganchos e Cabideiros	75	Ferragens
+112	Letras e Números Residenciais	75	Ferragens
+113	Lixeiras de Calçada	75	Ferragens
+114	Perfil para Bricolagem	75	Ferragens
+115	Puxadores	75	Ferragens
+116	Rodízios, Pés para Móveis e Eletrodomésticos	75	Ferragens
+117	Segurança para Casa	75	Ferragens
+118	Visores de Luz, Água e Gás	75	Ferragens
+287	Outros - Ferragens	75	Ferragens
+366	Perfis de alumínio	75	Ferragens
+398	Tubos e conexões industriais	75	Ferragens
+399	Barras e tubos INOX	75	Ferragens
+401	Chapa em alumínio	75	Ferragens
+402	Insumos metálicos	75	Ferragens
+405	Polias e rolamentos	75	Ferragens
+406	Correias e correntes	75	Ferragens
+409	Conteineres	75	Ferragens
+420	Selantes	75	Ferragens
+427	Tela, cerca e gabião em aço	75	Ferragens
+439	Perfis e chapas em aço carbono	75	Ferragens
+464	Chapas INOX	75	Ferragens
+467	Parafusos e acessórios	75	Ferragens
+468	Parafuso tipo U	75	Ferragens
+477	Arames e Cabos de Aço	75	Ferragens
+480	Pregos	75	Ferragens
+119	Acessórios e Consumíveis para Ferramentas	76	Ferramentas
+121	Ferramentas Automotivas	76	Ferramentas
+122	Ferramentas de Medição	76	Ferramentas
+123	Ferramentas Elétricas/Bateria	76	Ferramentas
+124	Ferramentas Manuais	76	Ferramentas
+125	Ferramentas para Construção	76	Ferramentas
+126	Ferramentas para Jardim	76	Ferramentas
+127	Ferramentas   para Pintura	76	Ferramentas
+128	Ferramentas para Solda	76	Ferramentas
+129	Ferramentas por Profissão	76	Ferramentas
+130	Máquinas Elétricas	76	Ferramentas
+131	Organização e Transporte de Ferramentas	76	Ferramentas
+288	Outros - Ferramentas	76	Ferramentas
+132	Abajures	77	Iluminação
+133	Arandelas	77	Iluminação
+134	Balizadores	77	Iluminação
+135	Cordões de Luz	77	Iluminação
+136	Espetos Para Jardim	77	Iluminação
+137	Fitas de Luz  LED	77	Iluminação
+138	Lâmpadas	77	Iluminação
+139	Luminárias	77	Iluminação
+140	Lustres e Pendentes	77	Iluminação
+141	Plafons e Plafoniers	77	Iluminação
+142	Postes de Jardim	77	Iluminação
+143	Refletores	77	Iluminação
+144	Spots	77	Iluminação
+145	Ventiladores de Teto	77	Iluminação
+289	Outros - Iluminação	77	Iluminação
+444	Iluminação Pública	77	Iluminação
+469	Suporte para iluminação em poste	77	Iluminação
+146	Barreiras de Proteção	80	Madeiras
+147	Chapas e Painéis	80	Madeiras
+148	Escadas Fixas	80	Madeiras
+149	Espelhos a Metro	80	Madeiras
+150	Forros	80	Madeiras
+151	Madeiras para Bricolagem	80	Madeiras
+152	Madeiras para Construção	80	Madeiras
+153	Madeiras para Telhado	80	Madeiras
+154	Pallets	80	Madeiras
+155	Pisos de Madeira	80	Madeiras
+156	Produtos para Madeira	80	Madeiras
+157	Tampos e Pés de Mesa	80	Madeiras
+158	Rodapés	80	Madeiras
+290	Outros - Madeiras	80	Madeiras
+37	Gesso e Drywall	81	Construção Civil
+159	Aços para Construção	81	Construção Civil
+160	Argamassas	81	Construção Civil
+161	Areia, Pedra Brita, Gesso, Cal e Argila	81	Construção Civil
+162	Armazenamento, Captação e Tratamento de Água	81	Construção Civil
+163	Barras, Tubos e Chapas Metalon	81	Construção Civil
+164	Barreiras de Proteção	81	Construção Civil
+165	Tijolos e Blocos Estruturais	81	Construção Civil
+166	Calhas, Rufos e Algerosas	81	Construção Civil
+167	Cercados e Segurança	81	Construção Civil
+168	Churrasqueiras	81	Construção Civil
+169	Cimentos	81	Construção Civil
+170	Conduítes	81	Construção Civil
+171	Construção Seca	81	Construção Civil
+172	Equipamentos para Construção	81	Construção Civil
+173	Escadas Profissionais	81	Construção Civil
+174	Fornos e Fogões de Concreto	81	Construção Civil
+175	Impermeabilizantes	81	Construção Civil
+176	Isolamento	81	Construção Civil
+177	Lareiras	81	Construção Civil
+178	Lona, Papelão e Plástico Bolha	81	Construção Civil
+179	Madeiras para Construção	81	Construção Civil
+180	Madeiras para Telhado	81	Construção Civil
+181	Pré-moldados	81	Construção Civil
+182	Sacos de Entulho	81	Construção Civil
+183	Telhas Cerâmicas	81	Construção Civil
+184	Elementos Vazados Cobogós	81	Construção Civil
+185	Blocos de Vidro	81	Construção Civil
+186	Toldos e Coberturas	81	Construção Civil
+187	Materiais para Obras	81	Construção Civil
+291	Outros - Materiais de Construção	81	Construção Civil
+298	Vidros	81	Construção Civil
+308	Fibra de Vidro	81	Construção Civil
+341	Espuma Expansiva	81	Construção Civil
+371	Acessórios para telhado	81	Construção Civil
+429	Poste de fibra de vidro	81	Construção Civil
+430	Poste de madeira	81	Construção Civil
+445	Divisórias em Granilite	81	Construção Civil
+456	Casas pré-fabricadas	81	Construção Civil
+457	Casas modulares	81	Construção Civil
+458	Casa Container	81	Construção Civil
+459	Casa em Steel-Frame	81	Construção Civil
+460	Perfis para Steel Frame	81	Construção Civil
+466	Minerais	81	Construção Civil
+476	Tijolos Refratários	81	Construção Civil
+483	Telhas Fibrocimento	81	Construção Civil
+484	Telhas Metálicas	81	Construção Civil
+485	Telhas Translúcidas	81	Construção Civil
+11	Infraestrutura	82	Materiais Elétricos
+13	Condutos	82	Materiais Elétricos
+14	Para Raios e SPDA	82	Materiais Elétricos
+15	Subestações e Alta Tensão	82	Materiais Elétricos
+16	Sistemas	82	Materiais Elétricos
+17	Equipamentos	82	Materiais Elétricos
+18	Outros Elétricos	82	Materiais Elétricos
+31	Componentes	82	Materiais Elétricos
+34	Luminárias	82	Materiais Elétricos
+38	Proteções Elétricas	82	Materiais Elétricos
+40	Tomadas, interruptores e plugues	82	Materiais Elétricos
+188	Acessórios e Conexões Elétricas	82	Materiais Elétricos
+189	Cabos e Fios Elétricos	82	Materiais Elétricos
+190	Disjuntores e Fusíveis	82	Materiais Elétricos
+191	Eletricista	82	Materiais Elétricos
+192	Estabilizadores	82	Materiais Elétricos
+193	Extensões Elétricas e Filtros de Linha	82	Materiais Elétricos
+194	Fontes de Energia	82	Materiais Elétricos
+195	Nobreaks	82	Materiais Elétricos
+196	Plugs e Adaptadores	82	Materiais Elétricos
+197	Quadros e Caixas Elétricas	82	Materiais Elétricos
+198	Reatores e Soquetes	82	Materiais Elétricos
+199	Resistências Elétricas	82	Materiais Elétricos
+201	Tomadas e Interruptores Específicos	82	Materiais Elétricos
+202	Transformadores de Energia	82	Materiais Elétricos
+203	Tubos e Eletrodutos	82	Materiais Elétricos
+292	Outros - Materiais Elétricos	82	Materiais Elétricos
+302	Baterias	82	Materiais Elétricos
+303	Eletrocalhas	82	Materiais Elétricos
+339	Geradores de Energia	82	Materiais Elétricos
+19	Água Quente	83	Materiais Hidráulicos
+20	Água Fria	83	Materiais Hidráulicos
+21	Sanitário	83	Materiais Hidráulicos
+22	Outros	83	Materiais Hidráulicos
+204	Acessórios Hidráulicos	83	Materiais Hidráulicos
+205	Aquecedores de Água	83	Materiais Hidráulicos
+206	Caixas de Esgoto	83	Materiais Hidráulicos
+207	Canos e Conexões Hidráulicas	83	Materiais Hidráulicos
+208	Chuveiros	83	Materiais Hidráulicos
+210	Descargas	83	Materiais Hidráulicos
+211	Duchas	83	Materiais Hidráulicos
+212	Pressurizadores de Água	83	Materiais Hidráulicos
+213	Ralos e Grelhas	83	Materiais Hidráulicos
+214	Registros e Bases	83	Materiais Hidráulicos
+215	Acabamentos para Registro	83	Materiais Hidráulicos
+216	Sifão para Pia	83	Materiais Hidráulicos
+217	Torneiras	83	Materiais Hidráulicos
+218	Acessórios para Torneiras e Misturadores	83	Materiais Hidráulicos
+219	Trituradores Sanitários	83	Materiais Hidráulicos
+220	Válvulas para Pia	83	Materiais Hidráulicos
+221	Misturadores para Bidê	83	Materiais Hidráulicos
+293	Outros - Materiais Hidráulicos	83	Materiais Hidráulicos
+423	Medição e instrumentação	83	Materiais Hidráulicos
+431	Carenagem hidraulica	83	Materiais Hidráulicos
+442	Caixas para Hidrômetros	83	Materiais Hidráulicos
+446	Anéis de Vedação	83	Materiais Hidráulicos
+454	Dutos e conexões PEAD	83	Materiais Hidráulicos
+475	Tubulação Defofo	83	Materiais Hidráulicos
+222	Acessórios para Pisos e Revestimentos	87	Pisos e Revestimentos
+223	Nichos para Banheiro	87	Pisos e Revestimentos
+224	Pastilhas	87	Pisos e Revestimentos
+225	Pedras Naturais e Mosaicos	87	Pisos e Revestimentos
+226	Pisos Cerâmicos	87	Pisos e Revestimentos
+227	Pisos Laminados	87	Pisos e Revestimentos
+228	Pisos Vinílicos	87	Pisos e Revestimentos
+229	Porcelanatos	87	Pisos e Revestimentos
+230	Produtos para Aplicação e Acabamento	87	Pisos e Revestimentos
+231	Revestimentos Externos	87	Pisos e Revestimentos
+232	Revestimentos Internos	87	Pisos e Revestimentos
+233	Rodapés	87	Pisos e Revestimentos
+234	Todos os Pisos	87	Pisos e Revestimentos
+235	Todos os Revestimentos de Parede	87	Pisos e Revestimentos
+294	Outros - Pisos e Revestimentos	87	Pisos e Revestimentos
+321	Pavimentaço	87	Pisos e Revestimentos
+338	Piso Podotátil	87	Pisos e Revestimentos
+433	Piso Elevado	87	Pisos e Revestimentos
+453	Pisos de Borracha	87	Pisos e Revestimentos
+470	Marmores e Granitos	87	Pisos e Revestimentos
+236	Acessórios de Portas e Janelas	88	Portas, Janelas e Portões
+237	Batentes e Guarnições	88	Portas, Janelas e Portões
+238	Biombos	88	Portas, Janelas e Portões
+239	Janelas e Venezianas	88	Portas, Janelas e Portões
+240	Portas e esquadrias	88	Portas, Janelas e Portões
+241	Portões	88	Portas, Janelas e Portões
+242	Puxadores	88	Portas, Janelas e Portões
+243	Redes de Proteção	88	Portas, Janelas e Portões
+244	Telas Mosquiteiras	88	Portas, Janelas e Portões
+245	Toldos e Coberturas	88	Portas, Janelas e Portões
+246	Vidros para Sacadas	88	Portas, Janelas e Portões
+295	Outros - Portas, Janelas e Portões	88	Portas, Janelas e Portões
+367	Roldanas	88	Portas, Janelas e Portões
+247	Alarmes e Sensores de Presença	89	Segurança e Comunicação
+248	Automatizadores de Portões	89	Segurança e Comunicação
+249	Cadeados	89	Segurança e Comunicação
+250	Câmeras de Segurança e CFTV	89	Segurança e Comunicação
+251	Campainhas	89	Segurança e Comunicação
+252	Casa Conectada	89	Segurança e Comunicação
+253	Cofres	89	Segurança e Comunicação
+256	Fechaduras e Travas	89	Segurança e Comunicação
+257	Iluminação de Segurança	89	Segurança e Comunicação
+258	Informática	89	Segurança e Comunicação
+259	Interfones e Vídeos Porteiros	89	Segurança e Comunicação
+260	Proteção do Bebê	89	Segurança e Comunicação
+261	Proteção do Idoso	89	Segurança e Comunicação
+262	Sinalização, Letras e Números	89	Segurança e Comunicação
+263	Suportes para Eletro	89	Segurança e Comunicação
+264	Telefones	89	Segurança e Comunicação
+265	TV e Áudio	89	Segurança e Comunicação
+266	Segurança e Comunicação	89	Segurança e Comunicação
+296	Outros - Segurança e Comunicação	89	Segurança e Comunicação
+267	Adesivos e Colas	90	Tintas e Acessórios
+268	Corantes	90	Tintas e Acessórios
+269	Fitas	90	Tintas e Acessórios
+270	Massa Acrílica	90	Tintas e Acessórios
+271	Massa Corrida e Niveladora	90	Tintas e Acessórios
+272	Pincéis, Rolos e Acessórios	90	Tintas e Acessórios
+273	Pintura de Efeito	90	Tintas e Acessórios
+274	Produtos para Madeira	90	Tintas e Acessórios
+275	Produtos para Metais e Ferros	90	Tintas e Acessórios
+276	Proteção para Pintura	90	Tintas e Acessórios
+277	Seladores e Fundos	90	Tintas e Acessórios
+278	Solventes e Removedores	90	Tintas e Acessórios
+279	Textura de Parede	90	Tintas e Acessórios
+280	Verniz e Solvente	90	Tintas e Acessórios
+281	Tintas Spray	90	Tintas e Acessórios
+282	Vedação e Impermeabilização	90	Tintas e Acessórios
+297	Outros - Tintas e Acessórios	90	Tintas e Acessórios
+418	Tintas	90	Tintas e Acessórios
+481	Tinta de Sinalização	90	Tintas e Acessórios
+299	Automação Residencial	91	Automação
+300	Automação Industrial	91	Automação
+312	Inversores	91	Automação
+392	Controladores de FP	91	Automação
+393	Controlador de Demanda	91	Automação
+397	Medidores de Energia	91	Automação
+304	Notebooks	92	Informática
+463	Monitor	92	Informática
+482	Racks de TI	92	Informática
+307	Seguros	93	Serviços
+314	Construção Civil	93	Serviços
+318	Apoio e Administrativo	93	Serviços
+320	Transportes	93	Serviços
+322	Serviços Mecânicos	93	Serviços
+342	Limpeza de obra	93	Serviços
+343	Projetos Arquitetônicos	93	Serviços
+344	Projetos Complementares	93	Serviços
+309	Kit Fotovoltaico	94	Fotovoltaico
+310	Painéis Fotovoltaicos	94	Fotovoltaico
+311	String Box	94	Fotovoltaico
+313	Conectores	94	Fotovoltaico
+325	Suporte e Fixação	94	Fotovoltaico
+326	Cabos Blindados	94	Fotovoltaico
+327	Sistemas de Monitoramento	94	Fotovoltaico
+328	Piranômetro	94	Fotovoltaico
+329	Estacionamento Solar	94	Fotovoltaico
+330	Estacas de Fundação	94	Fotovoltaico
+331	Outros - Fotovoltaicos	94	Fotovoltaico
+332	Baterias	94	Fotovoltaico
+333	Controlador de Carga	94	Fotovoltaico
+334	Iluminação Solar	94	Fotovoltaico
+335	Seguidores (trackers)	94	Fotovoltaico
+336	Medidores Bidirecionais	94	Fotovoltaico
+337	Eletrocentros	94	Fotovoltaico
+316	Sacos de Lixo	95	Materiais de Limpeza
+319	Produtos para Limpeza	95	Materiais de Limpeza
+340	Vegetação	96	Jardim e plantio
+472	Terra vegetal (substrato)	96	Jardim e plantio
+345	Ferramentas para Pavimentação	98	Pavimentação
+346	Usina de Asfalto	98	Pavimentação
+347	Vibroacabadoras	98	Pavimentação
+348	Rolos Compactadores	98	Pavimentação
+349	Frasadores e Recicladoras de Asfalto	98	Pavimentação
+350	Vassouras Mecânicas	98	Pavimentação
+351	Caminhões Espargidores	98	Pavimentação
+352	Filtro de manga	98	Pavimentação
+353	Britadores	98	Pavimentação
+354	Terraplenagem	98	Pavimentação
+355	Outros - Pavimentação	98	Pavimentação
+434	Pisos de concreto	98	Pavimentação
+436	Manta e Produtos Asfálticos	98	Pavimentação
+437	Tampões e Grelhas	98	Pavimentação
+438	Usina de Solo	98	Pavimentação
+356	Instalações Elétricas Baixa tensão	99	Serviços Elétricos
+357	Manutenção em redes de distribuição	99	Serviços Elétricos
+358	Manutenção Alta Tensão	99	Serviços Elétricos
+359	Instalações Fotovoltaicas	99	Serviços Elétricos
+360	Análises, medições e termografia	99	Serviços Elétricos
+255	EPI: Equipamentos Proteção Individual	100	Segurança do Trabalho
+363	EPC: Equipamentos de Proteção Coletiva	100	Segurança do Trabalho
+365	Placa de obra	100	Segurança do Trabalho
+486	Serviços de SST	100	Segurança do Trabalho
+254	Combate a Incêndio	101	Proteção Contra Incêndio
+374	Abrigos para EPIs	101	Proteção Contra Incêndio
+375	Abrigos para extintores	101	Proteção Contra Incêndio
+376	Abrigos para mangueiras	101	Proteção Contra Incêndio
+377	Alarme de incêndio convencional	101	Proteção Contra Incêndio
+378	Alarme de incêndio endereçável	101	Proteção Contra Incêndio
+379	Alarme de incêndio Wifi	101	Proteção Contra Incêndio
+380	Bombas de combate a incêndio	101	Proteção Contra Incêndio
+381	Conexões	101	Proteção Contra Incêndio
+382	Extintores de incêndio	101	Proteção Contra Incêndio
+383	Materiais hidráulicos	101	Proteção Contra Incêndio
+384	Líquidos geradores de espuma	101	Proteção Contra Incêndio
+385	Mangueiras de incêndio	101	Proteção Contra Incêndio
+386	Placas de sinalização de segurança	101	Proteção Contra Incêndio
+387	Portas corta fogo	101	Proteção Contra Incêndio
+388	Sprinklers	101	Proteção Contra Incêndio
+389	Suporte para extintores	101	Proteção Contra Incêndio
+390	Rede de hidrantes	101	Proteção Contra Incêndio
+391	Acessórios	101	Proteção Contra Incêndio
+428	Test Subcategory	101	Proteção Contra Incêndio
+447	Lubrificantes	102	Produtos Químicos
+448	Desengraxantes	102	Produtos Químicos
+449	Desengripantes	102	Produtos Químicos
+450	Travas Químicas	102	Produtos Químicos
+451	Soldas Frias	102	Produtos Químicos
+452	Adesivos e Selantes	102	Produtos Químicos
+424	Equipamentos de laboratório	103	Equipamentos hospitalares
